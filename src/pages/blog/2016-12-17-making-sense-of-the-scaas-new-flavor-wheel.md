@@ -1,32 +1,68 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Go To Lisbon
+date: 2019-01-09T17:03:00.000Z
+description: >-
+  We're starting a new adventure, a tour of a few European Countries, starting
+  in Lisbon Portgual
 tags:
-  - flavor
-  - tasting
+  - Travel
+  - Lisbon
 ---
+![Coffee Tour](/img/products-grid2.jpg "Coffee Tour")
 
-![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+> When you see someone putting on his big, you can be pretty sure that an adventure is going to happen.
+>
+> Winnie The Pooh
 
-## What the updates mean to you
+# What Are we Doing Here?
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+We've spent the last 5 days in Lisbon, Portugal. To understand how we ended
+up in Lisbon you've got to know a few things about us.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+1. We don't really want to be cold
+2. We haven't seen much of Europe
+3. We like port...
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+## Avoiding The Cold
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+We're Canadian. Cold isn't the worst thing, but if can be avoided, why not!
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## Seeing Europe
+
+We've established that cold avoidance was a driving factor in our decision making.
+There are many places you could go in the World to avoid the cold, but we choose Europe.
+We haven't seen much of Europe together so why check it now! Having established that we
+wanted to see Europe together a quick look at a map showed that Portugal is positioned
+nicely south, providing a strong chance of achieving that cold avoid goal while still
+being in Europe.
+
+## Bonus: Flights to Lisbon Seemed Fairly Cheap!
+
+We don't always fly, but when we do, we fly direct...
+
+Thats a lie, but its certainly our aspiration in the case of getting to Lisbon
+our reality.
+
+It was settled, we had the foundation of a plan.
+
+## Success Achieved?
+
+You're likely thinking, "Lisbon is not that warm in January you fool!"...
+
+If you thought that you're right! Where were you 2 months ago when this idea jumped
+in to our heads?
+
+It may not be the warmest place but its also not sub-zero (C) with snow. In fact
+it occupies a really nice range of temperatures 5C - 15C, which in our view achieves
+the goal of _avoiding the cold_. We won't be sweating, but that OK, we didn't set
+out on this trip to sweat, just to avoid the cold. Goal achieved!
+
+We're in Europe! Goal achieved!
+
+As mentioned, cheap & direct flights! Not really a driving goal, but certainly
+important. Goal Achieved!
+
+Did we mention that we love Port? Well we do! Bonus Goal!
