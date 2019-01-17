@@ -1,20 +1,20 @@
 import Typography from 'typography';
 import deYoung from "typography-theme-de-young";
 
-/*
+
 deYoung.googleFonts = [
     {
-      name: 'Alegreya',
+      name: 'Fjalla One',
       styles: ['500'],
     },
     {
-      name: 'Alegreya Sans',
+      name: 'Source Sans Pro',
       styles: ['400', '400i', '700', '700i'],
     },
   ]
-deYoung.headerFontFamily = ['Alegreya', 'sans-serif']
-deYoung.bodyFontFamily = ['Alegreya Sans', 'sans-serif']
-*/
+deYoung.headerFontFamily = ['Fjalla One', 'sans-serif']
+deYoung.bodyFontFamily = ['Source Sans Pro', 'sans-serif']
+
 const typography = new Typography({
   ...deYoung
 });

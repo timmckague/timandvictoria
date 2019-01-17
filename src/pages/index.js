@@ -13,32 +13,36 @@ export default class IndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+              <h1 className="has-text-weight-light is-size-4">
+                Find out what we've been up to lately
+              </h1>
             </div>
+            <div className="columns is-multiline">
+
             {posts
               .map(({ node: post }) => (
-                <div
-                  className="content"
-                  style={{ border: '1px solid #333', padding: '2em 4em' }}
-                  key={post.id}
-                >
-                  <p>
-                    <Link className="has-text-primary" to={post.fields.slug}>
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <small>{post.frontmatter.date}</small>
-                  </p>
-                  <p>
-                    {post.excerpt}
-                    <br />
-                    <br />
-                    <Link className="button is-small" to={post.fields.slug}>
-                      Keep Reading →
-                    </Link>
-                  </p>
+                <div className="column is-half" key={post.id}>
+                <div className="card">
+                  <div className="card-image">
+                    <figure className="image is-3by2">
+                      <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder" />
+                    </figure>
+                  </div>
+                  <div className="card-content">
+                    <div className="content">
+                      <Link className="has-text-primary" to={post.fields.slug}>
+                        <h2>{post.frontmatter.title}</h2>
+                      </Link>
+                      <div>
+                        {post.frontmatter.description}
+                      </div>
+                      <div>{post.frontmatter.date}</div>
+                    </div>
+                  </div>
+                </div>
                 </div>
               ))}
+            </div>
           </div>
         </section>
       </Layout>
@@ -69,6 +73,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            description
             templateKey
             date(formatString: "MMMM DD, YYYY")
           }
