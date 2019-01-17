@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Go To Lisbon
 date: 2019-01-09T17:03:00.000Z
+heroImage: /img/jumbotron.jpg
 description: >-
   We're starting a new adventure, a tour of a few European Countries, starting
   in Lisbon Portgual

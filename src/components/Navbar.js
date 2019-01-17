@@ -33,7 +33,7 @@ const Navbar = class extends React.Component {
  render() {
    return (
 
-  <nav className="navbar is-transparent" role="navigation" aria-label="main-navigation">
+  <nav className="navbar is-transparent navbar is-fixed-top" role="navigation" aria-label="main-navigation">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item is-transparent" title="Logo">

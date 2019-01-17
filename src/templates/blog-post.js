@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+//import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const BlogPostTemplate = ({
   content,
@@ -13,19 +14,41 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  //heroImage,
 }) => {
   const PostContent = contentComponent || Content
 
   return (
+    <React.Fragment>
+    <section class="hero is-primary is-medium">
+      <div class="hero-body">
+        <div
+          class="container"
+
+        >
+        {/*
+        style={{
+          backgroundImage: `url(${
+            !!heroImage.childImageSharp
+              ? heroImage.childImageSharp.fluid.src
+              : heroImage
+          })`,
+        }}
+        */}
+          <h1 class="title">
+            {title}
+          </h1>
+          <h2 class="subtitle">
+            {description}
+          </h2>
+        </div>
+      </div>
+    </section>
     <section className="section">
       {helmet || ''}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -43,6 +66,7 @@ export const BlogPostTemplate = ({
         </div>
       </div>
     </section>
+    </React.Fragment>
   )
 }
 
@@ -52,6 +76,7 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  //heroImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
 const BlogPost = ({ data }) => {
@@ -73,6 +98,7 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        //heroImage={post.frontmatter.heroImage}
       />
     </Layout>
   )
@@ -96,6 +122,7 @@ export const pageQuery = graphql`
         title
         description
         tags
+
       }
     }
   }
