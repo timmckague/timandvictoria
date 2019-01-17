@@ -14,33 +14,25 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
-  //heroImage,
+  heroImage,
 }) => {
   const PostContent = contentComponent || Content
 
   return (
     <React.Fragment>
-    <section class="hero is-primary is-medium">
-      <div class="hero-body">
+    <section className="hero is-medium">
+      <div className="container">
         <div
-          class="container"
-
-        >
-        {/*
-        style={{
-          backgroundImage: `url(${
-            !!heroImage.childImageSharp
-              ? heroImage.childImageSharp.fluid.src
-              : heroImage
-          })`,
-        }}
-        */}
-          <h1 class="title">
-            {title}
-          </h1>
-          <h2 class="subtitle">
-            {description}
-          </h2>
+          className="hero-body"
+          style={{
+            backgroundImage: `url(${
+              !!heroImage.childImageSharp
+                ? heroImage.childImageSharp.fluid.src
+                : heroImage
+            })`,
+            backgroundSize: 'cover',
+            backgroundPosition: 'center'}}
+          >
         </div>
       </div>
     </section>
@@ -49,6 +41,12 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+            <h1 className="title">
+              {title}
+            </h1>
+            <h2 className="subtitle has-text-weight-light">
+              {description}
+            </h2>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -76,12 +74,11 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
-  //heroImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  heroImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-
   return (
     <Layout>
       <BlogPostTemplate
@@ -98,7 +95,7 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
-        //heroImage={post.frontmatter.heroImage}
+        heroImage={post.frontmatter.heroImage}
       />
     </Layout>
   )
@@ -122,7 +119,13 @@ export const pageQuery = graphql`
         title
         description
         tags
-
+        heroImage {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
