@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Travel to Lisbon
 date: 2019-01-16T18:28:31.227Z
-heroImage: /img/jumbotron.jpg
-description: Our top five favourite things to do in Portugal's capital
+description: Our top five favourite things to do in Portugal's capital city
+image: /img/blog-4402.jpg
 tags:
   - travel
   - portugal
@@ -31,7 +31,7 @@ Our favourite is close to our apartment, in the [Principe Real Garden](https://g
 
 ![Reading at Fabrica Coffee Roasters](/img/blog-5833.jpg)
 
-As nice as the parks are for hanging out, Lisbon is going through a cold spell right now, and so some time inside is necessary.
+As nice as the parks are for hanging out, Lisbon is going through a cold spell right now, and so some time inside is necessary. 
 
 The best coffee we’ve had so far in Lisbon has been at [Fabrica Coffee Roasters](https://www.fabricacoffeeroasters.com/). It’s not a very laptop friendly coffee shop, but it was a great place to spend some time reading our books. (Tim’s currently reading Security Analysis by Graham and Dodd, while I’m reading Principles by Ray Dalio).
 
