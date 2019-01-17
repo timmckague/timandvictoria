@@ -23,6 +23,7 @@ export default class IndexPage extends React.Component {
               {posts
                 .map(({ node: post }) => (
                   <div className="column is-half" key={post.id}>
+                  <Link to={`\/${post.fields.slug}\/`}>
                     <div className="card">
                       <div className="card-image">
                         <Img style={{height: 300}} className="image is-3by2" fluid={post.frontmatter.heroImage.childImageSharp.fluid} alt={'blog thumbnail'} />
@@ -35,6 +36,7 @@ export default class IndexPage extends React.Component {
                         </div>
                       </div>
                     </div>
+                    </Link>
                   </div>
                 ))}
             </div>
