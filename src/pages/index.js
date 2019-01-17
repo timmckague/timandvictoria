@@ -2,6 +2,8 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Img from 'gatsby-image'
 
 export default class IndexPage extends React.Component {
   render() {
@@ -18,30 +20,23 @@ export default class IndexPage extends React.Component {
               </h1>
             </div>
             <div className="columns is-multiline">
-
-            {posts
-              .map(({ node: post }) => (
-                <div className="column is-half" key={post.id}>
-                <div className="card">
-                  <div className="card-image">
-                    <figure className="image is-3by2">
-                      <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder" />
-                    </figure>
-                  </div>
-                  <div className="card-content">
-                    <div className="content">
-                      <Link className="has-text-primary" to={post.fields.slug}>
-                        <h2>{post.frontmatter.title}</h2>
-                      </Link>
-                      <div>
-                        {post.frontmatter.description}
+              {posts
+                .map(({ node: post }) => (
+                  <div className="column is-half" key={post.id}>
+                    <div className="card">
+                      <div className="card-image">
+                        <Img style={{height: 300}} className="image is-3by2" fluid={post.frontmatter.heroImage.childImageSharp.fluid} alt={'blog thumbnail'} />
                       </div>
-                      <div>{post.frontmatter.date}</div>
+                      <div className="card-content">
+                        <div className="content">
+                          <h2 className="is-marginless">{post.frontmatter.title}</h2>
+                          <div>{post.frontmatter.description}</div>
+                          <div>{post.frontmatter.date}</div>
+                        </div>
+                      </div>
                     </div>
                   </div>
-                </div>
-                </div>
-              ))}
+                ))}
             </div>
           </div>
         </section>
@@ -74,6 +69,13 @@ export const pageQuery = graphql`
           frontmatter {
             title
             description
+            heroImage {
+              childImageSharp {
+                fluid(maxWidth: 526, quality: 92) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             templateKey
             date(formatString: "MMMM DD, YYYY")
           }
