@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Img from 'gatsby-image'
 
 export default class IndexPage extends React.Component {
@@ -23,7 +22,7 @@ export default class IndexPage extends React.Component {
               {posts
                 .map(({ node: post }) => (
                   <div className="column is-half" key={post.id}>
-                  <Link to={`\/${post.fields.slug}\/`}>
+                  <Link to={`/${post.fields.slug}/`}>
                     <div className="card">
                       <div className="card-image">
                         <Img style={{height: 300}} className="image is-3by2" fluid={post.frontmatter.heroImage.childImageSharp.fluid} alt={'blog thumbnail'} />
