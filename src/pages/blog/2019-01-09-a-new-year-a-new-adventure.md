@@ -2,21 +2,19 @@
 templateKey: blog-post
 title: Go To Lisbon
 date: 2019-01-09T17:03:00.000Z
-heroImage: /img/jumbotron.jpg
 description: >-
   We're starting a new adventure, a tour of a few European Countries, starting
   in Lisbon Portgual
+heroImage: /img/jumbotron.jpg
 tags:
   - Travel
   - Lisbon
 ---
 ![Coffee Tour](/img/products-grid2.jpg "Coffee Tour")
 
-
-
 > When you see someone putting on his big, you can be pretty sure that an adventure is going to happen.
 >
-> Winnie The Pooh
+> \- Winnie The Pooh
 
 # What Are we Doing Here?
 
