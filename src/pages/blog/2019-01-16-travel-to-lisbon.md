@@ -29,7 +29,7 @@ Our favourite is close to our apartment, in the Principe Real Garden. We get the
 
 Jardim Fialho de Almeida is our runner-up favourite park . A much quieter alternative than Principe Real, we enjoyed picking up gelato from Nannarella’s down the street and bringing it to the tranquility of this park.
 
-3. Spend an afternoon working at Copenhagen Coffee Lab and reading at Fabrica Coffee Roasters
+## 3. Spend an afternoon at Copenhagen Coffee Lab and Fabrica 
 
 ![Reading at Fabrica Coffee Roasters](/img/blog-5833.jpg)
 
