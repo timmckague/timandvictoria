@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Travel to Lisbon
 date: 2019-01-16T18:28:31.227Z
 description: Our top five favourite things to do in Portugal's capital city
+heroImage: /img/blog-5714.jpg
 tags:
   - travel
   - portugal
@@ -12,7 +13,7 @@ Lisbon has been a great city to start our four month European adventure. Spendin
 
 ## 1. Wander the hilly streets and stumble upon a miradouro
 
-![Miradoura Santa Luzia](/img/blog-5709.jpg)
+![Lisbon miradouro](/img/blog-5658.jpg)
 
 Lisbon’s streets are beautiful to meander. You have to be prepared for a hill workout, but will be rewarded with lovely stone sidewalks underfoot, brightly coloured buildings, many with tiled facades, and numerous lookouts (miradouros) with views of the city and river.
 
@@ -20,7 +21,7 @@ There are many great viewpoints, but our favourite was [Miradouro de Santa Luzia
 
 ## 2. Drink coffee and picnic in Principe Real Garden
 
-![Jardin Principal Real](/img/blog-5677.jpg)
+![Jardin Principe Real](/img/blog-5677.jpg)
 
 When your legs need a break from Lisbon’s hills, take a stop at a coffee kiosk in one of Lisbon’s many parks. These permanent coffee stands are often very reasonably priced, and are the perfect spot to soak up the sun and watch the world go by.
 
