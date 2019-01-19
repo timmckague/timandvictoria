@@ -2,7 +2,7 @@
 templateKey: about-page
 title: Get to know us
 ---
-![Tim and Victoria](/img/blog_aboutus.jpg)
+![Tim and Victoria](/img/blog_aboutus2.jpg)
 
 Hi and welcome to our blog! We are Tim and Victoria, adventurers from Toronto, Canada. 
 
