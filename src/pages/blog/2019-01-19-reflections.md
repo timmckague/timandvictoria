@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Reflections
 date: 2019-01-19T20:19:32.883Z
-description: Reflections on hedonic adaptation and well-being
+description: Reflection on changing things up and hedonic adaptation
 heroImage: /img/blog-5709.jpg
 tags:
   - reflection
