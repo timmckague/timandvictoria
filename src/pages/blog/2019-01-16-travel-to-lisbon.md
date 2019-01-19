@@ -23,13 +23,13 @@ There are many great viewpoints, but our favourite was [Miradouro de Santa Luzia
 
 ![Jardin Principe Real](/img/blog-5677.jpg)
 
-When our legs need a break from Lisbon’s hills, we take a break at a coffee kiosk in one of Lisbon’s many parks. We find these permanent coffee stands very reasonably priced, and the perfect spot to soak up the sun and watch the world go by.
+When our legs need a break from Lisbon’s hills, we take a break at a coffee kiosk in one of Lisbon’s many parks. We find these permanent stands very reasonably priced, and the perfect spot to soak up the sun and watch the world go by.
 
-Our favourite is close to our apartment, in the Principe Real Garden. We get the impression that this park is loved by its neighborhood’s residents, not just tourists, as evidence by the card tournaments that happen in the west end of the park, and the number of children making use of the play structures. We enjoyed making us of the picnic tables on the West side of the park for a picnic dinner one night.
+Our favourite is close to our apartment, in the Principe Real Garden. We get the impression that this park is loved by its neighborhood’s residents, not just tourists, as evidence by the card tournaments that happen in the west end of the park, and the number of children making use of the play structures. We made use of the picnic tables on the West side of the park for a picnic dinner one night.
 
-Jardim Fialho de Almeida is our runner-up favourite park . A much quieter alternative than Principe Real, we enjoyed picking up gelato from Nannarella’s down the street and bringing it to the tranquility of this park.
+Jardim Fialho de Almeida is our runner-up favourite park . A much quieter alternative than Principe Real, we picked up gelato from Nannarella’s down the street and enjoyed it in the tranquility of this park.
 
-## 3. Spend an afternoon at Copenhagen Coffee Lab and Fabrica 
+## 3. Spend an afternoon at Copenhagen Coffee Lab and Fabrica
 
 ![Reading at Fabrica Coffee Roasters](/img/blog-5833.jpg)
 
