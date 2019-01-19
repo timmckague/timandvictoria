@@ -8,6 +8,10 @@ tags:
   - reflection
   - journal
 ---
+```
+“Be present in all things and thankful for all things.” ― Maya Angelou
+```
+
 We both really enjoyed the slowness of our first ten days in Lisbon. Reading, walking, running, observing, reflecting, some work, learning...the change of spending more time on these activities feels good.
 
 The course I am taking “The Science of Well-Being” by Laurie Santos, a professor at Yale, talks about how we have this annoying trait of hedonic adaptation. We get used to things, and so over time they don’t make us as happy as they once did. In this week’s lectures she talks about several ways to overcome this annoying feature of hedonic adaptation, of which two of them are:
