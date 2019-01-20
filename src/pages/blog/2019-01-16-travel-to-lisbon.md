@@ -9,7 +9,7 @@ tags:
   - portugal
   - lisbon
 ---
-Lisbon has been a great city to start our four month European adventure. Spending two weeks here has given us the opportunity to travel slowly, spending time getting lost in Lisbon’s windy streets, going up and down the city’s never ending hills, and spending afternoons in coffee shops and parks. Here are our top five favourite things to do in Lisbon.
+Lisbon has been a great city to start our four month European adventure. Spending two weeks here has given us the opportunity to travel slowly, spending time getting lost in Lisbon’s winding streets, going up and down the city’s never ending hills, and spending afternoons in coffee shops and parks. Here are our top five favourite things to do in Lisbon.
 
 ## 1. Wander the hilly streets and stumble upon a miradouro
 
@@ -23,13 +23,13 @@ There are many great viewpoints, but our favourite was [Miradouro de Santa Luzia
 
 ![Jardin Principe Real](/img/blog-5677.jpg)
 
-When our legs need a break from Lisbon’s hills, we take a break at a coffee kiosk in one of Lisbon’s many parks. We find these permanent coffee stands very reasonably priced, and the perfect spot to soak up the sun and watch the world go by.
+When our legs need a break from Lisbon’s hills, we take a break at a coffee kiosk in one of Lisbon’s many parks. We find these permanent stands very reasonably priced, and the perfect spot to soak up the sun and watch the world go by.
 
-Our favourite is close to our apartment, in the Principe Real Garden. We get the impression that this park is loved by its neighborhood’s residents, not just tourists, as evidence by the card tournaments that happen in the west end of the park, and the number of children making use of the play structures. We enjoyed making us of the picnic tables on the West side of the park for a picnic dinner one night.
+Our favourite is close to our apartment, in the [Principe Real Garden](https://goo.gl/maps/iiM7bb6sAT32). We get the impression that this park is loved by its neighbourhood’s residents, not just tourists, as evidence by the card tournaments that happen in the west end of the park, and the number of children making use of the play structures. We made use of the picnic tables on the West side of the park for a picnic dinner one night.
 
-Jardim Fialho de Almeida is our runner-up favourite park . A much quieter alternative than Principe Real, we enjoyed picking up gelato from Nannarella’s down the street and bringing it to the tranquility of this park.
+[Jardim Fialho de Almeida](https://goo.gl/maps/un7fZ4xjxVz) is our runner-up favourite park . A much quieter alternative than Principe Real, we picked up gelato from Nannarella’s down the street and enjoyed it in the tranquility of this park.
 
-## 3. Spend an afternoon at Copenhagen Coffee Lab and Fabrica 
+## 3. Spend an afternoon at Copenhagen Coffee Lab and Fabrica
 
 ![Reading at Fabrica Coffee Roasters](/img/blog-5833.jpg)
 
@@ -52,4 +52,4 @@ We have yet to have a day in Lisbon without eating pasteis de nata. These delici
 Running in the city we encountered 1) serious hills, 2) narrow sidewalks, and 3) slippery stone sidewalks underfoot. We found it was a fun way to see new sights, but we quickly developed two favourite repeat running routes that allowed for a more stress-free run:
 
 1. Running along the waterfront. With a dedicated multi-use path for runners, walkers, cyclist, we were able to run uninhibited from traffic and enjoy the beautiful waterfront. We ran from our place down to Cais do Sodre, and then West to Ponte 25 de Abril. We had plans to run along the water to Belem, but unfortunately never made it that far. 
-2. Running laps around Parque Eduardo VII. The park makes for a great hill workout, and with a rewarding view over the city with the Tagus river in the distance. The path climbs almost 50 metres over half a kilometre, with the full loop clocking in at 1.3km.
+2. Running laps around [Parque Eduardo VII](https://goo.gl/maps/hLfV93XhtgQ2). The park makes for a great hill workout, and with a rewarding view over the city with the Tagus river in the distance. The path climbs almost 50 metres over half a kilometre, with the full loop clocking in at 1.3km.
