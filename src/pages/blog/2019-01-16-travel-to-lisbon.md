@@ -9,7 +9,7 @@ tags:
   - portugal
   - lisbon
 ---
-Lisbon has been a great city to start our four month European adventure. Spending two weeks here has given us the opportunity to travel slowly, spending time getting lost in Lisbon’s windy streets, going up and down the city’s never ending hills, and spending afternoons in coffee shops and parks. Here are our top five favourite things to do in Lisbon.
+Lisbon has been a great city to start our four month European adventure. Spending two weeks here has given us the opportunity to travel slowly, spending time getting lost in Lisbon’s winding streets, going up and down the city’s never ending hills, and spending afternoons in coffee shops and parks. Here are our top five favourite things to do in Lisbon.
 
 ## 1. Wander the hilly streets and stumble upon a miradouro
 
@@ -25,7 +25,7 @@ There are many great viewpoints, but our favourite was [Miradouro de Santa Luzia
 
 When our legs need a break from Lisbon’s hills, we take a break at a coffee kiosk in one of Lisbon’s many parks. We find these permanent stands very reasonably priced, and the perfect spot to soak up the sun and watch the world go by.
 
-Our favourite is close to our apartment, in the Principe Real Garden. We get the impression that this park is loved by its neighborhood’s residents, not just tourists, as evidence by the card tournaments that happen in the west end of the park, and the number of children making use of the play structures. We made use of the picnic tables on the West side of the park for a picnic dinner one night.
+Our favourite is close to our apartment, in the Principe Real Garden. We get the impression that this park is loved by its neighbourhood’s residents, not just tourists, as evidence by the card tournaments that happen in the west end of the park, and the number of children making use of the play structures. We made use of the picnic tables on the West side of the park for a picnic dinner one night.
 
 Jardim Fialho de Almeida is our runner-up favourite park . A much quieter alternative than Principe Real, we picked up gelato from Nannarella’s down the street and enjoyed it in the tranquility of this park.
 
