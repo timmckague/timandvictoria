@@ -47,6 +47,30 @@ $body-color: #333
 .fixed-height
   height: 120px
 
+.hero-wrapper
+  width: 100%
+  display: flex
+  justify-content: center
+  align-items: center
+
+.hero-image
+  width: 100%
+  max-width: 1200px
+  height: 450px
+  background-size: cover
+  background-position: center
+  position: relative
+  display: inline-block
+
+@media screen and (max-width: 450px)
+  .hero-image
+    height: 350px
+
+@media screen and (max-width: 320px)
+  .hero-image
+    height: 300px
+
+
 
 //#navMenu.navbar-menu
   position: fixed

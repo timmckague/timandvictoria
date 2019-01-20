@@ -20,22 +20,16 @@ export const BlogPostTemplate = ({
 
   return (
     <React.Fragment>
-    <section className="hero is-medium">
-      <div className="container">
-        <div
-          className="hero-body"
-          style={{
-            backgroundImage: `url(${
-              !!heroImage.childImageSharp
-                ? heroImage.childImageSharp.fluid.src
-                : heroImage
-            })`,
-            backgroundSize: 'cover',
-            backgroundPosition: 'center'}}
-          >
-        </div>
-      </div>
-    </section>
+    <div className="hero-wrapper">
+      <div className="hero-image" style={{
+        backgroundImage: `url(${
+          !!heroImage.childImageSharp
+            ? heroImage.childImageSharp.fluid.src
+            : heroImage
+        })`,
+      }}></div>
+    </div>
+
     <section className="section">
       {helmet || ''}
       <div className="container content">
