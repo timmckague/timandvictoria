@@ -24,8 +24,6 @@ We had perfect weather for a winter trip to the beach! There wasn’t a cloud in
 
 ![Stopping to take in a view on bike ride to Grande do Guincho beach](/img/blog_cascais-16x9-4070.jpg)
 
-![Tim and the coast](/img/blog_cascais-16x9-4531.jpg)
-
 The ride to the beach was well worth it. There were a number of brave souls in full-body wetsuits surfing, but mostly people walking the beach enjoying the sun.
 
 ![Walking down to Grande do Guincho beach](/img/blog-cascais-4500.jpg)
