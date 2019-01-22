@@ -16,14 +16,14 @@ const PostCard = ({postUrl, image, title, description, date}) => (
       <div className="card-content" style={{height: '100%'}}>
         <div className="content" style={{height: '100%'}}>
           <div>
-            <h2 className="is-size-4-mobile is-marginless has-text-black-ter">
+            <h2 className="is-size-4-mobile is-marginless">
               {title}
             </h2>
-            <div className="is-size-5-mobile has-text-black-ter">
+            <div className="is-size-5-mobile">
               {description}
             </div>
           </div>
-          <div className="is-size-7 has-text-grey-darker has-text-weight-light">
+          <div className="is-size-7 has-text-grey has-text-weight-light" style={{marginTop:8}}>
             {date}
           </div>
         </div>
