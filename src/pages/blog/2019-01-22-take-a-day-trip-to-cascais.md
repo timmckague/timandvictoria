@@ -22,7 +22,9 @@ We had perfect weather for a winter trip to the beach! There wasn’t a cloud in
 
 ![Stopping to take in a view on bike ride to Grande do Guincho beach](/img/blog-cascais-4527.jpg)
 
-![Stopping to take in a view on bike ride to Grande do Guincho beach](/img/blog-cascais-4070.jpg)
+![Stopping to take in a view on bike ride to Grande do Guincho beach](/img/blog_cascais-16x9-4070.jpg)
+
+![Tim and the coast](/img/blog_cascais-16x9-4531.jpg)
 
 The ride to the beach was well worth it. There were a number of brave souls in full-body wetsuits surfing, but mostly people walking the beach enjoying the sun.
 
@@ -32,11 +34,13 @@ The ride to the beach was well worth it. There were a number of brave souls in f
 
 On our way home, we pulled over a few times to pause and take in the view along the coast. We ended up dropping off our bikes at one of the bike rental locations a couple of kilometres outside of town, allowing us to more leisurely experience the last of the sun. A highlight was finding a secluded spot along the coast to sit on the edge of the cliff and watch the sun go down.
 
-![Roadside hot dog truck](/img/blog-cascais-4535.jpg)
+![Roadside hot dog truck](/img/blog_cascais-16x9-4535.jpg)
 
-![Stopping along the coast to take in the views](/img/blog-cascais-4523.jpg)
+![Hot dog](/img/blog_cascais-16x9-4533.jpg)
 
-![Watching the sun set from cliff's edge](/img/blog-cascais-5810.jpg)
+![Stopping along the coast to take in the views](/img/blog_cascais-5x7-4523.jpg)
+
+![Watching the sun set from cliff's edge](/img/blog_cascais-16x9-5810.jpg)
 
 After the sun went down, Cascais became very quiet. Most Portuguese restaurants tend not to open for dinner until 7pm, so that could have been why it seemed so quiet. We grabbed a quick bite to eat (nothing to write home about), and jumped on the 20:00 train home to Lisbon. Cascais made for a great day trip, but definitely shined during the day, not at night (although the ferris wheel was fun to see lit up at night).
 
