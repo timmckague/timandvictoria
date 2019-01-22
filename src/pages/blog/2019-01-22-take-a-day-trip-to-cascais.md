@@ -3,12 +3,14 @@ templateKey: blog-post
 title: Take a day trip to Cascais
 date: 2019-01-22T12:35:34.968Z
 description: Explore the coastline outside of Lisbon by bike
-heroImage: /img/blog-cascais_hero-5775.jpg
+heroImage: /img/blog_cascais-16x9-5775.jpg
 tags:
   - travel
+  - portugal
   - lisbon
   - cascais
   - bike
+  - beach
 ---
 After an easing going ten days in Lisbon, we were feeling ready to take a day trip outside of the city and what could be better than a day at a beach?
 
@@ -16,11 +18,11 @@ Cascais is a coastal resort town known for its beaches. Despite it being winter,
 
 ## Getting to Cascais
 
-From Lisbon was very easy and affordable to make our way to Cascais. We walked down to the Cais to Sodre train station, each loaded up our Viva Viagem card (sort of like a presto card for those from Toronto) with our tickets, and hopped on the 9:40am train. After 40min of coastal views we arrived in Cascais. 
+From Lisbon it was very easy and affordable to travel to Cascais. We walked down to the Cais to Sodre train station, each loaded up our Viva Viagem card (sort of like a presto card for those from Toronto) with our tickets, and hopped on the 9:40am train. After 40min of coastal views we arrived in Cascais. 
 
 ## Biking to Praia Grande do Guincho
 
-Disembarking from the train we quickly located the city bike rental kiosk across the roundabout from the train station. After exchanging our bike three times to get one in adequate working order, we set off to the coast. 
+Disembarking from the train we quickly located the city bike rental kiosk across the roundabout from the train station. After exchanging one of our bikes three times to get one in adequate working order, we set off to the coast. 
 
 We had perfect weather for a winter trip to the beach! There wasn’t a cloud in the sky, and we quickly found ourselves stripping down to just our t-shirts. The path was mostly flat, with a few sections that had a slight grade. Ordinarily we wouldn’t have  noticed the grade, but with a single speed and soft bike tires, we felt all the hills. Even in January, the path was crowded at certain spots with walkers, strollers, runners and other bikers. Despite the occasional crowd we had a very leisurely ride out to Grande do Guincho beach.
 
@@ -30,7 +32,7 @@ We had perfect weather for a winter trip to the beach! There wasn’t a cloud in
 
 ## At the Beach
 
-The ride to the beach was well worth it. We were rewarded with soft sand and a beautiful view of the ocean. While at the beach we spent most of our time just walking, enjoying and enjoying the sun. There were a number of brave souls in full-body wetsuits surfing, it looked really fun but in the end we didn't give into the temptation to join them, perhaps next time!
+The ride to the beach was well worth it. We were rewarded with soft sand and a beautiful view of the ocean. While at the beach we spent most of our time just walking and enjoying the sun. There were a number of brave souls in full-body wetsuits surfing; it looked really fun, but in the end we didn't give into the temptation to join them, perhaps next time!
 
 ![Walking down to Grande do Guincho beach](/img/blog-cascais-4500.jpg)
 
@@ -52,10 +54,10 @@ A highlight of the journey back into Cacais was finding a secluded spot along th
 
 ![Watching the sun set from cliff's edge](/img/blog_cascais-16x9-5810.jpg)
 
-After the sun went down, Cascais became very quiet. Most Portuguese restaurants tend not to open for dinner until 7pm, so that could have been why it seemed so quiet. We grabbed a quick bite to eat (nothing to write home about), and jumped on the 20:00 train home to Lisbon. Cascais made for a great trip, but was definitely at its best during the day, not at night (although the ferris wheel was fun to see lit up at night).
+After the sun went down, Cascais became very quiet. Most Portuguese restaurants tend not to open for dinner until 7pm, so that could have been why it seemed so quiet. We grabbed a quick bite to eat, and jumped on the 20:00 train home to Lisbon. Cascais made for a great trip, but was definitely at its best during the day, not at night (although the ferris wheel was fun to see lit up at night).
 
 ![Cascais ferris wheel](/img/blog-cascais-5823.jpg)
 
 ## The Verdict
 
-While in Lisbon, a day trip to Cascais is a great way to get outside the city. To anyone travelling to Lisbon we definitely recommend you make a day yourself to Cascais. As funny as it sounds the day trip felt a little like a mini vacation within the vacation!
+While in Lisbon, a day trip to Cascais is a great way to get outside the city. To anyone travelling to Lisbon we definitely recommend you make a day yourself to visit Cascais and the surrounding area. As funny as it sounds the day trip felt a little like a mini vacation within the vacation!
