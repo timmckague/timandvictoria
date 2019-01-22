@@ -1,8 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Img from 'gatsby-image'
+import PostCard from '../components/PostCard'
 
 export default class IndexPage extends React.Component {
   render() {
@@ -22,20 +22,13 @@ export default class IndexPage extends React.Component {
               {posts
                 .map(({ node: post }) => (
                   <div className="column is-half" key={post.id}>
-                  <Link to={`/${post.fields.slug}/`}>
-                    <div className="card">
-                      <div className="card-image">
-                        <Img style={{height: 300}} className="image is-3by2" fluid={post.frontmatter.heroImage.childImageSharp.fluid} alt={'blog thumbnail'} />
-                      </div>
-                      <div className="card-content">
-                        <div className="content">
-                          <h2 className="is-marginless">{post.frontmatter.title}</h2>
-                          <div>{post.frontmatter.description}</div>
-                          <div>{post.frontmatter.date}</div>
-                        </div>
-                      </div>
-                    </div>
-                    </Link>
+                    <PostCard
+                      postUrl={post.fields.slug}
+                      image={post.frontmatter.heroImage.childImageSharp.fluid}
+                      title={post.frontmatter.title}
+                      description={post.frontmatter.description}
+                      date={post.frontmatter.date}
+                    />
                   </div>
                 ))}
             </div>

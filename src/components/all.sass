@@ -89,6 +89,18 @@ $body-color: #333
     visibility: visible
     height: 100%
 
+.card-content .content
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+  align-items: flex-start
+  height: 100%
+
+//@media screen and (min-width: $tablet)
+  .card-content .content
+    height: 160px
+
+
 @import "~bulma/sass/utilities/_all"
 @import "~bulma/sass/base/_all"
 @import "~bulma/sass/components/_all"
