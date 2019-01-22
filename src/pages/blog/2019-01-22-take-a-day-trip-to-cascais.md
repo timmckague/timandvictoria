@@ -60,4 +60,4 @@ After the sun went down, Cascais became very quiet. Most Portuguese restaurants 
 
 ## The Verdict
 
-While in Lisbon, a day trip to Cascais is a great way to get outside the city. To anyone travelling to Lisbon we definitely recommend you make a day yourself to visit Cascais and the surrounding area. As funny as it sounds the day trip felt a little like a mini vacation within the vacation!
+While in Lisbon, a day trip to Cascais is a great way to get outside the city. To anyone travelling to Lisbon we definitely recommend you make a day trip yourself to visit Cascais and the surrounding area. As funny as it sounds the day trip felt a little like a mini vacation within the vacation!
