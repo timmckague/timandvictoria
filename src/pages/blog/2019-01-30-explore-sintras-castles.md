@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Explore Sintra's castles
+title: Explore Sintra's hillsides and palaces on foot
 date: 2019-01-30T21:07:44.529Z
-description: Hiking and a castle
-heroImage: /img/blog_sintra-16x9-5842.jpg
+description: A day trip from Lisbon
+heroImage: /img/blog_sintra-16x9-5873.jpg
 tags:
   - travel
   - portugal
@@ -66,6 +66,8 @@ Another kilometre behind us and we arrived at the gates of the Pena Palace. To b
 The palace grounds are very expansive, and we ended up clocking in another five kilometres within them. Our highlight of the grounds were two lookouts a couple kilometres south of the palace, one of them known as the High Cross lookout.
 
 ![Pena palace](/img/blog_sintra-5x7-5893.jpg)
+
+![Pena Palace Lookout](/img/blog_sintra-16x9-5903.jpg)
 
 ## Winding down
 
