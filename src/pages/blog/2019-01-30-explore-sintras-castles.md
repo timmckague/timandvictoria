@@ -55,7 +55,9 @@ The ‘castle’ is really more of a military wall that spans 500m along the per
 
 ![Moorish Castle](/img/blog_sintra-5x7-5875.jpg)
 
-![Moorish Castle with Pena Palace in background](/img/blog_sintra-5x7-5885.jpg)
+![Moorish Castle](/img/blog_sintra-5x7-4130.jpg)
+
+![Moorish Castle](/img/blog_sintra-5x7-5885.jpg)
 
 ## Pena Palace and Gardens
 
