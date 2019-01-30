@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Explore Sintra's hillsides and palaces on foot
-date: 2019-01-30T21:07:44.529Z
-description: A day trip from Lisbon
+date: 2019-01-30T23:41:30.295Z
+description: A palace-packed day trip from Lisbon
 heroImage: /img/blog_sintra-16x9-5873.jpg
 tags:
   - travel
