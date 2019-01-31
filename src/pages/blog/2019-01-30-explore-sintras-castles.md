@@ -8,6 +8,7 @@ tags:
   - travel
   - portugal
   - sintra
+  - lisbon
 ---
 ## Getting to Sintra
 
@@ -29,7 +30,7 @@ We finished up breakfast, power walked across the street to Rossio train station
 
 “Would you like a tuk-tuk? How about an eco car? Its small but very comfortable!”
 
-As we stepped out of the train station the chorus sales pitches grew, and it was certainly clear that we had arrived in a tourist hot spot. One step at a time we pushed through throngs of people trying to sell their tuk-tuk or eco-car. Eventually we broke free and made our way towards the old town. 
+As we stepped out of the train station, the chorus of sales pitches grew. It was certainly clear that we had arrived in a tourist hot spot. One step at a time we pushed through throngs of people trying to sell their tuk-tuk or eco-car. Eventually we broke free and made our way towards the old town. 
 
 Our plan was to walk to two of Sintra’s landmark sights, the Pena Palace and the Moorish Castle. I had read that there were trails we could take there, but hadn’t remembered the details about how to find the trails. We spotted a large map ahead and made our way to it, hoping to get our bearings and figure out the best route.
 
@@ -53,7 +54,7 @@ We were pleasantly surprised by the amount of vegetation surrounding us, and fre
 
 ## The Moorish Castle
 
-The ‘castle’ is really more of a military wall that spans 500m along the perimeter of a hilltop, from which we could look down to the town of Sintra below and across to the Pena Palace. We enjoyed walking the perimeter of the castle more than we expected. That might have been because we were caught up in the Netflix show “The Last Kingdom”. Although not set in Portugal, the parallels in time period (the show is set in the 9th century which is when the Moorish castle was constructed), and heavy features of battles and castles helped our imaginations bring the castle to life.
+The ‘castle’ is really more of a military wall that spans 500m along the perimeter of a hilltop, from which we could look down to the town of Sintra below and across to the Pena Palace. We enjoyed walking the perimeter of the castle more than we expected. That might have been because we were caught up in the Netflix show The Last Kingdom. Although not set in Portugal, the parallels in time period (the show is set in the 9th century which is when the Moorish castle was constructed), and heavy features of battles and castles helped our imaginations bring the castle to life.
 
 ![Moorish Castle](/img/blog_sintra-5x7-5875.jpg)
 
