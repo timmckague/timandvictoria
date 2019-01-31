@@ -47,6 +47,10 @@ We try to look at the map again.
 
 Fed up with having to say no, we gave up on trying the find “the right” path and followed google map’s suggested walking route. It didn’t take us on the intended hiking path, but it got us away from the tuk tuk drivers and headed towards our destination. And bonus, it meant that we ended up doing a loop, which is really much preferable to an out and back walk.
 
+![](/img/blog_sintra-5x7-4106.jpg)
+
+![](/img/blog_sintra-5x7-4102.jpg)
+
 We were pleasantly surprised by the amount of vegetation surrounding us, and freshness in the air as we walked the three kilometres along footpaths and roads to the Moorish Castle. Ahhh... that fresh air!
 
 ## The Moorish Castle
@@ -56,8 +60,6 @@ The ‘castle’ is really more of a military wall that spans 500m along the per
 ![Moorish Castle](/img/blog_sintra-5x7-5875.jpg)
 
 ![Moorish Castle](/img/blog_sintra-5x7-4130.jpg)
-
-![Moorish Castle](/img/blog_sintra-5x7-5885.jpg)
 
 ## Pena Palace and Gardens
 
@@ -72,6 +74,12 @@ The palace grounds are very expansive, and we ended up clocking in another five 
 ## Winding down
 
 We eventually found the park exit, and luckily our hiking trail as well! The hike down to the old town was one of my favourite parts of the day as it meant that we were getting close to food (we finished the glorified grilled cheese 15km ago!) and because it was also a beautiful trail, with gardens and views the whole way down.
+
+![](/img/blog_sintra-16x9-4177.jpg)
+
+![](/img/blog_sintra-16x9-4181.jpg)
+
+![](/img/blog_sintra-16x9-4175.jpg)
 
 ## The verdict
 
