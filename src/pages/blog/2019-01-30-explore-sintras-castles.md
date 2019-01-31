@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Conquer a castle in Sintra
 date: 2019-01-30T23:41:30.295Z
-description: Explore Sintra's hillsides and palaces on foot
+description: Explore the hillsides and palaces outside of Lisbon on foot
 heroImage: /img/blog_sintra-16x9-5873.jpg
 tags:
   - travel
