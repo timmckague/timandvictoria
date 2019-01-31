@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Explore Sintra's hillsides and palaces on foot
+title: Conquer a castle in Sintra
 date: 2019-01-30T23:41:30.295Z
-description: A palace-packed day trip from Lisbon
+description: Explore Sintra's hillsides and palaces on foot
 heroImage: /img/blog_sintra-16x9-5873.jpg
 tags:
   - travel
@@ -53,7 +53,7 @@ We were pleasantly surprised by the amount of vegetation surrounding us, and fre
 
 ## The Moorish Castle
 
-The ‘castle’ is really more of a military wall that spans 500m along the perimeter of a cliffed hill, from which we could look down to the town of Sintra below and across to the Pena Palace. We enjoyed walking the perimeter of the castle more than we expected. That might have been because we were caught up in the Netflix show “The Last Kingdom”. Although not set in Portugal, the parallels in time period (the show is set in the 9th century which is when the Moorish castle was constructed), and heavy features of battles and castles helped our imaginations bring the castle to life.
+The ‘castle’ is really more of a military wall that spans 500m along the perimeter of a hilltop, from which we could look down to the town of Sintra below and across to the Pena Palace. We enjoyed walking the perimeter of the castle more than we expected. That might have been because we were caught up in the Netflix show “The Last Kingdom”. Although not set in Portugal, the parallels in time period (the show is set in the 9th century which is when the Moorish castle was constructed), and heavy features of battles and castles helped our imaginations bring the castle to life.
 
 ![Moorish Castle](/img/blog_sintra-5x7-5875.jpg)
 
