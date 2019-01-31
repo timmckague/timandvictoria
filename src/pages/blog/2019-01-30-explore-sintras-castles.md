@@ -49,9 +49,7 @@ Fed up with having to say no, we gave up on trying the find “the right” path
 
 ![](/img/blog_sintra-5x7-4106.jpg)
 
-![](/img/blog_sintra-5x7-4102.jpg)
-
-We were pleasantly surprised by the amount of vegetation surrounding us, and freshness in the air as we walked the three kilometres along footpaths and roads to the Moorish Castle. Ahhh... that fresh air!
+We were pleasantly surprised by the amount of vegetation surrounding us, and freshness in the air as we walked the three kilometres along footpaths and roads to the Moorish Castle.
 
 ## The Moorish Castle
 
@@ -78,8 +76,6 @@ We eventually found the park exit, and luckily our hiking trail as well! The hik
 ![](/img/blog_sintra-16x9-4177.jpg)
 
 ![](/img/blog_sintra-16x9-4181.jpg)
-
-![](/img/blog_sintra-16x9-4175.jpg)
 
 ## The verdict
 
