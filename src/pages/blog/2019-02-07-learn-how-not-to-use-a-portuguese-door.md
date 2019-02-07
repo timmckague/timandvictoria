@@ -11,7 +11,7 @@ tags:
   - travel
   - portugal
 ---
-The alarm rings. Right on cue, as seems to always do. I resent its song. I resent its happy chime. _Let me sleep. _Today is going to be different, we aren't going to sleep through it, jet lag is going to lose its grip. 
+The alarm rings. Right on cue, as it seems to always do. I resent its song. I resent its happy chime. Let me sleep. Today is going to be different, we aren't going to sleep through it, jet lag is going to lose its grip. 
 
 To help with the struggle, Portugal is in the midst of a cold spell and the heater is not living up to its potential or purpose. The cold air, the jet lag, none of it matters, today is going to be different, we are making it out "early" for our run! 
 
