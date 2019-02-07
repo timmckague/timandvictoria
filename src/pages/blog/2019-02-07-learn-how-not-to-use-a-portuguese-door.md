@@ -5,7 +5,7 @@ date: 2019-02-07T14:03:03.305Z
 description: >-
   4 days into the trip and feeling a little tired of sleeping in, we decided
   that today would be different.
-heroImage: /img/chemex.jpg
+heroImage: /img/blog_lisbon-16x9-3783.jpg
 tags:
   - lisbon
   - travel
