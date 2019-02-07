@@ -9,6 +9,8 @@ tags:
   - travel
   - portugal
 ---
+
+
 The alarm rings, right on cue just like it always does. I resent its song. I resent its happy chime. _Let me sleep._
 
 Today is going to be different, we aren't going to sleep through it, jet lag is going to lose its grip. To help with the struggle, Portugal is in the midst of a cold spell and the heater is not living up to its potential or purpose. The cold air, the jet lag, none of it is matters, today is going to be different, we are making it out "early" for our run! 
@@ -90,3 +92,7 @@ As I reflect back on the situation there were 2 things that blew me away.
 2. I was also humbled by how someone different looking at the exact same situation was able to think of a new idea that completely turned the situation around.
 
 We didn’t make it out for our run but we did go for a nice walk through Alfama.
+
+![](/img/blog_lisbon-16x9-5665.jpg)
+
+![](/img/blog_lisbon-16x9-5666.jpg)
