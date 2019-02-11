@@ -52,7 +52,7 @@ We make the steep drop down to the water, this time on Calçada das Carquejeiras
 
 ![Calçada das Carquejeiras](/img/blog_run_porto-16x9-4624.jpg "Calçada das Carquejeiras")
 
-The many bridges that span the Douro River make for great mental goals while running. When running East we set our sights on the Ponte do Freixo, 2.5km from the Ponte Luís where we ascend back up the cliff. 
+The many bridges that span the Douro River make for great mental goals while running. When running East we turn around at the Ponte do Freixo, 2.5km from the Ponte Luís where we ascend back up the cliff. 
 
 We are past our turn-around point, with our sights set on Ponte Luís I in the distance.
 
