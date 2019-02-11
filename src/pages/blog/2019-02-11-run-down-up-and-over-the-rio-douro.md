@@ -42,7 +42,7 @@ Distance: 7.5km
 
 ![Run route up the Douro River](/img/up_the_douro.png "Run route up the Douro River")
 
-Looking West at the many bridges that span the Douro River. 
+Looking West at the many bridges that span the Douro River. There are six bridges over 5.5km of river bank!
 
 ![Looking West over the Douro River](/img/blog_run_porto-16x9-4271.jpg "Looking West over the Douro River")
 
