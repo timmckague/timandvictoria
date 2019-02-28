@@ -79,11 +79,15 @@ The walking was fast and easy on the Historical Way, but such was not the case i
 
 ![Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6283.jpg "Fisherman's Trail")
 
+![Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6286.jpg "Fisherman's Trail")
+
 Some of the trail sections in the afternoon had smaller cliffs and so we were close to the water level. At one point we were able to walk along the beach. 
 
-
+![Walking along the beach on Fisherman's Way](/img/blog_rotavicentina_day1-5x7-5011.jpg "Walking along the beach on Fisherman's Way")
 
 The last last 30 minutes before sunset was my favourite part of the day. We were still on the cliffs, with not a soul in sight, and it was breathtaking to see the landscape change colours as the sun set over the ocean. The small succulents plants that flourished in the sand burned red in the glow of the sun.
+
+![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-5x7-6305.jpg "Sunset on the Fisherman's Trail")
 
 We arrived to our lodgings promptly at 7pm. The last section through town was one of the toughest of the day, as the pavement was hard on our feet, and we were in complete darkness by the end. What a relief to have made it!
 
