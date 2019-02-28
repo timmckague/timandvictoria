@@ -79,8 +79,6 @@ The walking was fast and easy on the Historical Way, but such was not the case i
 
 ![Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6283.jpg "Fisherman's Trail")
 
-![Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6286.jpg "Fisherman's Trail")
-
 Some of the trail sections in the afternoon had smaller cliffs and so we were close to the water level. At one point we were able to walk along the beach. 
 
 ![Walking along the beach on Fisherman's Way](/img/blog_rotavicentina_day1-5x7-5011.jpg "Walking along the beach on Fisherman's Way")
@@ -116,8 +114,6 @@ Ending town: Almograve
 Distance hiked: 16.5km
 
 Trail time: 12:00 to 17:30
-
-Insert map of day
 
 > Birds flying high, you know how I feel
 >
