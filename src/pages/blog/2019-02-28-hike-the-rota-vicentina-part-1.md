@@ -73,7 +73,7 @@ Happy that we had made it halfway, we took a water break and gave our feet some 
 
 ![Looking South at our route to Vila de Milfontes](/img/blog_rotavicentina_day1-16x9-6276.jpg "Looking South at our route to Vila de Milfontes")
 
-![Break time on the Atlantic coast](/img/blog_rotavicentina_day1-16x9-6274.jpg "Break time on the Atlantic coast")
+![Victoria on the Fisherman's Trail](/img/blog_rotavicentina_day1-5x7-4450.jpg "Victoria on the Fisherman's Trail")
 
 The walking was fast and easy on the Historical Way, but such was not the case in the afternoon on the Fisherman’s Trail. The rest of the day we walked over soft sand - the kind where it feels like for every step forward you are also taking a step backwards. The upside of the sand though was that it was softer on my sore feet. 
 
@@ -88,6 +88,18 @@ Some of the trail sections in the afternoon had smaller cliffs and so we were cl
 The last last 30 minutes before sunset was my favourite part of the day. We were still on the cliffs, with not a soul in sight, and it was breathtaking to see the landscape change colours as the sun set over the ocean. The small succulents plants that flourished in the sand burned red in the glow of the sun.
 
 ![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-5x7-6305.jpg "Sunset on the Fisherman's Trail")
+
+![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6313.jpg "Sunset on the Fisherman's Trail")
+
+![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-5x7-6300.jpg "Sunset on the Fisherman's Trail")
+
+![Succulents at sunset](/img/blog_rotavicentina_day1-16x9-4496.jpg "Succulents at sunset")
+
+![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-5x7-6318.jpg "Sunset on the Fisherman's Trail")
+
+![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-5x7-6355.jpg "Sunset on the Fisherman's Trail")
+
+![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6382.jpg "Sunset on the Fisherman's Trail")
 
 We arrived to our lodgings promptly at 7pm. The last section through town was one of the toughest of the day, as the pavement was hard on our feet, and we were in complete darkness by the end. What a relief to have made it!
 
