@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'Hike the Rota Vicentina, Part 1'
 date: 2019-02-28T13:25:29.163Z
 description: Experience Portugal’s Alentejo region on foot
-heroImage: /img/blog_rotavicentina_day1-16x9-6266.jpg
+heroImage: /img/blog_rotavicentina_day1-16x9-6310.jpg
 tags:
   - travel
   - portugal
@@ -114,7 +114,7 @@ It was certainly a new day, but my feet begged to differ about “feeling good�
 
 We enjoyed breakfast outside on our little terrace. Mid-morning the sun hit the terrace and, knowing we had a shorter hiking day ahead of us, we lingered a little longer reading our books soaking up the sun with our feet up. 
 
-Time ticked on, and eventually it was time to hit the road. The walk leaving town was grueling. It felt like my blisters hadn’t recovered at all from the previous day, and the asphalt start certainly didn’t help. I even questioned whether I would be able to make it to Almograve, and considered for a moment getting a taxi. Tempting as it was, I knew I couldn’t give up on the second day, so on we went. 
+Time ticked on, and eventually it was time to hit the road. The walk leaving town was gruelling. It felt like my blisters hadn’t recovered at all from the previous day, and the asphalt start certainly didn’t help. I even questioned whether I would be able to make it to Almograve, and considered for a moment getting a taxi. Tempting as it was, I knew I couldn’t give up on the second day, so on we went. 
 
 After the asphalt stretch leaving Vila de Milfontes we had a nice section along the coast. 
 
@@ -123,3 +123,5 @@ The rest of the day though turned out to be a little disappointing view-wise com
 This wasn’t the worst of it, but gives a sense at the thickness of the acacia trees.
 
 I’ve heard that slow and steady wins the race. We didn’t win any races, but we did eventually make it to Almograve. We picked up some cold cervajas on our way to our AirBnB and enjoyed the refreshing drink and the satisfaction of another great day.
+
+Coming soon our post on days three and four of our hiking adventure!
