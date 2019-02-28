@@ -65,7 +65,7 @@ The first half of the day was easy walking on the Historical Way trail. The grou
 
 15.5km and 3.5hrs later the Historical Way intersected with the Fisherman’s Trail at the coast. Hello Atlantic Ocean! It felt so good to be at the ocean, but at the same time it was hard to come to terms with the fact that we were only half-way done for the day. It didn’t help that I discovered that my hiking boots were not as comfortable as they once were, and I could feel big blisters developing.  
 
-It was the coastal views we were most looking forward to, but we were both surprised by how much we had enjoyed our morning on the Historical Way. 
+It was the coastal views that we had most been looking forward to, but we were both surprised by how much we had enjoyed our morning on the Historical Way, seeing the farms and experiencing the tranquility of the inland trail.
 
 ![We made it to the Atlantic Ocean!](/img/blog_rotavicentina_day1-5x7-6280.jpg "We made it to the Atlantic Ocean!")
 
@@ -107,7 +107,7 @@ We arrived to our lodgings promptly at 7pm. The last section through town was on
 
 The hot shower felt oh so good. The food at dinner was so-so, but, as a wise family member used to say, there’s nothing like food when you’re hungry! 
 
-It was a wonderful day full of beautiful views, great conversation, a little bit of pain, but mostly smiles and laughs. A perfect way to spend our 8th year dating anniversary.
+It was a wonderful day full of beautiful views, great conversation, a little bit of pain, but mostly smiles and laughs. Couldn't have asked for a better way to spend our 8th year dating anniversary :)
 
 ## Day 2: Vila de Milfontes to Almograve
 
