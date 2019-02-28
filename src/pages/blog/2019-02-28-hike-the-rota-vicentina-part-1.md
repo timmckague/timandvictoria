@@ -69,13 +69,13 @@ The first half of the day was easy walking on the Historical Way portion of the 
 
 ![Fisherman's trail](/img/blog_rotavicentina_day1-16x9-6266.jpg "Fisherman's trail")
 
-Happy that we had made it halfway, we took a water break and gave our feet some fresh ocean air. However, knowing that the sun would set at 6:10pm we don’t stop for more than a few minutes before getting on our way. We had just under 4hrs of sunlight left, and 16km to go.
+Happy that we had made it halfway, we took a water break and aired out our feet in the ocean breeze. However, knowing that the sun would set at 6:10pm we don’t stop for more than a few minutes before getting on our way. We had just under 4hrs of sunlight left, and 16km to go.
 
 ![Looking South at our route to Vila de Milfontes](/img/blog_rotavicentina_day1-16x9-6276.jpg "Looking South at our route to Vila de Milfontes")
 
 ![Victoria on the Fisherman's Trail](/img/blog_rotavicentina_day1-5x7-4450.jpg "Victoria on the Fisherman's Trail")
 
-The walking was fast and easy on the Historical Way, but such was not the case in the afternoon on the Fisherman’s Trail. The rest of the day we walked over soft sand - the kind where it feels like for every step forward you are also taking a step backwards. The upside of the sand though was that it was softer on my sore feet. 
+The walking was fast and easy on the Historical Way, but such was not always the case in the afternoon. The rest of the day we walked over soft sand - the kind where it feels like for every step forward you are also taking a step backwards. The upside of the sand though was that it was softer on my sore feet. 
 
 ![Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6283.jpg "Fisherman's Trail")
 
@@ -101,7 +101,7 @@ The last last 30 minutes before sunset was my favourite part of the day. We were
 
 We arrived to our lodgings promptly at 7pm. The last section through town was one of the toughest of the day, as the pavement was hard on our feet, and we were in complete darkness by the end. What a relief to have made it!
 
-The hot shower felt oh so good. The food at dinner was so-so, but, as Michael would say, there’s nothing like food when you’re hungry! 
+The hot shower felt oh so good. The food at dinner was so-so, but, as a wise family member used to say, there’s nothing like food when you’re hungry! 
 
 It was a wonderful day full of beautiful views, great conversation, a little bit of pain, but mostly smiles and laughs. A perfect way to spend our 8th year dating anniversary.
 
