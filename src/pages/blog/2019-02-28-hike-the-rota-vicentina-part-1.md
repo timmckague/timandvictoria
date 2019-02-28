@@ -61,7 +61,7 @@ The first half of the day was easy walking on the Historical Way portion of the 
 
 ![Cow pasture on the Historical Way](/img/blog_rotavicentina_day1-5x7-6258.jpg "Cow pasture on the Historical Way")
 
-15.5km and 3.5hrs later the Historical Way intersected with the Fisherman’s Trail at the coast. Hello Atlantic Ocean! It felt so good to be at the ocean, but at the same time it was hard to come to terms with the fact that we were only half-way done for the day. It doesn’t help that by this point I’ve discovered that my hiking boots aren’t as comfortable as they once were, and I could feel big blisters developing.  
+15.5km and 3.5hrs later the Historical Way intersected with the Fisherman’s Trail at the coast. Hello Atlantic Ocean! It felt so good to be at the ocean, but at the same time it was hard to come to terms with the fact that we were only half-way done for the day. It didn’t help that I discovered that my hiking boots were not as comfortable as they once were, and I could feel big blisters developing.  
 
 ![We made it to the Atlantic Ocean!](/img/blog_rotavicentina_day1-5x7-6280.jpg "We made it to the Atlantic Ocean!")
 
