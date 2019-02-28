@@ -137,12 +137,24 @@ We enjoyed breakfast outside on our little terrace. Mid-morning the sun hit the 
 
 Time ticked on, and eventually it was time to hit the road. The walk leaving town was gruelling. It felt like my blisters hadn’t recovered at all from the previous day, and the asphalt start certainly didn’t help. I even questioned whether I would be able to make it to Almograve, and considered for a moment getting a taxi. Tempting as it was, I knew I couldn’t give up on the second day, so on we went. 
 
+![Leaving Vila de Milfontes](/img/blog_rotavicentina_day2-16x9-6388.jpg "Leaving Vila de Milfontes")
+
 After the asphalt stretch leaving Vila de Milfontes we had a nice section along the coast. 
+
+![Coastal views on route to Almograve](/img/blog_rotavicentina_day2-16x9-4511.jpg "Coastal views on route to Almograve")
 
 The rest of the day though turned out to be a little disappointing view-wise compared to the previous day. Although we were near the coast most of the day, a lot of it was spent just behind the sand dunes with the ocean out of sight, or walking through thick growths of acacia trees. In one patch we had to crouch down on our knees to make it through the thick growth. The trail definitely needed some pruning!
 
 This wasn’t the worst of it, but gives a sense at the thickness of the acacia trees.
 
-I’ve heard that slow and steady wins the race. We didn’t win any races, but we did eventually make it to Almograve. We picked up some cold cervajas on our way to our AirBnB and enjoyed the refreshing drink and the satisfaction of another great day.
+
+
+It was always a delight to emerge from the think acacia trees and see the Atlantic ocean. Maybe the acacia trees even made the ocean views better as they interrupted our consumption and made us appreciate them even more.
+
+![Coastal views on route to Almograve](/img/blog_rotavicentina_day2-5x7-4540.jpg "Coastal views on route to Almograve")
+
+![Coastal views on route to Almograve](/img/blog_rotavicentina_day2-16x9-4528.jpg "Coastal views on route to Almograve")
+
+"Slow and steady wins the race". We didn’t win any races, but we did eventually make it to Almograve. We picked up some cold cervajas on our way to our AirBnB and enjoyed the refreshing drink and the satisfaction of another great day.
 
 Coming soon our post on days three and four of our hiking adventure!
