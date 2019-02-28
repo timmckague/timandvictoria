@@ -94,15 +94,21 @@ Trail time: 12:00 to 17:30
 
 Insert map of day
 
-Birds flying high, you know how I feel\
-Sun in the sky, you know how I feel\
-Breeze driftin' on by, you know how I feel\
-...\
-It's a new dawn\
-It's a new day\
-It's a new life for me\
-And I'm feeling good\
-- Nina Simone
+> Birds flying high, you know how I feel
+>
+> Sun in the sky, you know how I feel
+>
+> Breeze driftin' on by, you know how I feel
+>
+> It's a new dawn
+>
+> It's a new day
+>
+> It's a new life for me
+>
+> And I'm feeling good 
+>
+> \- Nina Simone
 
 It was certainly a new day, but my feet begged to differ about “feeling good”. Our host very kindly made us breakfast, and as we heard her door open we sprang out of bed to meet her for our pre-arranged 8:30am delivery. 
 
