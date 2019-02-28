@@ -38,41 +38,50 @@ We love that feeling of making it aboard the bus/train/plane. The relief of maki
 
 ## Day 1: Cercal to Vila de Milfontes
 
-Starting town: Cercal
-
-Ending town: Vila de Milfontes
-
-Distance hiked: 31km
-
+Starting town: Cercal\
+Ending town: Vila de Milfontes\
+Distance hiked: 31km\
 Trail time: 10:40 to 19:00
-
-Insert map of day
 
 We left the town of Cercal, and hiked through its outskirts, passing small farms and walking up a bit of a hill from which we looked over Cercal behind us. 
 
-<pic of cercal in background>
+![Looking back over Cercal](/img/blog_rotavicentina_day1-5x7-4409.jpg "Looking back over Cercal")
 
 We then walked through a eucalyptus forest, followed by a cork oak forest. Apparently the bark can be removed without killing the tree, and re-harvested every nine years. 
 
-<pic of cork oak>
+![Cork oak tree](/img/blog_rotavicentina_day1-16x9-6234.jpg "Cork oak tree")
 
 The first half of the day was easy walking on the Historical Way portion of the trail. The ground was compact and the path wide. The navigation was fairly easy as well, for the most part. At one point we arrived at a pasture, and distracted by the cows, turned west toward the coast a little too early. This navigation error meant we had to hike a kilometre on the highway to rejoin with the trail. I’m glad it wasn’t longer on the road - there was no shoulder and the traffic was constant and fast moving.
 
-<pics of victoria walking, yellow field, and of cows>
+![Victoria on Historical Way](/img/blog_rotavicentina_day1-16x9-6246.jpg "Victoria on Historical Way")
 
-15.5km and 3.5hrs later the Historical Way intersected with the Fisherman’s Trail at the coast. It felt so good to be at the ocean, but I could have called it a day by then, and couldn’t believe we were only half-way done for the day. It doesn’t help that by this point I’ve discovered that my hiking boots aren’t as comfortable as they once were, and I could feel big blisters developing.  
+![Tim on Historical Way](/img/blog_rotavicentina_day1-16x9-6251.jpg "Tim on Historical Way")
 
-<pics of making it to ocean>
+![Historical Way with the Atlantic Ocean in the distance](/img/blog_rotavicentina_day1-16x9-6257.jpg "Historical Way with the Atlantic Ocean in the distance")
+
+![Cow pasture on the Historical Way](/img/blog_rotavicentina_day1-5x7-6258.jpg "Cow pasture on the Historical Way")
+
+15.5km and 3.5hrs later the Historical Way intersected with the Fisherman’s Trail at the coast. Hello Atlantic Ocean! It felt so good to be at the ocean, but at the same time it was hard to come to terms with the fact that we were only half-way done for the day. It doesn’t help that by this point I’ve discovered that my hiking boots aren’t as comfortable as they once were, and I could feel big blisters developing.  
+
+![We made it to the Atlantic Ocean!](/img/blog_rotavicentina_day1-5x7-6280.jpg "We made it to the Atlantic Ocean!")
+
+![Historical Way meets Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6263.jpg "Historical Way meets Fisherman's Trail")
+
+![Fisherman's trail](/img/blog_rotavicentina_day1-16x9-6266.jpg "Fisherman's trail")
 
 Happy that we had made it halfway, we took a water break and gave our feet some fresh ocean air. However, knowing that the sun would set at 6:10pm we don’t stop for more than a few minutes before getting on our way. We had just under 4hrs of sunlight left, and 16km to go.
 
-<pic of tim taking break>
+![Looking South at our route to Vila de Milfontes](/img/blog_rotavicentina_day1-16x9-6276.jpg "Looking South at our route to Vila de Milfontes")
+
+![Break time on the Atlantic coast](/img/blog_rotavicentina_day1-16x9-6274.jpg "Break time on the Atlantic coast")
 
 The walking was fast and easy on the Historical Way, but such was not the case in the afternoon on the Fisherman’s Trail. The rest of the day we walked over soft sand - the kind where it feels like for every step forward you are also taking a step backwards. The upside of the sand though was that it was softer on my sore feet. 
 
+![Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6283.jpg "Fisherman's Trail")
+
 Some of the trail sections in the afternoon had smaller cliffs and so we were close to the water level. At one point we were able to walk along the beach. 
 
-<insert pic of Tim on the beach>
+
 
 The last last 30 minutes before sunset was my favourite part of the day. We were still on the cliffs, with not a soul in sight, and it was breathtaking to see the landscape change colours as the sun set over the ocean. The small succulents plants that flourished in the sand burned red in the glow of the sun.
 
