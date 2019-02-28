@@ -10,17 +10,17 @@ tags:
   - hike
   - rota vicentina
 ---
-Thanks to the recommendation from our good friend Kyrie we embarked on a four-day hike along Portugal’s southwestern coast. Over the four days we hiked 88km along the Rota Vicentina, experiencing the Alentejo region’s beautiful cliffs, beaches, and small towns. We really enjoyed the peacefulness of the trail and the opportunity it gave us to just be. We took in the sights, chatted, felt the sun on our faces, got lost in our own thoughts…
+Thanks to the recommendation from our good friend Kyrie we embarked on a four-day hike along Portugal’s southwestern coast. Over the four days we hiked 88km along the Rota Vicentina, experiencing the Alentejo region’s beautiful cliffs, beaches, and small towns. We really enjoyed the peacefulness of the trail and the opportunity it gave us to just be. We took in the sights, chatted, felt the sun on our faces, and got lost in our own thoughts…
 
 ## Getting to the trailhead
 
-Tuesday, 6:45am. We left our apartment and walked downhill to the Saint Apoliana train station to catch the metro. Tuesday and Saturday is market day in the Alfama neighbourhood and as we made our way down to the station we witnessed all the vendors setting up for the day. We were amazed at the extensiveness of the market!
+Tuesday, 6:45am. We left our Lisbon apartment and walked downhill to the Saint Apoliana train station to catch the metro. Tuesday and Saturday is market day in the Alfama neighbourhood and as we made our way down to the station we witnessed all the vendors setting up for the day. We were amazed at the extensiveness of the market!
 
 We felt light and free as we walked through the streets with just our small daypacks which contained all our necessities for the next four days. 
 
 We boarded the metro and hoped for no delays. We were cutting it close for our 7:30am bus departure to Cercal.
 
-7:20am. Metro arrived at Jardim Zoologico. We exited the train, followed the crowd outside, and then proceeded to walk/run almost a full circle around the block trying to locate the bus stop.
+7:20am. Metro arrived at Jardim Zoologico. We exited the train, followed the crowd outside, and then proceeded to walk/run almost a full circle around the block trying to locate the bus station.
 
 7:25am. We found the bus station, but what bus was ours? We didn’t recognize any of the cities on the tiny departures screen. With a small line-up at the ticket desk, and little time for mistakes we lined-up to get help. The ticket agent didn’t speak much English, but from showing her our online tickets she was able to motion that we needed to print out tickets from a nearby machine. 
 
@@ -43,15 +43,17 @@ Ending town: Vila de Milfontes\
 Distance hiked: 31km\
 Trail time: 10:40 to 19:00
 
+The Rota Vicentina consists of two trails - the Historical Way and the Fisherman's Trail. The Historical Way traverses inland through rual villages, while the Fisherman's Trail runs along the coast. The first leg of our trip was on the Historical Way.
+
 We left the town of Cercal, and hiked through its outskirts, passing small farms and walking up a bit of a hill from which we looked over Cercal behind us. 
 
 ![Looking back over Cercal](/img/blog_rotavicentina_day1-5x7-4409.jpg "Looking back over Cercal")
 
-We then walked through a eucalyptus forest, followed by a cork oak forest. Apparently the bark can be removed without killing the tree, and re-harvested every nine years. 
+We then walked through a eucalyptus forest, followed by a cork oak forest. Apparently the bark can be removed without killing the tree, and re-harvested every nine years. It was interesting to see these oak tree farms with the trees in various stages of nakedness depending on the year their barked had last been harvested.
 
 ![Cork oak tree](/img/blog_rotavicentina_day1-16x9-6234.jpg "Cork oak tree")
 
-The first half of the day was easy walking on the Historical Way portion of the trail. The ground was compact and the path wide. The navigation was fairly easy as well, for the most part. At one point we arrived at a pasture, and distracted by the cows, turned west toward the coast a little too early. This navigation error meant we had to hike a kilometre on the highway to rejoin with the trail. I’m glad it wasn’t longer on the road - there was no shoulder and the traffic was constant and fast moving.
+The first half of the day was easy walking on the Historical Way trail. The ground was compact and the path wide. The navigation was fairly easy as well, for the most part. At one point we arrived at a pasture, and distracted by the cows, turned west toward the coast a little too early. This navigation error meant we had to hike a kilometre on the highway to rejoin with the trail. I’m glad it wasn’t longer on the road - there was no shoulder and the traffic was constant and fast moving.
 
 ![Victoria on Historical Way](/img/blog_rotavicentina_day1-16x9-6246.jpg "Victoria on Historical Way")
 
@@ -62,6 +64,8 @@ The first half of the day was easy walking on the Historical Way portion of the 
 ![Cow pasture on the Historical Way](/img/blog_rotavicentina_day1-5x7-6258.jpg "Cow pasture on the Historical Way")
 
 15.5km and 3.5hrs later the Historical Way intersected with the Fisherman’s Trail at the coast. Hello Atlantic Ocean! It felt so good to be at the ocean, but at the same time it was hard to come to terms with the fact that we were only half-way done for the day. It didn’t help that I discovered that my hiking boots were not as comfortable as they once were, and I could feel big blisters developing.  
+
+It was the coastal views we were most looking forward to, but we were both surprised by how much we had enjoyed our morning on the Historical Way. 
 
 ![We made it to the Atlantic Ocean!](/img/blog_rotavicentina_day1-5x7-6280.jpg "We made it to the Atlantic Ocean!")
 
