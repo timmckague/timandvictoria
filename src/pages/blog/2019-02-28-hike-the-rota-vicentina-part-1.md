@@ -107,26 +107,17 @@ It was a wonderful day full of beautiful views, great conversation, a little bit
 
 ## Day 2: Vila de Milfontes to Almograve
 
-Starting town: Vila de Milfontes
-
-Ending town: Almograve
-
-Distance hiked: 16.5km
-
+Starting town: Vila de Milfontes\
+Ending town: Almograve\
+Distance hiked: 16.5km\
 Trail time: 12:00 to 17:30
 
-> Birds flying high, you know how I feel
->
-> Sun in the sky, you know how I feel
->
-> Breeze driftin' on by, you know how I feel
->
-> It's a new dawn
->
-> It's a new day
->
-> It's a new life for me
->
+> Birds flying high, you know how I feel\
+> Sun in the sky, you know how I feel\
+> Breeze driftin' on by, you know how I feel\
+> It's a new dawn\
+> It's a new day\
+> It's a new life for me\
 > And I'm feeling good 
 >
 > \- Nina Simone
@@ -145,10 +136,6 @@ After the asphalt stretch leaving Vila de Milfontes we had a nice section along 
 
 The rest of the day though turned out to be a little disappointing view-wise compared to the previous day. Although we were near the coast most of the day, a lot of it was spent just behind the sand dunes with the ocean out of sight, or walking through thick growths of acacia trees. In one patch we had to crouch down on our knees to make it through the thick growth. The trail definitely needed some pruning!
 
-This wasn’t the worst of it, but gives a sense at the thickness of the acacia trees.
-
-
-
 It was always a delight to emerge from the think acacia trees and see the Atlantic ocean. Maybe the acacia trees even made the ocean views better as they interrupted our consumption and made us appreciate them even more.
 
 ![Coastal views on route to Almograve](/img/blog_rotavicentina_day2-5x7-4540.jpg "Coastal views on route to Almograve")
@@ -157,4 +144,4 @@ It was always a delight to emerge from the think acacia trees and see the Atlant
 
 "Slow and steady wins the race". We didn’t win any races, but we did eventually make it to Almograve. We picked up some cold cervajas on our way to our AirBnB and enjoyed the refreshing drink and the satisfaction of another great day.
 
-Coming soon our post on days three and four of our hiking adventure!
+Stay tuned to read our journal and see pictures of our last two days on the Rota Vicentina, as we made our way from Almograve to Odeceixe.
