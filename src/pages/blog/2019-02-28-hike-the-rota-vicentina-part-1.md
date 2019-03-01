@@ -26,7 +26,7 @@ We boarded the metro and hoped for no delays. We were cutting it close for our 7
 
 “Quick! Over there to the machine before there is a line up!”
 
-I read aloud the reservation number as Tim punched them in.
+I read aloud the reservation numbers as Tim punched them in.
 
 “0-9-2-2-0”
 
@@ -126,15 +126,15 @@ Trail time: 12:00 to 17:30
 >
 > \- Nina Simone
 
-It was certainly a new day, but my feet begged to differ about “feeling good”. Our host very kindly made us breakfast, and as we heard her door open we sprang out of bed to meet her for our pre-arranged 8:30am delivery. 
+It was certainly a new day, but my feet begged to differ about “feeling good”. Our host had very kindly made us breakfast, and as we heard her door open we sprang out of bed to meet her for our pre-arranged 8:30am delivery. 
 
 We enjoyed breakfast outside on our little terrace. Mid-morning the sun hit the terrace and, knowing we had a shorter hiking day ahead of us, we lingered a little longer reading our books soaking up the sun with our feet up. 
 
-Time ticked on, and eventually it was time to hit the road. The walk leaving town was gruelling. It felt like my blisters hadn’t recovered at all from the previous day, and the asphalt start certainly didn’t help. I even questioned whether I would be able to make it to Almograve, and considered for a moment getting a taxi. Tempting as it was, I knew I couldn’t give up on the second day, so on we went. 
+Time ticked on, and eventually we needed to hit the road. The walk leaving town was gruelling. It felt like my blisters hadn’t recovered at all from the previous day, and the asphalt start certainly didn’t help. I even questioned whether I would be able to make it to Almograve, and considered for a moment getting a taxi. Tempting as it was, I knew I couldn’t give up on the second day, so on we went. 
 
 ![Leaving Vila de Milfontes](/img/blog_rotavicentina_day2-16x9-6388.jpg "Leaving Vila de Milfontes")
 
-After the asphalt stretch leaving Vila de Milfontes we had a nice section along the coast. 
+After the asphalt stretch leaving Vila de Milfontes we had arrived at a beautiful section along the coast. 
 
 ![Coastal views on route to Almograve](/img/blog_rotavicentina_day2-16x9-4511.jpg "Coastal views on route to Almograve")
 
@@ -146,6 +146,6 @@ It was always a delight to emerge from the think acacia trees and see the Atlant
 
 ![Coastal views on route to Almograve](/img/blog_rotavicentina_day2-16x9-4528.jpg "Coastal views on route to Almograve")
 
-"Slow and steady wins the race". We didn’t win any races, but we did eventually make it to Almograve. We picked up some cold cervajas on our way to our AirBnB and enjoyed the refreshing drink and the satisfaction of another great day.
+"Slow and steady wins the race". We didn’t win any races, but we did eventually make it to Almograve. We picked up some cold cervejas on our way to our AirBnB and enjoyed the refreshing drink and the satisfaction of another great day.
 
 Stay tuned to read our journal and see pictures of our last two days on the Rota Vicentina, as we made our way from Almograve to Odeceixe.
