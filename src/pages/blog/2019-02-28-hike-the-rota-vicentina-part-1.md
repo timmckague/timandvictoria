@@ -10,7 +10,7 @@ tags:
   - hike
   - rota vicentina
 ---
-Thanks to the recommendation from our good friend Kyrie we embarked on a four-day hike along Portugal’s southwestern coast. Over the four days we hiked 88km along the Rota Vicentina, experiencing the Alentejo region’s beautiful cliffs, beaches, and small towns. We really enjoyed the peacefulness of the trail and the opportunity it gave us to just be. We took in the sights, chatted, felt the sun on our faces, and got lost in our own thoughts…
+Thanks to the recommendation from our good friend Kyrie we embarked on a four-day hike along Portugal’s southwestern coast. Over the four days we hiked 88km along the Rota Vicentina, experiencing the Alentejo region’s beautiful cliffs, beaches, and small towns on foot. We really enjoyed the peacefulness of the trail and the opportunity it gave us to just be. We took in the sights, chatted, felt the sun on our faces, and got lost in our own thoughts.
 
 ## Getting to the trailhead
 
