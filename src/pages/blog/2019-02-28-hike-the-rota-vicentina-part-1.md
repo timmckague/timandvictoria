@@ -10,13 +10,13 @@ tags:
   - hike
   - rota vicentina
 ---
-Thanks to the recommendation from our good friend Kyrie we embarked on a four-day hike along Portugal’s southwestern coast. Over the four days we hiked 88km along the Rota Vicentina, experiencing the Alentejo region’s beautiful cliffs, beaches, and small towns on foot. We really enjoyed the peacefulness of the trail and the opportunity it gave us to just be. We took in the sights, chatted, felt the sun on our faces, and got lost in our own thoughts.
+Thanks to the recommendation from our good friend Kyrie we embarked on a four-day hike along Portugal’s southwestern coast. Over the four days we hiked 88km along the Rota Vicentina, experiencing the Alentejo region’s beautiful cliffs, beaches, and small towns on foot. We really enjoyed the peacefulness of the trail and the opportunity it gave us to just BE. We took in the sights, chatted, felt the sun on our faces, and got lost in our own thoughts.
 
 ## Getting to the trailhead
 
-Tuesday, 6:45am. We left our Lisbon apartment and walked downhill to the Saint Apoliana train station to catch the metro. Tuesday and Saturday is market day in the Alfama neighbourhood and as we made our way down to the station we witnessed all the vendors setting up for the day. We were amazed at the extensiveness of the market!
+Tuesday, 6:45am. We left our Lisbon apartment and walked downhill to the Saint Apoliana train station to catch the metro. Tuesday and Saturday is market day in the Alfama neighbourhood and as we made our way down to the station we witnessed the vendors setting up for the day. We were amazed at the extensiveness of the market!
 
-We felt light and free as we walked through the streets with just our small daypacks which contained all our necessities for the next four days. 
+We felt light and free as we walked through the streets with just our small daypacks which contained our necessities for the next four days. 
 
 We boarded the metro and hoped for no delays. We were cutting it close for our 7:30am bus departure to Cercal.
 
@@ -63,7 +63,7 @@ The first half of the day was easy walking on the Historical Way trail. The grou
 
 ![Cow pasture on the Historical Way](/img/blog_rotavicentina_day1-5x7-6258.jpg "Cow pasture on the Historical Way")
 
-15.5km and 3.5hrs later the Historical Way intersected with the Fisherman’s Trail at the coast. Hello Atlantic Ocean! It felt so good to be at the ocean, but at the same time it was hard to come to terms with the fact that we were only half-way done for the day. It didn’t help that I discovered that my hiking boots were not as comfortable as they once were, and I could feel big blisters developing.  
+15.5km and 3.5hrs later the Historical Way intersected with the Fisherman’s Trail at the coast. Hellloooo Atlantic Ocean! It felt so good to be at the ocean, but at the same time it was hard to come to terms with the fact that we were only _half-way done_ for the day. It didn’t help that I discovered that my hiking boots were not as comfortable as they once were, and I could feel big blisters developing.  
 
 It was the coastal views that we had most been looking forward to, but we were both surprised by how much we had enjoyed our morning on the Historical Way, seeing the farms and experiencing the tranquility of the inland trail.
 
