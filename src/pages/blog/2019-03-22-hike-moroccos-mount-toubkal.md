@@ -48,8 +48,6 @@ We make it to the refuge at 3pm. In Morocco they are very generous with their mi
 
 There was a fairly steady stream of hikers making their way to refuge as we overlooked the valley. One set of hikers was a couple from France who encountered the requirement to hire a guide with even more skepticism then us, as they tried to climb without a guide. When they hit the first checkpoint the story was confirmed, they were turned back to find a guide.
 
-
-
 # To the Summit
 
 We left the refuge around 6am to ascend to the peak. It was dark and cold as we stepped outside the refuge putting our crampons on. The rest of the way up would involve climbing up a snow/ice covered slope. 
@@ -67,3 +65,11 @@ At the peak, the thin air became more noticeable. Our pace was feeling like a cr
 Who doesn’t enjoy the view from the top of a mountain. Toubkal is not the highest mountain in Africa, but at 4,167m it lays claim the “North Africa’s” tallest peak.
 
 The descent back to Imlil was tougher then expected and we were all relieved and happy to make it back to the Riad for a nice warm shower followed by the customary mint tea.
+
+![](/img/blog_toubkalsummit-5x7-5644.jpg)
+
+![](/img/blog_toubkal-lights-5x7-4969.jpg)
+
+![](/img/blog_gracesummit-5x7-5664.jpg)
+
+![](/img/blog_timsummit-5x7-5669.jpg)
