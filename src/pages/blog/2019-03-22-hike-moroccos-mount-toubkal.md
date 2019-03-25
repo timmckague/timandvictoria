@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Hike Morocco's Mount Toubkal
 date: 2019-03-22T11:52:42.983Z
-description: hmm
+description: Taking on the Atlas Mountain's highest peak
 heroImage: /img/blog_mt-toubkal-16x9-4950.jpg
 tags:
   - Morocco
@@ -12,30 +12,30 @@ tags:
 
 Breaktime is over, time to get a move on. We tighten our water bottles lids and sling our packs over our shoulders.
 
-We’ve been hiking for 3 hours and we’re feeling good. All in we expect to hike for 5 to 6 hours today, covering 12.5km and ascending \~1500m to the refuge that sits at \~3200m.
+We’ve been hiking for 3 hours and we’re feeling good. All in we expect to hike for 5 to 6 hours today, covering 12.5km and ascending \~1500m to the refuge that sits at \~3200m at the base of Mount Toubkal.
 
-As we start to climb again we’re still feeling uncertain about having a guide, 24 hours ago we were really excited to be doing the hike by ourselves, no guide. This excitement to self guide was actually a bit of a twist, because 48 hours prior (and before that even) we were certain that we’d do the hike through a tour company that would arrange all the food, hire a mule to carry our bags and guide to lead us up the mountain!
+As we start to climb again we’re still feeling uncertain about having a guide, 24 hours ago we were really excited to be doing the hike by ourselves, no guide. This excitement to self guide was actually a bit of a twist, because 48 hours prior (and before that even) we were certain that we’d do the hike through a tour company that would arrange all the food, hire a mule to carry our bags and a guide to lead us up the mountain! 
 
 At the time there were a number of factors at play that made us quite certain that we would do the hike through a tour company.
 
-1. It sounded like the hike would be really difficult from all the blog posts we read
-2. It was winter in the Atlas mountains which in turn could mean challenging weather
-3. It sounds like it was very remote from the blog posts we read
+1. From the blogs we read, the hike sounded like it would be really difficult
+2. We're climbing the mountain in March, which is still considered winter in the Atlas mountains and in turn increases the possibility of challenging weather
+3. Again from the blogs we read, the hike sounded remote
 4. We don’t speak the local language
 5. As we planned the trip we had a general nervousness and uncertainty about every aspect of Morocco, again highly influenced by nearly every blog post we read.
 6. There was a gruesome terrorist attack in December against two hikers on this trail. 
 
-As we arrived in Imlil, the starting point for the hike, nearly all of our fears/concerns disappeared. I’m not exactly sure why they all disappeared so quickly, maybe it was the unexpected sun and warmth, maybe it was the Riad’s mint tea? Maybe our confidence was high as a result of actually getting a petit taxi to use the meter instead of gouging us with some absurd flat rate (props to Grace Osler!). Whatever it was, we had convinced ourselves that a guide would not be needed! Woohoo!
+As we arrived in Imlil, the starting point for the hike, nearly all of our fears and concerns disappeared. I’m not exactly sure why they all disappeared so quickly, maybe it was the unexpected sun and warmth, maybe it was the Riad’s mint tea or maybe we were feeling confident as a result of actually getting a petit taxi to use the meter instead of gouging us with some absurd flat rate (props to Grace Osler, our travel partner on this trip!). Whatever it was, we had convinced ourselves that a guide would not be needed! Woohoo!
 
 # Is that so…
 
-As we left the Riad to go rent some crampons, Hussain, the owner of the Riad, upon hearing our plans to self guide casually let us know that since the attack in December there were police control points along the trail and we would not be permitted to pass without a guide.
+As we left the Riad to go rent crampons, Hussain, the owner of the Riad, upon hearing our plans to self guide casually let us know that since the attack in December there were police control points along the trail and we would not be permitted to pass without a guide.
 
-The sad reality for us travelling in Morocco, is that we trust no one. This again influenced heavily by the blog posts we read in preparation for the trip and as well from a few experiences with Moroccan cab drivers. As a side note, after spending the 2 weeks in Morocco, I think that feeling is only somewhat justified, we met many people here that were very nice to us and that we don’t think we were trying to scam us in any way! 
+The sad reality for us travelling in Morocco, is that we trust no one. This again is influenced heavily by the blog posts we read in preparation for the trip and as well from a few experiences with Moroccan cab drivers. As a side note, after spending the 2 weeks in Morocco, I think that feeling is only somewhat justified, we met many people here that were very nice to us and that we don’t think were trying to scam us in any way! 
 
-We decide that we need to validate this new information because it sounds like a great way to try and sell a guides services. The first person we check this information with is Ibrahim, the man renting us crampons. He re-confirms the story, but we don’t really trust his account either because he subsequently starts trying to sell us guide services. We need someone else to confirm the story, we recall passing a police check point at the entrance of the town. 
+We decide that we need to validate this new information because it sounds like a great way to try and sell a guides services. The first person we check this information with is Ibrahim, the man renting us crampons. He re-confirms the story, but we don’t really trust his account either because he subsequently tries to sell us guide services. We need someone else to confirm the story, we recall passing a police check point at the entrance of the town. 
 
-Who better to ask then the Police? They are the ones enforcing this new rule at their checkpoints. Fortunately for us, Grace is travelling Morocco with us and she speaks excellent french, so we volunteer her to take point on asking the police whether it is in fact law to have a guide escort you up the mountain. The Police give us the same story, with an extra detail, the guide just has to be a local person. The police officer then seems to start to make an attempt to sell us a guide, but catches himself part way and simply bids us farewell.
+Who better to ask than the Police? They are the ones enforcing this new rule at their checkpoints. Fortunately for us, Grace is travelling Morocco with us and she speaks french very well and was able to ask the Police whether this was in fact a new law. The Police give us the same story, with an extra detail, the guide just has to be a local person. The police officer then seems to start to make an attempt to sell us a guide, but catches himself part way and simply bids us farewell.
 
 We still don’t trust that this “guide” requirement is real but we also don’t like the idea of making it part way up the mountain only to get turned back because we don’t have a guide.
 
@@ -47,7 +47,7 @@ Hiking to the refuge is not particularly challenging (technically speaking) as t
 
 We make it to the refuge at 3pm. In Morocco they are very generous with their mint tea, whenever you arrive somewhere mint tea is served immediately and the refuge was no exception. As we sat outside the refuge sipping our tea we couldn't help but feel great as we took in the snow capped peaks, the sound of the brook nearby and felt the sun’s warmth on our backs. 
 
-There was a fairly steady stream of hikers making their way to refuge as we overlooked the valley. One set of hikers was a couple from France who encountered the requirement to hire a guide with even more skepticism then us, as they tried to climb without a guide. When they hit the first checkpoint the story was confirmed, they were turned back to find a guide.
+There was a fairly steady stream of hikers making their way to refuge as we overlooked the valley. One set of hikers was a couple from France who encountered the requirement to hire a guide with even more skepticism than us, as they tried to climb without a guide. When they hit the first checkpoint the story was confirmed, they were turned back to find a guide.
 
 ![](/img/blog_mttoubkal_sign-5x7-5531.jpg "Making sure we don't forget the name of the mountain we're hiking")
 
