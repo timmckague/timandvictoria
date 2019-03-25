@@ -6,6 +6,7 @@ description: hmm
 heroImage: /img/blog_mt-toubkal-16x9-4950.jpg
 tags:
   - Morocco
+  - Africa
 ---
 “Yallah! Yallah!” Sabir calls out.
 
@@ -48,9 +49,9 @@ We make it to the refuge at 3pm. In Morocco they are very generous with their mi
 
 There was a fairly steady stream of hikers making their way to refuge as we overlooked the valley. One set of hikers was a couple from France who encountered the requirement to hire a guide with even more skepticism then us, as they tried to climb without a guide. When they hit the first checkpoint the story was confirmed, they were turned back to find a guide.
 
-![](/img/img_5531.jpg "Making sure we don't forget the name of the mountain we're hiking")
+![](/img/blog_mttoubkal_sign-5x7-5531.jpg "Making sure we don't forget the name of the mountain we're hiking")
 
-![](/img/blog_mttoubkal-16x9.jpg)
+![](/img/blog_mttoubkal-5x7.jpg)
 
 # To the Summit
 
@@ -76,4 +77,4 @@ The descent back to Imlil was tougher then expected and we were all relieved and
 
 ![](/img/blog_gracesummit-5x7-5664.jpg)
 
-![](/img/blog_timsummit-5x7-5669.jpg)
+![Its cold at the top, but I'm enjoying the view!](/img/blog_timsummit-5x7-5669.jpg "Its cold at the top, but I'm enjoying the view!")
