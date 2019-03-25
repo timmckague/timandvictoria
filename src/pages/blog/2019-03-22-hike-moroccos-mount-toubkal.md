@@ -48,6 +48,10 @@ We make it to the refuge at 3pm. In Morocco they are very generous with their mi
 
 There was a fairly steady stream of hikers making their way to refuge as we overlooked the valley. One set of hikers was a couple from France who encountered the requirement to hire a guide with even more skepticism then us, as they tried to climb without a guide. When they hit the first checkpoint the story was confirmed, they were turned back to find a guide.
 
+![](/img/img_5531.jpg "Making sure we don't forget the name of the mountain we're hiking")
+
+![](/img/blog_mttoubkal-16x9.jpg)
+
 # To the Summit
 
 We left the refuge around 6am to ascend to the peak. It was dark and cold as we stepped outside the refuge putting our crampons on. The rest of the way up would involve climbing up a snow/ice covered slope. 
