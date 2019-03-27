@@ -37,7 +37,7 @@ We decided that we needed to validate this new information because it sounded li
 
 Who better to ask than the Police? They are the ones enforcing this new rule at their checkpoints. Fortunately for us, Grace speaks French very well and was able to ask the Police whether this was in fact a new law. The Police gave us the same story, with an extra detail - the guide just has to be a local person. The police officer then started to make an attempt to sell us a guide, but caught himself part way and simply bid us farewell.
 
-We still didn’t trust that this “guide” requirement was real but we also didn’t like the idea of making it part way up the mountain only to get turned back.
+We still didn’t trust that this “guide” requirement was real but we also didn’t like the idea of making it part way up the mountain only to get turned back by the police.
 
 # To the Refuge
 
