@@ -29,25 +29,25 @@ As we arrived in Imlil, the starting point for the hike, nearly all of our fears
 
 # Is that so…
 
-As we left the Riad to go rent crampons, Hussain, the owner of the Riad, upon hearing our plans to self guide casually let us know that since the attack in December there were police control points along the trail and we would not be permitted to pass without a guide.
+As we left the Riad to go rent crampons, Hussain, the owner of the Riad, upon hearing our plans to self guide, casually let us know that since the attack in December there were police control points along the trail and we would not be permitted to pass without a guide.
 
-The sad reality for us travelling in Morocco, is that we trust no one. This again is influenced heavily by the blog posts we read in preparation for the trip and as well from a few experiences with Moroccan cab drivers. As a side note, after spending 2 weeks in Morocco, I think that feeling is only somewhat justified - we met many people here that were very nice to us and that we don’t think were trying to scam us in any way! 
+The sad reality for us travelling in Morocco is that we trust no one. This again was heavily influenced by the blog posts we had read in preparation for the trip and as well from a few experiences with Moroccan cab drivers. As a side note, after spending 2 weeks in Morocco, I think that feeling is only somewhat justified - we met many people here that were very nice to us and that we don’t think were trying to scam us in any way! 
 
-We decide that we need to validate this new information because it sounds like a great way to try and sell a guide's services. The first person we check this information with is Ibrahim, the man renting us crampons. He re-confirms the story, but we don’t really trust his account either because he subsequently tries to sell us guide services. We need someone else to confirm the story. We recall passing a police check point at the entrance of the town. 
+We decided that we needed to validate this new information because it sounded like a great way to try and sell a guide's services. The first person we checked this information with is Ibrahim, the man who rented us crampons. He re-confirmed the story, but we didn't really trust his account either because he subsequently tried to sell us guide services. We needed someone else to confirm the story. We recalled passing a police check point at the entrance of the town. 
 
-Who better to ask than the Police? They are the ones enforcing this new rule at their checkpoints. Fortunately for us, Grace is travelling Morocco with us and she speaks french very well and was able to ask the Police whether this was in fact a new law. The Police give us the same story, with an extra detail, the guide just has to be a local person. The police officer then seems to start to make an attempt to sell us a guide, but catches himself part way and simply bids us farewell.
+Who better to ask than the Police? They are the ones enforcing this new rule at their checkpoints. Fortunately for us, Grace speaks French very well and was able to ask the Police whether this was in fact a new law. The Police gave us the same story, with an extra detail - the guide just has to be a local person. The police officer then started to make an attempt to sell us a guide, but caught himself part way and simply bid us farewell.
 
-We still don’t trust that this “guide” requirement is real but we also don’t like the idea of making it part way up the mountain only to get turned back because we don’t have a guide.
+We still didn’t trust that this “guide” requirement was real but we also didn’t like the idea of making it part way up the mountain only to get turned back.
 
 # To the Refuge
 
 This brings us back to Sabir, “Yallah”ing us up the mountain (Yallah = “come on/hurry up”). We hired a guide… skipped the mules, hence why we’re carrying our own packs and figured we could arrange our own food and shelter at the refuge.
 
-Hiking to the refuge is not particularly challenging (technically speaking) as there is a clear trail that is very well marked and not at all remote. There are about 4 - 5 huts dotting the path up to the refuge all selling drinks, food and souvenirs (I’m not sure who buys the souvenirs…)
+Hiking to the refuge is not particularly challenging (technically speaking) as there is a clear trail that is very well marked and not at all remote. There are 4 - 5 huts dotting the path up to the refuge all selling drinks, food and souvenirs (I’m not sure who buys the souvenirs…)
 
-We make it to the refuge at 3pm. In Morocco they are very generous with their mint tea, whenever you arrive somewhere mint tea is served immediately and the refuge was no exception. As we sat outside the refuge sipping our tea we couldn't help but feel great as we took in the snow capped peaks, the sound of the brook nearby and felt the sun’s warmth on our backs. 
+We make it to the refuge at 3pm. In Morocco they are very generous with their mint tea, whenever you arrive somewhere mint tea is served immediately and the refuge is no exception. As we sit outside the refuge sipping our tea we can't help but feel great as we take in the snow capped peaks, the sound of the brook nearby and feel the sun’s warmth on our backs. 
 
-There was a fairly steady stream of hikers making their way to refuge as we overlooked the valley. One set of hikers was a couple from France who encountered the requirement to hire a guide with even more skepticism than us, as they tried to climb without a guide. When they hit the first checkpoint the story was confirmed, they were turned back to find a guide.
+There is a fairly steady stream of hikers making their way to refuge as we overlook the valley. One set of hikers is a couple from France who encountered the requirement to hire a guide with even more skepticism than us, as they tried to climb without a guide. When they hit the first checkpoint the story was confirmed, they were turned back to find a guide.
 
 ![](/img/blog_mttoubkal_sign-5x7-5531.jpg "Making sure we don't forget the name of the mountain we're hiking")
 
@@ -55,28 +55,26 @@ There was a fairly steady stream of hikers making their way to refuge as we over
 
 # To the Summit
 
-We left the refuge around 6am to ascend to the peak. It was dark and cold as we stepped outside the refuge putting our crampons on. The rest of the way up would involve climbing up a snow/ice covered slope. 
+We leave the refuge around 6am to ascend to the peak. It is dark and cold as we step outside to put our crampons on. The rest of the way up will involve climbing up a snow/ice covered slope. 
 
-With our headlights on we started up the mountain. As we looked up mountain ahead of us we could see the headlights of the groups of hikers that left before us. It was as though the trail was marked with lights showing us the way.
+With our headlights on we start our ascent. As we look up the mountain ahead of us we see the headlights of the groups of hikers that left before us. It is as though the trail is marked with lights showing us the way.
 
-Stars still filled the sky as we weaved our way up but didn’t quite give enough light to climb without our headlights on. The only sound was the crunch and squeak of snow and ice under our crampons and hiking poles. We were all thankful to have crampons, the ascent would have been really difficult without them. 
+![Lighting the way](/img/blog_toubkal-lights-5x7-4969.jpg "Lighting the way")
 
-As we neared the peak, the wind picked up and the temperature dropped. Our bags were feeling quite light as we were wearing all our layers. I was happy that I had packed long underwear, they had not seen much action on the trip previously but they earned their spot in my bag on this hike!
+Stars still fill the sky as we weave our way up but don’t quite give enough light to climb without our headlights on. The only sound is the crunch and squeak of snow and ice under our crampons and hiking poles. We are all thankful to have crampons - the ascent would have been really difficult without them. 
 
-At the peak, the thin air became more noticeable. Our pace was feeling like a crawl but if we went any faster and we’d quickly be gasping for breath.
+As we near the peak, the wind picks up and the temperature drops. Our bags are feeling quite light as we are wearing all our layers. I am happy that I had packed long underwear, they had not seen much action on the trip previously but they earned their spot in my bag on this hike!
+
+At the peak, the thin air becomes more noticeable. Our pace is feeling like a crawl but if we go any faster we would quickly be gasping for breath.
 
 “Say tagine!” We all smile as we pose at the top of Toubkal for a group photo. We made it! The worst is behind us and gravity will be on our side. 
 
-Who doesn’t enjoy the view from the top of a mountain. Toubkal is not the highest mountain in Africa, but at 4,167m it lays claim to “North Africa’s” tallest peak.
-
-The descent back to Imlil was tougher then expected and we were all relieved and happy to make it back to the Riad for a nice warm shower followed by the customary mint tea.
-
-![](/img/blog_toubkalsummit-5x7-5644.jpg)
-
-![](/img/blog_toubkal-lights-5x7-4969.jpg)
+![Daylight breaks](/img/blog_toubkalvalley-16x9-0219.jpg "Daylight breaks")
 
 ![](/img/blog_gracesummit-5x7-5664.jpg)
 
 ![Its cold at the top, but I'm enjoying the view!](/img/blog_toubkalsummit-5x7-0233.jpg "Its cold at the top, but I'm enjoying the view!")
 
-![](/img/blog_toubkalvalley-16x9-0219.jpg)
+Who doesn’t enjoy the view from the top of a mountain. Toubkal is not the highest mountain in Africa, but at 4,167m it lays claim to “North Africa’s” tallest peak.
+
+The descent back to Imlil was tougher than expected and we are all relieved and happy to be back at our Riad for a nice warm shower and enjoy the customary mint tea.
