@@ -14,9 +14,9 @@ Breaktime is over, time to get a move on. We tighten our water bottles lids and 
 
 We’ve been hiking for 3 hours and we’re feeling good. All in we expect to hike for 5 to 6 hours today, covering 12.5km and ascending \~1500m to the refuge that sits at \~3200m at the base of Mount Toubkal.
 
-As we start to climb again we’re still feeling uncertain about having a guide, 24 hours ago we were really excited to be doing the hike by ourselves, no guide. This excitement to self guide was actually a bit of a twist, because 48 hours prior (and before that even) we were certain that we’d do the hike through a tour company that would arrange all the food, hire a mule to carry our bags and a guide to lead us up the mountain! 
+As we start to climb again we’re still feeling uncertain about having a guide. 24 hours ago we were really excited to be doing the hike by ourselves, unguided. This excitement to self guide was actually a bit of a twist, because 48 hours prior we thought that we’d do the hike through a tour company that would arrange all the food, hire a mule to carry our bags and a guide to lead us up the mountain! 
 
-At the time, there were a number of factors at play that made us quite certain that we would do the hike through a tour company.
+At the time, there were a number of factors at play that made us think we would do the hike through a tour company:
 
 1. From the blogs we read, the hike sounded like it would be really difficult
 2. We're climbing the mountain in March, which is still considered winter in the Atlas mountains and in turn increases the possibility of challenging weather
