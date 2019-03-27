@@ -77,4 +77,6 @@ The descent back to Imlil was tougher then expected and we were all relieved and
 
 ![](/img/blog_gracesummit-5x7-5664.jpg)
 
-![Its cold at the top, but I'm enjoying the view!](/img/blog_timsummit-5x7-5669.jpg "Its cold at the top, but I'm enjoying the view!")
+![Its cold at the top, but I'm enjoying the view!](/img/blog_toubkalsummit-5x7-0233.jpg "Its cold at the top, but I'm enjoying the view!")
+
+![](/img/blog_toubkalvalley-16x9-0219.jpg)
