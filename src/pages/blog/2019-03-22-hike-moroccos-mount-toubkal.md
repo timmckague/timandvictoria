@@ -25,7 +25,7 @@ At the time, there were a number of factors at play that made us think we would 
 5. As we planned the trip we had a general nervousness and uncertainty about every aspect of Morocco, again highly influenced by nearly every blog post we read.
 6. There was a gruesome terrorist attack in December against two hikers on this trail. 
 
-As we arrived in Imlil, the starting point for the hike, nearly all of our fears and concerns disappeared. I’m not exactly sure why they all disappeared so quickly, maybe it was the unexpected sun and warmth, maybe it was the Riad’s mint tea or maybe we were feeling confident as a result of actually getting a petit taxi to use the meter instead of gouging us with some absurd flat rate (props to Grace Osler, our travel partner on this trip!). Whatever it was, we had convinced ourselves that a guide would not be needed! Woohoo!
+When we arrived in Imlil, the starting point for the hike, nearly all of our fears and concerns disappeared. I’m not exactly sure why they all disappeared so quickly. Maybe it was the unexpected sun and warmth, maybe it was the Riad’s mint tea or maybe we were feeling confident as a result of actually getting a petit taxi to use the meter instead of gouging us with some absurd flat rate (props to Grace Osler, our travel partner on this trip!). Whatever it was, we had convinced ourselves that a guide would not be needed! Woohoo!
 
 # Is that so…
 
