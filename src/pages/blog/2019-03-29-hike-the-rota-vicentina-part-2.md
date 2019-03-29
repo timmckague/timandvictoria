@@ -21,9 +21,13 @@ Trail time: 9:20 to 15:45
 
 ![Returning to the ocean](/img/blog_rotavicentina_day3-16x9-5071.jpg "Returning to the ocean")
 
-![](/img/blog_rotavicentina_day3-16x9-6455.jpg)
+
+
+
 
 ![](/img/blog_rotavicentina_day3-16x9-6487.jpg)
+
+![](/img/blog_rotavicentina_day3-16x9-6455.jpg)
 
 
 
