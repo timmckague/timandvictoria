@@ -23,7 +23,7 @@ Ending town: Zambujeira do Mar\
 Distance hiked: 21.5km\
 Trail time: 9:20 to 15:45
 
-We were on the trail earlier today with the hopes of getting to enjoy Zambujeira do Mar in the daylight. We had noticed a bakery in town the evening prior and hoped that we could pick up a tasty breakfast treat. Alas, it wasn’t open, no surprise there as a lot of establishments in these towns seem to shut down entirely during the off-season. Good thing we had some roasted almonds and snack bars to get us through to dinner!
+We were on the trail earlier today with the intent of getting to enjoy Zambujeira do Mar in the daylight. We had noticed a bakery in town the evening prior and hoped that we could pick up a tasty breakfast treat. Alas, it wasn’t open, no surprise there as a lot of establishments in these towns seem to shut down entirely during the off-season. Good thing we had some roasted almonds and snack bars to get us through to dinner!
 
 Almograve is back a little from the coast, so we had a kilometre of walking before we reunited with the ocean. _Welcome back old friends_, we hear the waves whisper. 
 
@@ -41,7 +41,7 @@ All morning we were served stunning views of the Atlantic ocean with monumental 
 
 ![and more cliffs](/img/blog_rotavicentina_day3-16x9-6466.jpg "and more cliffs")
 
-The wind was a little stronger today, as a result, the waves were mesmerizing. Many additional pauses were required to watch them roll in, ascend, curl over, collapse, and then crash into the cliffs. Over, and over again. Never letting up.
+The wind was a little stronger today, and as a result, the waves were mesmerizing. Many additional pauses were required to watch them roll in, ascend, curl over, collapse, and then crash into the cliffs. Over, and over again. Never letting up.
 
 ![admiring the cliffs](/img/blog_rotavicentina_day3-16x9-5075.jpg "admiring the cliffs")
 
@@ -80,7 +80,7 @@ We woke up before 8am to the sun pouring into our hostel room. Tim was quick to 
 
 There were two other guests at the hostel that night, and we enjoyed chatting with them over our morning coffee. We said our goodbyes, made a quick stop into a shop for a morning croissant, and then were on our way. 
 
-The trail was beautiful right from the start today. Only a short few hundred metres on the road and then we are on nice sand with cliff and ocean views. Zambujeira do Mar started to fade into the distance and soon we were left with just us, the cliffs and the ocean. We were feeling revitalized and energetic for our last day on the trail. 
+The trail was beautiful right from the start today. We only had to go a short few hundred metres on the road leaving town and then we are on the trail. Zambujeira do Mar started to fade into the distance and soon we were left with just us, the cliffs and the ocean. We were feeling revitalized and energetic for our last day on the trail. 
 
 ![leaving zambejeira do mar](/img/blog_rotavicentina_day4-5x7-4595.jpg "leaving zambejeira do mar")
 
