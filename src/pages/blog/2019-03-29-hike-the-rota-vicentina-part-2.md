@@ -31,11 +31,11 @@ Almograve is back a little from the coast, so we had a kilometre of walking befo
 
 ![returning to the ocean](/img/blog_rotavicentina_day3-16x9-5071.jpg "returning to the ocean")
 
+All morning we were served stunning views of the Atlantic ocean with monumental cliffs in the foreground and, bonus, soft sand underfoot; I could hear my feet screaming _thank you!_
+
 ![morning hiking the rota vicentina](/img/blog_rotavicentina_day3-16x9-6487.jpg "morning hiking the rota vicentina")
 
 ![cliff views](/img/blog_rotavicentina_day3-16x9-6455.jpg "cliff views")
-
-All morning we were served stunning views of the Atlantic ocean with monumental cliffs in the foreground and, bonus, soft sand underfoot; I could hear my feet screaming _thank you!_
 
 ![more cliffs](/img/blog_rotavicentina_day3-16x9-6469.jpg " more cliffs")
 
@@ -80,7 +80,7 @@ We woke up before 8am to the sun pouring into our hostel room. Tim was quick to 
 
 There were two other guests at the hostel that night, and we enjoyed chatting with them over our morning coffee. We said our goodbyes, made a quick stop into a shop for a morning croissant, and then were on our way. 
 
-The trail was beautiful right from the start today. Only a short few hundred metres on the road and then we are on nice sand with cliff and ocean views. Zambujeira do Mar started to fade into the distance and soon we were left with just us, the cliffs and the ocean. Feeling revitalized and energetic for our last day on the trail. 
+The trail was beautiful right from the start today. Only a short few hundred metres on the road and then we are on nice sand with cliff and ocean views. Zambujeira do Mar started to fade into the distance and soon we were left with just us, the cliffs and the ocean. We were feeling revitalized and energetic for our last day on the trail. 
 
 ![leaving zambejeira do mar](/img/blog_rotavicentina_day4-5x7-4595.jpg "leaving zambejeira do mar")
 
@@ -126,4 +126,4 @@ Destination Lagos!
 >
 > ― Maya Angelou
 
-We were lucky enough to have four days like this. Don’t be mistaken, we were excited and ready for some time off our feet, but knew we would miss the sound of the ocean and the tranquility and peacefulness that comes with such a simple predetermined goal each day. The Rota Vicentina hike was an absolute delight and a highlight of Portugal for us.
+We were lucky enough to have four days like this. Don’t be mistaken, we were excited and ready for some time off our feet, but knew we would miss the sound of the ocean and the tranquility and peacefulness that comes with such a simple predetermined goal each day. The Rota Vicentina hike was an absolute delight and a highlight of our time in Portugal.
