@@ -5,13 +5,13 @@ date: 2019-02-07T14:03:03.305Z
 description: >-
   4 days into the trip and tired of sleeping in, we decide that today will be
   different
-heroImage: /img/blog_lisbon-16x9-3783.jpg
+heroImage: /img/blog_door-16x9-6201.jpg
 tags:
   - lisbon
   - travel
   - portugal
 ---
-The alarm rings. Right on cue, as it seems to always do. I resent its song. I resent its happy chime. Let me sleep. Today is going to be different, we aren't going to sleep through it, jet lag is going to lose its grip. 
+The alarm rings. Right on cue, as seems to always do. I resent its song. I resent its happy chime. Let me sleep. Today is going to be different, we aren't going to sleep through it, jet lag is going to lose its grip. 
 
 To help with the struggle, Portugal is in the midst of a cold spell and the heater is not living up to its potential or purpose. The cold air, the jet lag, none of it matters, today is going to be different, we are making it out "early" for our run! 
 
