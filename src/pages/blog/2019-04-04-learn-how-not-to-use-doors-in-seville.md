@@ -9,15 +9,15 @@ tags:
   - spain
   - travel
 ---
-We’re at our favourite pizza joint in Seville for the...ok, i won’t admit how many times we’ve been there, but anyways, we’re waiting for our pizza and I suddenly realize I am dying of thirst. I have my Cruzcampo to go with our pizza, but I feel like I could drink several litres of water.
+We’re at our favourite pizza joint in Seville waiting for our pizza and I suddenly realize I am dying of thirst. I have my Cruzcampo to go with our pizza, but I feel like I could drink several litres of water.
 
 Our apartment is literally around the corner (87 metres to be precise). There is still 5min before our pizza will be ready, so I decide I’ll head home and grab some water really quickly.
 
-I haven’t handled the keys much since our Portugal incident, and so as I jog the 87 metres home, I keep on repeating in my head:
+I haven’t handled the keys much since [our Portugal incident](https://www.timandvictoria.com/blog/2019-02-07-learn-how-not-to-use-a-portuguese-door/), and so as I run-walk the 87 metres home, I keep on repeating in my head:
 
-_Don’t lock key the inside_\
-_Don’t lock key the inside_\
-_Don’t lock key the inside_
+_Don’t lock keys the inside_\
+_Don’t lock keys the inside_\
+_Don’t lock keys the inside_
 
 Within a minute I’m at the first of three doors to get into our apartment. A lot of the apartments in Seville are built in a courtyard style where you enter into the building into a closed off courtyard, encircled by the units.
 
@@ -27,7 +27,7 @@ Here’s a visual of the two outermost doors that enter into our courtyard.
 
 I open up the outermost wooden door and close it behind me. 
 
-I then take two steps towards door number two, a gated door just six feet after the first door. As I approach the gate I raise my hand upwards to the keyhole and simultaneously the keys fly out of my hand, through the gate, and proceed to slide away from me on the tile floor. 
+I then take two steps towards door number two, a gate just six feet after the first door. As I approach the gate I raise my hand upwards to the keyhole and simultaneously the keys fly out of my hand, through the gate, and proceed to slide away from me on the tile floor. 
 
 The keys are now sitting on the other side of the locked gate, many feet away, out of arm’s reach.
 
@@ -35,7 +35,7 @@ _HOW DID THIS HAPPEN?!?!?! I can’t actually have just thrown my keys through a
 
 My first reaction is disbelief, followed by laughing out loud as I realize I just did exactly what I was telling myself not to do!
 
-This isn’t a dire situation like in [Portugal](https://www.timandvictoria.com/blog/2019-02-07-learn-how-not-to-use-a-portuguese-door/). There are several other people that live in this building, and I know that sooner or later someone will come along and be able to hand me my keys or open the gate for me. But...my hot tasty pizza is coming out of the oven in a matter of minutes, so I don’t have time on my side! 
+This isn’t a dire situation [like in Portugal](https://www.timandvictoria.com/blog/2019-02-07-learn-how-not-to-use-a-portuguese-door/). There are several other people that live in this building, and I know that sooner or later someone will come along and be able to hand me my keys or open the gate for me. But...my hot tasty pizza is coming out of the oven in a matter of minutes, so I don’t have time on my side! 
 
 I first try shouting through the gate into the open and deserted courtyard. In the stress of the moment though I forget all my Spanish, so my cries for help are probably an incoherent jumble of Spanish, French and English.
 
