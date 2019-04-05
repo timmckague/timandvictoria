@@ -3,10 +3,11 @@ templateKey: blog-post
 title: Hike Morocco's Mount Toubkal
 date: 2019-03-22T11:52:42.983Z
 description: Taking on the Atlas Mountain's highest peak
-heroImage: /img/blog_mt-toubkal-16x9-4950.jpg
+heroImage: /img/blog_toubkal-16x9-4950.jpg
 tags:
   - Morocco
   - Africa
+  - hike
 ---
 “Yallah! Yallah!” Sabir calls out.
 
@@ -49,7 +50,7 @@ We make it to the refuge at 3pm. In Morocco they are very generous with their mi
 
 There is a fairly steady stream of hikers making their way to refuge as we overlook the valley. One set of hikers is a couple from France who encountered the requirement to hire a guide with even more skepticism than us, as they tried to climb without a guide. When they hit the first checkpoint the story was confirmed, they were turned back to find a guide.
 
-![](/img/blog_mttoubkal_sign-5x7-5531.jpg "Making sure we don't forget the name of the mountain we're hiking")
+![](/img/blog_toubkal-5x7-5531.jpg "Making sure we don't forget the name of the mountain we're hiking")
 
 ![](/img/blog_mttoubkal-5x7.jpg)
 
@@ -63,18 +64,20 @@ With our headlights on we start our ascent. As we look up the mountain ahead of 
 
 Stars still fill the sky as we weave our way up but don’t quite give enough light to climb without our headlights on. The only sound is the crunch and squeak of snow and ice under our crampons and hiking poles. We are all thankful to have crampons - the ascent would have been really difficult without them. 
 
+![Daylight breaks](/img/blog_toubkalvalley-16x9-0219.jpg "Daylight breaks")
+
 As we near the peak, the wind picks up and the temperature drops. Our bags are feeling quite light as we are wearing all our layers. I am happy that I had packed long underwear, they had not seen much action on the trip previously but they earned their spot in my bag on this hike!
 
 At the peak, the thin air becomes more noticeable. Our pace is feeling like a crawl but if we go any faster we would quickly be gasping for breath.
 
 “Say tagine!” We all smile as we pose at the top of Toubkal for a group photo. We made it! The worst is behind us and gravity will be on our side. 
 
-![Daylight breaks](/img/blog_toubkalvalley-16x9-0219.jpg "Daylight breaks")
+![Its cold at the top, but I'm enjoying the view!](/img/blog_toubkal-5x7-0233.jpg "Its cold at the top, but I'm enjoying the view!")
 
 ![](/img/blog_gracesummit-5x7-5664.jpg)
 
-![Its cold at the top, but I'm enjoying the view!](/img/blog_toubkalsummit-5x7-0233.jpg "Its cold at the top, but I'm enjoying the view!")
-
 Who doesn’t enjoy the view from the top of a mountain. Toubkal is not the highest mountain in Africa, but at 4,167m it lays claim to “North Africa’s” tallest peak.
 
-The descent back to Imlil was tougher than expected and we are all relieved and happy to be back at our Riad for a nice warm shower and enjoy the customary mint tea.
+The descent back to Imlil was tougher than expected and we are all relieved and happy to be back at our Riad for a nice warm shower and to enjoy the customary mint tea.
+
+![back at the riad all cleaned up](/img/blog_toubkal-5x7-6914.jpg "back at the riad all cleaned up")
