@@ -15,9 +15,9 @@ Our apartment is literally around the corner (87 metres to be precise). There is
 
 I haven’t handled the keys much since [our Portugal incident](https://www.timandvictoria.com/blog/2019-02-07-learn-how-not-to-use-a-portuguese-door/), and so as I run-walk the 87 metres home, I keep on repeating in my head:
 
-_Don’t lock keys the inside_\
-_Don’t lock keys the inside_\
-_Don’t lock keys the inside_
+_Don’t lock the keys inside_\
+_Don’t lock the keys inside_\
+_Don’t lock the keys inside_
 
 Within a minute I’m at the first of three doors to get into our apartment. A lot of the apartments in Seville are built in a courtyard style where you enter into the building into a closed off courtyard, encircled by the units.
 
