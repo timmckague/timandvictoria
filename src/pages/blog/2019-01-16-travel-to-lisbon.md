@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Travel to Lisbon
-date: 2019-01-16T18:28:31.227Z
+date: 2019-01-10T18:28:31.227Z
 description: Our top five favourite things to do in Portugal's capital city
 heroImage: /img/blog_hero_lisbon_citscape.jpg
 tags:
