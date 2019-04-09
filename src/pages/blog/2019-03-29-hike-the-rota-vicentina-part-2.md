@@ -23,7 +23,7 @@ Ending town: Zambujeira do Mar\
 Distance hiked: 21.5km\
 Trail time: 9:20 to 15:45
 
-We were on the trail earlier today with the intent of getting to enjoy Zambujeira do Mar in the daylight. We had noticed a bakery in town the evening prior and hoped that we could pick up a tasty breakfast treat. Alas, it wasn’t open, no surprise there as a lot of establishments in these towns seem to shut down entirely during the off-season. Good thing we had some roasted almonds and snack bars to get us through to dinner!
+We were on the trail earlier today with the intent of getting to enjoy Zambujeira do Mar in the daylight. We had noticed a bakery in town the evening prior and hoped that we could pick up a tasty breakfast treat. Alas, it wasn’t open - no surprise there, as a lot of establishments in these towns seem to shut down during the off-season. Good thing we had some roasted almonds and snack bars to get us through to dinner!
 
 Almograve is back a little from the coast, so we had a kilometre of walking before we reunited with the ocean. _Welcome back old friends_, we hear the waves whisper. 
 
@@ -31,7 +31,7 @@ Almograve is back a little from the coast, so we had a kilometre of walking befo
 
 ![returning to the ocean](/img/blog_rotavicentina_day3-16x9-5071.jpg "returning to the ocean")
 
-All morning we were served stunning views of the Atlantic ocean with monumental cliffs in the foreground and, bonus, soft sand underfoot; I could hear my feet screaming _thank you!_
+All morning the Atlantic Ocean served us stunning views, with monumental cliffs in the foreground and, bonus, soft sand underfoot; I could hear my feet screaming _thank you!_
 
 ![morning hiking the rota vicentina](/img/blog_rotavicentina_day3-16x9-6487.jpg "morning hiking the rota vicentina")
 
@@ -41,7 +41,7 @@ All morning we were served stunning views of the Atlantic ocean with monumental 
 
 ![and more cliffs](/img/blog_rotavicentina_day3-16x9-6466.jpg "and more cliffs")
 
-The wind was a little stronger today, and as a result, the waves were mesmerizing. Many additional pauses were required to watch them roll in, ascend, curl over, collapse, and then crash into the cliffs. Over, and over again. Never letting up.
+The wind was a little stronger today, and as a result, the waves were mesmerizing. Many additional pauses were required to watch them _rolllllll_ in, ascend, curl over, _collapse_, and then CRASH!!!! into the cliffs. Over, and over again. Never letting up.
 
 ![admiring the cliffs](/img/blog_rotavicentina_day3-16x9-5075.jpg "admiring the cliffs")
 
@@ -53,7 +53,7 @@ We couldn’t get enough of these cliffs with their layers of beauty. Can you sp
 
 ![z rock formation](/img/blog_rotavicentina_day3-5x7-4568.jpg "z rock formation")
 
-With three kilometres to go the path passed by a small fishing harbour, and then continued for 2km alongside a small local road. On the outskirts of town the path ventured back to the coast for a last hurrah to end the spectacular day.
+With three kilometres to go, the path passed by a small fishing harbour, and then continued for 2km alongside a small local road. On the outskirts of town, the path ventured back to the coast for a last hurrah to end the spectacular day.
 
 Felt great to be in town so early, AND with such great access to views! Zambujeira do Mar sits right on the ocean and so we were excited to spend some time sitting while taking in the sun and ocean.
 
@@ -76,11 +76,11 @@ Ending town: Odeceixe\
 Distance hiked: 19km\
 Trail time: 10:30 to 16:00
 
-We woke up before 8am to the sun pouring into our hostel room. Tim was quick to pack up and get the coffee brewing and had a cup ready and an orange peeled for when I came downstairs. Lucky me :)
+We woke up before 8am to the sun pouring into our hostel room. Tim was quick to pack up and head to the kitchen…by the time I got downstairs, there was cup of freshly brewed coffee and an orange peeled for me (feeling fuzzy here reminiscing about these favourite smells and how lucky I am).
 
 There were two other guests at the hostel that night, and we enjoyed chatting with them over our morning coffee. We said our goodbyes, made a quick stop into a shop for a morning croissant, and then were on our way. 
 
-The trail was beautiful right from the start today. We only had to go a short few hundred metres on the road leaving town and then we are on the trail. Zambujeira do Mar started to fade into the distance and soon we were left with just us, the cliffs and the ocean. We were feeling revitalized and energetic for our last day on the trail. 
+The trail was beautiful right from the start today. We only had to go a short few hundred metres on the road leaving town and then we were on the trail. Zambujeira do Mar started to fade into the distance and soon we were left with just us, the cliffs and the ocean. We were feeling revitalized and energetic for our last day on the trail. 
 
 ![leaving zambejeira do mar](/img/blog_rotavicentina_day4-5x7-4595.jpg "leaving zambejeira do mar")
 
@@ -88,7 +88,7 @@ The trail was beautiful right from the start today. We only had to go a short fe
 
 ![ocean views](/img/blog_rotavicentina_day4-16x9-57.jpg "ocean views")
 
-It wouldn’t be a day on the trail with at least one tight squeeze through the overgrown acacia trees.
+It wouldn’t be a day on the trail without at least one tight squeeze through the overgrown acacia trees.
 
 ![squeezing through acacia trees](/img/blog_rotavicentina_day4-16x9-09.jpg "squeezing through acacia trees")
 
@@ -102,7 +102,7 @@ We reached the mouth of the river and could see the beautiful Odeceixe beach bel
 
 ![odeceixe beach](/img/blog_rotavicentina_day4-5x7-4657.jpg "odeceixe beach")
 
-On one hand we were both sad that we had just finished the last leg of our hike, but mostly we really happy to have made it into town.
+On one hand we were both sad that we had just finished the last leg of our hike, but on the other hand, we were prettttyyyy happy to have made it into town.
 
 We took a pre-dinner stroll with wine and beer in-hand, trying to find where we would catch the bus the next day to get us to Lagos. It was surprisingly difficult to find! Eventually we did find a public bathroom that had a 8.5x11inch paper time-table with the bus logo that matched the one I’d found online. Let’s hope that public bathroom + paper timetable = bus stop! 
 
