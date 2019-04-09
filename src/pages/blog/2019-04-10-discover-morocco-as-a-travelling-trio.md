@@ -11,7 +11,7 @@ tags:
   - travel
   - itinerary
 ---
-> I can’t think of anything that excites a greater sense of childlike wonder than to be in a country where you are ignorant of almost everything. Suddenly you are five years old again. You can’t read anything, you have only the most rudimentary sense of how things work, you can’t even reliably cross a street without endangering your life. Your whole existence becomes a series of interesting guesses. - Bill Bryson
+> "I can’t think of anything that excites a greater sense of childlike wonder than to be in a country where you are ignorant of almost everything. Suddenly you are five years old again. You can’t read anything, you have only the most rudimentary sense of how things work, you can’t even reliably cross a street without endangering your life. Your whole existence becomes a series of interesting guesses." ― Bill Bryson
 
 ## The trio unites
 
@@ -85,7 +85,7 @@ We said our goodbyes to Morocco, and hello to our next adventure!
 
 ## The Verdict
 
-> To travel is to discover that everyone is wrong about other countries. -Aldous Huxley
+> "To travel is to discover that everyone is wrong about other countries." ― Aldous Huxley
 
 Despite my initial uncertainty and apprehension about Morocco I am so happy that we were able visit and experience some of its cultural and natural treasures. 
 
