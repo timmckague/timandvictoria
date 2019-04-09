@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Take a day trip to Cascais
-date: 2019-01-22T12:35:34.968Z
+date: 2019-01-13T12:35:34.968Z
 description: Explore the coastline outside of Lisbon by bike
 heroImage: /img/blog_cascais-16x9-5775.jpg
 tags:
