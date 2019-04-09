@@ -2,9 +2,7 @@
 templateKey: blog-post
 title: Discover Morocco as a travelling trio
 date: 2019-04-09T22:51:06.465Z
-description: >-
-  Our two week itinerary experiencing Morocco’s culture and exploring it’s
-  ocean, mountains, desert and cities
+description: Our two week itinerary experiencing Morocco’s culture and natural treasures
 heroImage: /img/blog_morocco_overview-16x9-6080.jpg
 tags:
   - morocco
@@ -91,4 +89,4 @@ Despite my initial uncertainty and apprehension about Morocco I am so happy that
 
 For me, an important part of travelling is experiencing and sharing it with other people, and I couldn't be happier to have gone on this adventure with my sister, Grace. She brought a renewed excitement and spirit of curiosity that helped push us to do and try things that we wouldn't have without her. Thank you Grace!
 
-Although Morocco was a little rough around the edges at times, the people we met continuously exceeded our expectations with their friendliness. I left feeling grateful to have had the opportunity to experience a new culture, and to have experienced it as a travelling trio.
+Although Morocco was a little rough around the edges at times, the people we met continuously exceeded our expectations with their friendliness. I left feeling grateful to have had the opportunity to visit Morocco, and to travel together as a trio!
