@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Discover Morocco as a travelling trio
 date: 2019-04-09T22:51:06.465Z
 description: Our two week itinerary experiencing Morocco’s culture and natural treasures
-heroImage: /img/blog_morocco_overview-16x9-6719.jpg
+heroImage: /img/blog_morocco_overview-16x9-6723.jpg
 tags:
   - morocco
   - travel
