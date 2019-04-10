@@ -37,21 +37,21 @@ Over the next two weeks, Tim, Grace and I experienced Morocco - it’s people, f
 
 **Day 1: Travel to the ocean-side town of Essaouira**
 
-We left Casablanca a couple hours after Grace’s flight landed and headed for the coast. We knew we would have time to explore Morocco’s largest city at the end of our trip, and planned to acquaint ourselves with Morocco in the laid-back, ocean-side town of Essaouira. 
+We left Casablanca on the 10:30am bus and headed for the coast. We knew we would have time to explore Morocco’s largest city at the end of our trip, and planned to acquaint ourselves with Morocco in the laid-back, ocean-side town of Essaouira. 
 
-![](/img/blog_morocco_overview-5x7-6838.jpg)
+![essaouira](/img/blog_morocco_overview-5x7-6838.jpg "essaouira")
 
 **Day 2-4: Take it easy in Essaouira**
 
 Essaouira was a great introduction to Morocco. We enjoyed wandering and negotiating in the medina, eating Moroccan food, peaceful afternoons in our riad, making new friends, and walking the beach.
 
-![](/img/blog_morocco_overview-5x7-6892.jpg)
+![essaouira](/img/blog_morocco_overview-5x7-6842.jpg "essaouira")
 
 **Day 5: Travel to Imlil in the Atlas Mountains**
 
 We took a bus, a petit taxi, and a grand taxi to get to the little town of Imlil, nestled in the Atlas Mountains. 
 
-![](/img/blog_morocco_overview-5x7-5764.jpg)
+![imlil](/img/blog_morocco_overview-5x7-5764.jpg "imlil")
 
 **Day 6-7: Hike North Africa’s highest peak, Mount Toubkal**
 
@@ -59,13 +59,13 @@ From Imlil we hiked 5 hours to the mountain refuge at the base of Mount Toubkal,
 
 [Read more: Hike Morocco’s Mount Toubkal, taking on the Atlas Mountains’ highest peak](https://www.timandvictoria.com/blog/2019-03-22-hike-moroccos-mount-toubkal/).
 
-![](/img/blog_morocco_overview-5x7-0233.jpg)
+![summit of toubkal](/img/blog_morocco_overview-5x7-0233.jpg "summit of toubkal")
 
 **Day 8: Recover in Imlil**
 
 After the previous day’s 20 some kilometres we enjoyed a day soaking up the sun from the comfort our Riad’s wood-lined sun room and exploring the small berber village across the river.
 
-![](/img/blog_morocco_overview-5x7-5738.jpg)
+![small berber village](/img/blog_morocco_overview-5x7-5738.jpg "small berber village")
 
 **Day 9: Travel to Marrakech and experience the craziness of the medina**
 
@@ -73,19 +73,19 @@ I had been reflecting the previous day on how the unfamiliarity of this new-to-m
 
 After more than a week of ocean and mountains, this large city had us feeling unbalanced. We had woken up the past few mornings to birds chirping and sheep baaaahing right outside our window, punctuated occasionally by the trotting sounds of a donkey with its cart. In Marrakech, the medina streets were no more than a few feet wide at times, and motorcycles constantly whizzed past us, with what felt like only a centimetre to spare. It was certainly a juxtaposition to the Atlas Mountains. 
 
-![](/img/blog_morocco_overview-16x9-3205.jpg)
+![marrakech](/img/blog_morocco_overview-16x9-3205.jpg "marrakech")
 
 **Day 10: Drive through the mountains to the end of the road and the start of the Sahara desert**
 
 M’Hamid is a town on the edge of the Sahara desert where the road ends and the desert starts. The 10-hr bus ride from Marrakech was long, but we had beautiful views as the bus wound its way through the mountains. A large portion of the road was under repair, which made for tricky driving - we were grateful that someone else was at the wheel!
 
-![](/img/blog_morocco_overview-16x9-5817.jpg)
+![road to m'hamid](/img/blog_morocco_overview-16x9-5817.jpg "road to m'hamid")
 
 **Day 11-12: Visit the Erg Chigaga dunes in the Sahara Desert**
 
 We drove a couple hours from our camp outside M’Hamid to the dunes of Erg Chigaga, where we spent the night at a desert camp (which we had to ourselves!). Highlights included a sunset camel ride, a campfire under the full moon, and waking up to see the sunrise.
 
-![](/img/blog_morocco_overview-5x7-7191.jpg)
+![erg chigaga](/img/blog_morocco_overview-5x7-7191.jpg "erg chigaga")
 
 **Day 13: Travel from M’Hamid to Casablanca**
 
@@ -97,7 +97,7 @@ Casablanca is the commercial centre of Morocco, as well as its largest city. It�
 
 Our hosts also provided us with a glimpse into Moroccan life that was different from what we had seen previously on our trip. With some exceptions, most of our interactions with Moroccans had been with people working in retail or tourism. We had also witnessed a lot of poverty as we traversed the country. In contrast, both parents of our host family were engineers working in senior positions in the financial sector. Life was made more manageable with a live-in assistant who played the role of chef, cleaner, and nanny for the family. We enjoyed our time sharing meals together, and the opportunity to talk with Moroccans who worked outside the tourism industry.
 
-![](/img/blog_morocco_overview-5x7-6080.jpg)
+![hassan mosque](/img/blog_morocco_overview-5x7-6080.jpg "hassan mosque")
 
 ![](/img/blog_morocco_overview-4x5-1116.jpg)
 
