@@ -148,4 +148,4 @@ It was always a delight to emerge from the think acacia trees and see the Atlant
 
 "Slow and steady wins the race". We didn’t win any races, but we did eventually make it to Almograve. We picked up some cold cervejas on our way to our AirBnB and enjoyed the refreshing drink and the satisfaction of another great day.
 
-Stay tuned to read our journal and see pictures of our last two days on the Rota Vicentina, as we made our way from Almograve to Odeceixe.
+Check out [Hike the Rota Vicentina Part 2](https://www.timandvictoria.com/blog/2019-03-29-hike-the-rota-vicentina-part-2/) to read about our 41km journey from Almograve to Odeceixe.
