@@ -39,9 +39,13 @@ Over the next two weeks, Tim, Grace and I experienced Morocco - it’s people, f
 
 We left Casablanca a couple hours after Grace’s flight landed and headed for the coast. We knew we would have time to explore Morocco’s largest city at the end of our trip, and planned to acquaint ourselves with Morocco in the laid-back, ocean-side town of Essaouira. 
 
+![](/img/blog_morocco_overview-5x7-6838.jpg)
+
 **Day 2-4: Take it easy in Essaouira**
 
 Essaouira was a great introduction to Morocco. We enjoyed wandering and negotiating in the medina, tasting delicious Moroccan delicacies, peaceful afternoons in our riad, making new friends, and walking the beach.
+
+![](/img/blog_morocco_overview-5x7-6892.jpg)
 
 **Day 5: Travel to Imlil in the Atlas Mountains**
 
@@ -71,7 +75,7 @@ After more than a week of ocean and mountains, this large city had us feeling un
 
 **Day 10: Drive through the mountains to the end of the road and the start of the Sahara desert**
 
-M’Hamid is a town on the edge of the Sahara desert where the road ends and the desert starts. The 10-hr bus ride from Marrakech was long, but we had beautiful views as the bus wound its way through the mountains. A large portion of the road was under repair, which made for tricky driving - we were very grateful that someone else was at the wheel!
+M’Hamid is a town on the edge of the Sahara desert where the road ends and the desert starts. The 10-hr bus ride from Marrakech was long, but we had beautiful views as the bus wound its way through the mountains. A large portion of the road was under repair, which made for tricky driving - we were grateful that someone else was at the wheel!
 
 ![](/img/blog_morocco_overview-16x9-5817.jpg)
 
