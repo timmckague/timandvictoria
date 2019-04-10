@@ -65,7 +65,7 @@ I had been reflecting the previous day on how the unfamiliarity of this new-to-m
 
 After more than a week of ocean and mountains, this large city had us feeling unbalanced. We had woken up the past few mornings to birds chirping and sheep baaaahing right outside our window, punctuated occasionally by the trotting sounds of a donkey with its cart. In Marrakech, the medina streets were no more than a few feet wide at times, and motorcycles constantly whizzed past us, with only a centimetre to spare. It was certainly a juxtaposition to the Atlas Mountains. 
 
-**Day 10: Travel through the mountains to the end of the road and the start of the Sahara desert**
+**Day 10: Drive through the mountains to the end of the road and the start of the Sahara desert**
 
 M’Hamid is a town on the edge of the Sahara desert where the road ends and the desert starts. The 10-hr bus ride from Marrakech was long, but we had beautiful views as the bus wound its way through the mountains. A large portion of the road was under repair, which made for tricky driving - we were very grateful that someone else was at the wheel!
 
