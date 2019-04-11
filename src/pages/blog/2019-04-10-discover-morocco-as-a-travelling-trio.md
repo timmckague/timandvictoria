@@ -55,7 +55,7 @@ We took a bus, a petit taxi, and a grand taxi to get to the little town of Imlil
 
 **Day 6-7: Hike North Africa’s highest peak, Mount Toubkal**
 
-From Imlil we hiked 5 hours to the mountain refuge at the base of Mount Toubkal, where we spent the night. The next morning we rose before dawn to summit North Africa’s highest peak, before descending the 2,500 metres to Imlil at 1,700 metres.
+From Imlil we hiked 5 hours to the mountain refuge at the base of Mount Toubkal, where we spent the night. The next morning we rose before dawn to summit North Africa’s highest peak (4,167m), before descending the 2,500m to Imlil.
 
 [Read more: Hike Morocco’s Mount Toubkal, taking on the Atlas Mountains’ highest peak](https://www.timandvictoria.com/blog/2019-03-22-hike-moroccos-mount-toubkal/).
 
@@ -93,9 +93,9 @@ Morocco is a large country - travelling from M’Hamid to Casablanca was a fourt
 
 **Day 14: Experience Casablanca with a local family**
 
-Casablanca is the commercial centre of Morocco, as well as its largest city. It’s not known as a tourist destination, but we had a great day visiting the Hassan Mosque, and walking through the old and new medinas. Our highlight of the day though was eating delicious homemade meals with our hosts. They were by far the best meals that we ate in Morocco. 
+Casablanca is the commercial centre of Morocco, as well as its largest city. It’s not known as a tourist destination, but we had a great day visiting the Hassan Mosque, and walking through city's two medinas. Our highlight of the day though was eating delicious homemade meals with our hosts. They were by far the best meals that we ate in Morocco. 
 
-Our hosts also provided us with a glimpse into Moroccan life that was different from what we had seen previously on our trip. With some exceptions, most of our interactions with Moroccans had been with people working in retail or tourism. We had also witnessed a lot of poverty as we traversed the country. In contrast, both parents of our host family were engineers working in senior positions in the financial sector. Life was made more manageable with a live-in assistant who played the role of chef, cleaner, and nanny for the family. We enjoyed our time sharing meals together, and the opportunity to talk with Moroccans who worked outside the tourism industry.
+Our hosts also provided us with a glimpse into Moroccan life that was different from what we had seen previously on our trip. With some exceptions, most of our interactions with Moroccans had been with people working in retail or tourism. We had also witnessed a lot of poverty as we traversed the country. In contrast, both parents of our host family were engineers working in senior positions in the financial sector. Life was made more manageable with a live-in assistant who played the role of chef, cleaner, and nanny for the family. We enjoyed our time sharing meals together, and the opportunity to talk with them.
 
 ![hassan mosque](/img/blog_morocco_overview-5x7-6080.jpg "hassan mosque")
 
