@@ -93,7 +93,7 @@ Morocco is a large country - travelling from M’Hamid to Casablanca was a fourt
 
 **Day 14: Experience Casablanca with a local family**
 
-Casablanca is the commercial centre of Morocco, as well as its largest city. It’s not known as a tourist destination, but we had a great day visiting the Hassan Mosque, and walking through city's two medinas. Our highlight of the day though was eating delicious homemade meals with our hosts. They were by far the best meals that we ate in Morocco. 
+Casablanca is the commercial centre of Morocco, as well as its largest city. We had a great day visiting the Hassan Mosque, and walking through city's two medinas. Our highlight of the day though was eating delicious homemade meals with our hosts - they were by far the best meals that we ate in Morocco. 
 
 Our hosts also provided us with a glimpse into Moroccan life that was different from what we had seen previously on our trip. With some exceptions, most of our interactions with Moroccans had been with people working in retail or tourism. We had also witnessed a lot of poverty as we traversed the country. In contrast, both parents of our host family were engineers working in senior positions in the financial sector. Life was made more manageable with a live-in assistant who played the role of chef, cleaner, and nanny for the family. We enjoyed our time sharing meals together, and the opportunity to talk with them.
 
