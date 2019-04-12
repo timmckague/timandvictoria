@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Experience Morocco’s cultural and natural treasures
 date: 2019-04-09T22:51:06.465Z
 description: Our two week itinerary through Morocco
-heroImage: /img/blog_morocco_overview-16x9-6719.jpg
+heroImage: /img/blog_morocco_overview-16x9-6076.jpg
 tags:
   - morocco
   - travel
