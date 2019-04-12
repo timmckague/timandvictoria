@@ -43,6 +43,8 @@ Here is an excerpt from Grace's journal on some of her observations from the bus
 
 > The 8 hour bus ride was a perfect way to start the trip together as we got to see a lot of the  country's landscape. There were sheep everywhere, and a mix of sand, rolling hills, farm fields, and the ocean. As we drove the narrow roads it was fun to see people ride beside us on donkey-pulled carts. The bus made a couple stops and we ventured out twice, getting a little farther from the bus each time (baby steps are best to acclimatize ;) It was crazy the number of men just hanging about (on a working day), on the sides of the road, and especially around the bus stops. 
 
+![bus ride to Essaouira](/img/blog_morocco_overview-5x7-9693.jpg "bus ride to Essaouira")
+
 **Day 2-4: Take it easy in Essaouira**
 
 Essaouira was a great introduction to Morocco. 
