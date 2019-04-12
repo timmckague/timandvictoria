@@ -41,7 +41,7 @@ We left Casablanca on the 10:30am bus and headed for the coast. We knew we would
 
 Here is an excerpt from Grace's journal on some of here observations from the bus ride:
 
-> The 8 hour bus ride was a perfect way to start the trip together as we got to see lots of the landscape. There were sheep everywhere, and a mix of sand, rolling hills, and the ocean. There was also lots of farming: animals but also many fields with water (maybe rice growing), and around many of the fields were tepee style piles of stick-like brush (not sure what they are for). It was fun to see people ride beside us on donkey-pulled carts and interesting to see all the donkeys, sheep, and cows in the fields or garbage piles grazing. 
+> The 8 hour bus ride was a perfect way to start the trip together as we got to see a lot of the  country's landscape. There were sheep everywhere, and a mix of sand, rolling hills, farm fields, and the ocean. As we drove the narrow roads it was fun to see people ride beside us on donkey-pulled carts.  
 >
 > The bus made a couple stops and we ventured out twice, getting a little farther from the bus each time (baby steps are best to acclimatize ;) It was crazy the number of men just hanging about (on a working day), on the sides of the road, and especially around the bus stops. 
 
