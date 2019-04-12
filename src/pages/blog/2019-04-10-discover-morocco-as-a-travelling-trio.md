@@ -37,19 +37,29 @@ Over the next two weeks, Tim, Grace and I experienced Morocco - it’s people, f
 
 **Day 1: Travel to the ocean-side town of Essaouira**
 
-We left Casablanca on the 10:30am bus and headed for the coast. We knew we would have time to explore Morocco’s largest city at the end of our trip, and planned to acquaint ourselves with Morocco in the laid-back, ocean-side town of Essaouira. 
+We left Casablanca on the 10:30am bus and headed for the coast. We knew we would have time to explore Morocco’s largest city at the end of our trip, and wanted to acquaint ourselves with Morocco in the laid-back, ocean-side town of Essaouira. 
 
-![essaouira](/img/blog_morocco_overview-5x7-6838.jpg "essaouira")
+Here is an excerpt from Grace's journal on some of here observations from the bus ride:
+
+> The 8 hour bus ride was a perfect way to start the trip together as we got to see lots of the landscape. There were sheep everywhere, and a mix of sand, rolling hills, and the ocean. There was also lots of farming: animals but also many fields with water (maybe rice growing), and around many of the fields were tepee style piles of stick-like brush (not sure what they are for). It was fun to see people ride beside us on donkey-pulled carts and interesting to see all the donkeys, sheep, and cows in the fields or garbage piles grazing. 
+>
+> The bus made a couple stops and we ventured out twice, getting a little farther from the bus each time (baby steps are best to acclimatize ;) It was crazy the number of men just hanging about (on a working day), on the sides of the road, and especially around the bus stops. 
 
 **Day 2-4: Take it easy in Essaouira**
 
-Essaouira was a great introduction to Morocco. We enjoyed wandering and negotiating in the medina, eating Moroccan food, peaceful afternoons in our riad, making new friends, and walking the beach.
+Essaouira was a great introduction to Morocco. 
+
+Medinas (the old walled part of town) are known to have narrow and maze like streets that are unsigned, disorientating, and sometimes impossible to navigate through. Essaouira's medina was small compared to other cities, and, although I never quite mastered the layout, Tim was able to navigate us through the maze, always getting us home safely to our riad. At one point, Grace and I were out exploring the port, and when we tried to return to our home in the medina it took us a few attempts, but Grace got us there by recognizing a chicken foot on the ground!
+
+We enjoyed wandering and negotiating in the medina, eating our first of many tagines, peaceful afternoons in our riad, making new friends, walking the beach, and exploring old ruins.
+
+![essaouira](/img/blog_morocco_overview-5x7-6838.jpg "essaouira")
 
 ![essaouira](/img/blog_morocco_overview-5x7-6842.jpg "essaouira")
 
 **Day 5: Travel to Imlil in the Atlas Mountains**
 
-We took a bus, a petit taxi, and a grand taxi to get to the little town of Imlil, nestled in the Atlas Mountains. 
+We took a bus, a petit taxi, and a grand taxi to get to the little town of Imlil, nestled in the Atlas Mountains. In Imlil we finalized our plans the next day's departure to hike Mount Toubkal. A lot of negotiating for one day! 
 
 ![imlil](/img/blog_morocco_overview-5x7-5764.jpg "imlil")
 
@@ -63,7 +73,9 @@ From Imlil we hiked 5 hours to the mountain refuge at the base of Mount Toubkal,
 
 **Day 8: Recover in Imlil**
 
-After the previous day’s 20 some kilometres we enjoyed a day soaking up the sun from the comfort our Riad’s wood-lined sun room and exploring the small berber village across the river.
+After the previous day’s 20 some kilometres we enjoyed a day soaking up the sun from the comfort our Riad’s wood-lined sun room, and exploring the small berber village across the river.  
+
+There weren't any roads in the Berber village, just small footpaths between (and sometimes through!) the houses. And we weren't the only ones using the paths - we had to share them with kids (baby goats) and chickens! Grace and I did a reconnaissance in the afternoon and found a restaurant amidst the maze and arranged dinner with Hassan for that evening. The view from his terrace was exceptional, and we watched the sun set over the mountains as we enjoyed our mint tea and tagine dinner. It was a perfect way to enjoy our last evening in the Atlas Mountains. 
 
 ![small berber village](/img/blog_morocco_overview-5x7-5738.jpg "small berber village")
 
@@ -71,7 +83,7 @@ After the previous day’s 20 some kilometres we enjoyed a day soaking up the su
 
 I had been reflecting the previous day on how the unfamiliarity of this new-to-me country was starting to feel more familiar...but then we arrived in Marrakech. 
 
-After more than a week of ocean and mountains, this large city had us feeling unbalanced. We had woken up the past few mornings to birds chirping and sheep baaaahing right outside our window, punctuated occasionally by the trotting sounds of a donkey with its cart. In Marrakech, the medina streets were no more than a few feet wide at times, and motorcycles constantly whizzed past us, with what felt like only a centimetre to spare. It was certainly a juxtaposition to the Atlas Mountains. 
+After more than a week of ocean and mountains, this large city had us feeling unbalanced. We had woken up the past few mornings to birds chirping and sheep baaaahing right outside our window, punctuated occasionally by the trotting sounds of a donkey with its cart. In Marrakech, the medina streets were no more than a few feet wide at times, and motorcycles constantly whizzed past us, with what felt like only a centimetre to spare, and spewing out toxic fumes. It was certainly a juxtaposition to the Atlas Mountains. 
 
 ![marrakech](/img/blog_morocco_overview-16x9-3205.jpg "marrakech")
 
@@ -113,4 +125,4 @@ Despite my initial uncertainty and apprehension about Morocco I am so happy that
 
 For me, an important part of travelling is experiencing and sharing it with other people, and I couldn't be happier to have gone on this adventure with my sister, Grace. She brought a renewed excitement and spirit of curiosity that helped push us to do and try things that we wouldn't have without her. Thank you Grace!
 
-Although Morocco was a little rough around the edges at times, the people we met continuously exceeded our expectations with their friendliness. I left feeling grateful to have had the opportunity to visit Morocco, and to travel together as a trio!
+Although Morocco was a little rough around the edges at times, the people we met continuously exceeded our expectations with their friendliness. I left feeling grateful to have had the opportunity to visit Morocco, and, most importantly, to travel together as a trio!
