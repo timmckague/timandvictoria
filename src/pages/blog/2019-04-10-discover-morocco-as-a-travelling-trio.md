@@ -39,11 +39,9 @@ Over the next two weeks, Tim, Grace and I experienced Morocco - it’s people, f
 
 We left Casablanca on the 10:30am bus and headed for the coast. We knew we would have time to explore Morocco’s largest city at the end of our trip, and wanted to acquaint ourselves with Morocco in the laid-back, ocean-side town of Essaouira. 
 
-Here is an excerpt from Grace's journal on some of here observations from the bus ride:
+Here is an excerpt from Grace's journal on some of her observations from the bus ride:
 
-> The 8 hour bus ride was a perfect way to start the trip together as we got to see a lot of the  country's landscape. There were sheep everywhere, and a mix of sand, rolling hills, farm fields, and the ocean. As we drove the narrow roads it was fun to see people ride beside us on donkey-pulled carts.  
->
-> The bus made a couple stops and we ventured out twice, getting a little farther from the bus each time (baby steps are best to acclimatize ;) It was crazy the number of men just hanging about (on a working day), on the sides of the road, and especially around the bus stops. 
+> The 8 hour bus ride was a perfect way to start the trip together as we got to see a lot of the  country's landscape. There were sheep everywhere, and a mix of sand, rolling hills, farm fields, and the ocean. As we drove the narrow roads it was fun to see people ride beside us on donkey-pulled carts. The bus made a couple stops and we ventured out twice, getting a little farther from the bus each time (baby steps are best to acclimatize ;) It was crazy the number of men just hanging about (on a working day), on the sides of the road, and especially around the bus stops. 
 
 **Day 2-4: Take it easy in Essaouira**
 
