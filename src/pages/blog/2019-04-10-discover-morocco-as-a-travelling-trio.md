@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Experience Morocco’s culture and natural treasures
+title: Experience Morocco’s cultural and natural treasures
 date: 2019-04-09T22:51:06.465Z
-description: Our two week itinerary discovering Morocco
+description: Our two week itinerary through Morocco
 heroImage: /img/blog_morocco_overview-16x9-6719.jpg
 tags:
   - morocco
@@ -15,13 +15,13 @@ tags:
 
 Tim and I are in the basement of the Casablanca International airport, having taken the train in from the city centre to meet my sister, Grace, arriving from Ottawa. We are standing in line to go through security to get to the arrivals area, which seems to be taking forever. 
 
-I look up, and see Grace descending the elevator, beaming a beautiful smile and radiating with energy. My heart leaps. I am filled with joy, and rush forward for a big embrace.
+I look up, and see Grace descending the escalator, beaming a beautiful smile and radiating with energy. My heart leaps. I am filled with joy, and rush forward for a big embrace.
 
 Our two week adventure as a travelling trio begins! 
 
-## Our two week itinerary
+## The two week itinerary
 
-Over the next two weeks, Tim, Grace and I experienced Morocco - it’s people, food, landscapes, and culture. More to come on those experiences, but here is the bird’s eye view and short summary of our two-week adventure through Morocco:
+Over the following two weeks, Tim, Grace and I experienced Morocco - it’s people, food, landscapes, and culture. More to come on those experiences, but here is the bird’s eye view and short summary of our two-week adventure through Morocco:
 
 1. Essaouira
 2. The Atlas Mountains (Imlil and Mount Toubkal)
@@ -37,7 +37,7 @@ Over the next two weeks, Tim, Grace and I experienced Morocco - it’s people, f
 
 **Day 1: Travel to the ocean-side town of Essaouira**
 
-We left Casablanca on the 10:30am bus and headed for the coast. We knew we would have time to explore Morocco’s largest city at the end of our trip, and wanted to acquaint ourselves with Morocco in the laid-back, ocean-side town of Essaouira. 
+We left Casablanca on the 10:30am bus and headed for the coast. We knew we would have time to explore Morocco’s largest city at the end of our trip, and wanted to acclimatize ourselves with Morocco in the laid-back, ocean-side town of Essaouira. 
 
 Here is an excerpt from Grace's journal on some of her observations from the bus ride:
 
