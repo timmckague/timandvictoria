@@ -44,13 +44,15 @@ We still didn’t trust that this “guide” requirement was real but we also d
 
 This brings us back to Sabir, “Yallah”ing us up the mountain (Yallah = “come on/hurry up”). We hired a guide… skipped the mules, hence why we’re carrying our own packs and figured we could arrange our own food and shelter at the refuge.
 
-Hiking to the refuge is not particularly challenging (technically speaking) as there is a clear trail that is very well marked and not at all remote. There are 4 - 5 huts dotting the path up to the refuge all selling drinks, food and souvenirs (I’m not sure who buys the souvenirs…)
-
 ![on route to toubkal](/img/blog_mttoubkal-5x7.jpg "on route to toubkal")
+
+Hiking to the refuge is not particularly challenging (technically speaking) as there is a clear trail that is very well marked and not at all remote. There are 4 - 5 huts dotting the path up to the refuge all selling drinks, food and souvenirs (I’m not sure who buys the souvenirs…)
 
 ![](/img/blog_toubkal-5x7-5531.jpg "Making sure we don't forget the name of the mountain we're hiking")
 
 We make it to the refuge at 3pm. In Morocco they are very generous with their mint tea, whenever you arrive somewhere mint tea is served immediately and the refuge is no exception. As we sit outside the refuge sipping our tea we can't help but feel great as we take in the snow capped peaks, the sound of the brook nearby and feel the sun’s warmth on our backs. 
+
+![arriving at the refuge](/img/blog_toubkal-5x7-0168.jpg "arriving at the refuge")
 
 There is a fairly steady stream of hikers making their way to refuge as we overlook the valley. One set of hikers is a couple from France who encountered the requirement to hire a guide with even more skepticism than us, as they tried to climb without a guide. When they hit the first checkpoint the story was confirmed, they were turned back to find a guide.
 
@@ -70,6 +72,8 @@ As we near the peak, the wind picks up and the temperature drops. Our bags are f
 
 At the peak, the thin air becomes more noticeable. Our pace is feeling like a crawl but if we go any faster we would quickly be gasping for breath.
 
+![toubkal view](/img/blog_toubkal-5x7-5659.jpg "toubkal view")
+
 “Say tagine!” We all smile as we pose at the top of Toubkal for a group photo. We made it! The worst is behind us and gravity will be on our side. 
 
 ![Its cold at the top, but I'm enjoying the view!](/img/blog_toubkal-5x7-0233.jpg "Its cold at the top, but I'm enjoying the view!")
@@ -79,3 +83,5 @@ At the peak, the thin air becomes more noticeable. Our pace is feeling like a cr
 Who doesn’t enjoy the view from the top of a mountain. Toubkal is not the highest mountain in Africa, but at 4,167m it lays claim to “North Africa’s” tallest peak.
 
 The descent back to Imlil was tougher than expected and we are all relieved and happy to be back at our Riad for a nice warm shower and to enjoy the customary mint tea.
+
+![almost home!](/img/blog_toubkal-5x7-5710.jpg "almost home!")
