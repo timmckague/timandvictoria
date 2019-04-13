@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Experience Morocco’s cultural and natural treasures
 date: 2019-04-09T22:51:06.465Z
 description: Our two week itinerary through Morocco
-heroImage: /img/blog_morocco_overview-16x9-6076.jpg
+heroImage: /img/blog_morocco_overview-16x9-5738.jpg
 tags:
   - morocco
   - travel
@@ -23,11 +23,11 @@ Our two week adventure as a travelling trio begins!
 
 Over the following two weeks, Tim, Grace and I experienced Morocco - it’s people, food, landscapes, and culture. More to come on those experiences, but here is the bird’s eye view and short summary of our two-week adventure through Morocco:
 
-1. Essaouira
-2. The Atlas Mountains (Imlil and Mount Toubkal)
-3. Marrakech
-4. The Desert (M’Hamid and Erg Chigaga)
-5. Casablanca
+1. Days 1-5: Essaouira (4 nights)
+2. Days 5-9: The Atlas Mountains (4 nights)
+3. Days 9-10: Marrakech (1 night)
+4. Days 10-13: M'Hamid and Erg Chigaga (3 nights)
+5. Days 13-15: Casablanca (2 nights)
 
 <div style="display:flex;justify-content:center;width:100%;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1495.8855501348721!2d-7.911492462743314!3d31.140116156047753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C+Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C+Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C+Morocco!3m2!1d31.6294723!2d-7.9810845!4m5!1s0xdb00e5efec05a9d%3A0x965e72a7f152f377!2sImlil%2C+Morocco!3m2!1d31.137744899999998!2d-7.9197941!4m5!1s0xdb00cfde4f96ed1%3A0x7934f4c42445d7f9!2sToubkal%2C+Morocco!3m2!1d31.060071899999997!2d-7.9147482!4m5!1s0xdb00e5efec05a9d%3A0x965e72a7f152f377!2sImlil%2C+Morocco!3m2!1d31.137744899999998!2d-7.9197941!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C+Morocco!3m2!1d31.6294723!2d-7.9810845!4m5!1s0xdbe62978e766f85%3A0xf9f632f826725240!2sMhamid%2C+Morocco!3m2!1d29.8257743!2d-5.7234007!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C+Morocco!3m2!1d31.6294723!2d-7.9810845!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C+Morocco!3m2!1d33.5731104!2d-7.5898433999999995!5e0!3m2!1sen!2sba!4v1554812168073!5m2!1sen!2sba" width="100%" height="450" frameborder="0" style="border:0;display:block;max-width:600px;" align="middle" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ Essaouira was a great introduction to Morocco.
 
 Medinas (the old walled part of town) are known to have narrow and maze like streets that are unsigned, disorientating, and sometimes impossible to navigate through. Essaouira's medina was small compared to other cities, and, although I never quite mastered the layout, Tim was able to navigate us through the maze, always getting us home safely to our riad. At one point, Grace and I were out exploring the port, and when we tried to return to our home in the medina it took us a few attempts, but Grace got us there by recognizing a chicken foot on the ground!
 
-We enjoyed wandering and negotiating in the medina, eating our first of many tagines, peaceful afternoons in our riad, making new friends, walking the beach, and exploring old ruins.
+We enjoyed wandering and negotiating in the medina, eating our first of many tagines, peaceful afternoons in our riad, making new friends, watching the fisherman in the port, walking the beach, and exploring old ruins.
 
 ![essaouira](/img/blog_morocco_overview-5x7-6838.jpg "essaouira")
 
@@ -61,7 +61,7 @@ We enjoyed wandering and negotiating in the medina, eating our first of many tag
 
 We took a bus, a petit taxi, and a grand taxi to get to the little town of Imlil, nestled in the Atlas Mountains. In Imlil we finalized our plans the next day's departure to hike Mount Toubkal. A lot of negotiating for one day! 
 
-![imlil](/img/blog_morocco_overview-5x7-5764.jpg "imlil")
+![the trio on the marrakech express](/img/blog_morocco_overview-16x9-5494.jpg "the trio on the marrakech express")
 
 **Day 6-7: Hike North Africa’s highest peak, Mount Toubkal**
 
@@ -77,13 +77,17 @@ After the previous day’s 20 some kilometres we enjoyed a day soaking up the su
 
 There weren't any roads in the Berber village, just small footpaths between (and sometimes through!) the houses. And we weren't the only ones using the paths - we had to share them with kids (baby goats) and chickens! Grace and I did a reconnaissance in the afternoon and found a restaurant amidst the maze and arranged dinner with Hassan for that evening. The view from his terrace was exceptional, and we watched the sun set over the mountains as we enjoyed our mint tea and tagine dinner. It was a perfect way to enjoy our last evening in the Atlas Mountains. 
 
-![small berber village](/img/blog_morocco_overview-5x7-5738.jpg "small berber village")
+
+
+![view of imlil from small berber village](/img/blog_morocco_overview-5x7-5764.jpg "view of imlil from small berber village")
 
 **Day 9: Travel to Marrakech and experience the craziness of the medina**
 
 I had been reflecting the previous day on how the unfamiliarity of this new-to-me country was starting to feel more familiar...but then we arrived in Marrakech. 
 
 After more than a week of ocean and mountains, this large city had us feeling unbalanced. We had woken up the past few mornings to birds chirping and sheep baaaahing right outside our window, punctuated occasionally by the trotting sounds of a donkey with its cart. In Marrakech, the medina streets were no more than a few feet wide at times, and motorcycles constantly whizzed past us, with what felt like only a centimetre to spare, and spewing out toxic fumes. It was certainly a juxtaposition to the Atlas Mountains. 
+
+![marrakech](/img/blog_morocco_overview-16x9-3205-2.jpg "marrakech")
 
 ![marrakech](/img/blog_morocco_overview-16x9-3205.jpg "marrakech")
 
