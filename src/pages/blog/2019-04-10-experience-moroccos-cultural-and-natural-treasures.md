@@ -35,7 +35,7 @@ Over the following two weeks, Tim, Grace and I experienced Morocco - it’s peop
 
 - - -
 
-**Day 1: Travel to the ocean-side town of Essaouira**
+## **Day 1: Travel to the ocean-side town of Essaouira**
 
 We left Casablanca on the 10:30am bus and headed for the coast. We knew we would have time to explore Morocco’s largest city at the end of our trip, and wanted to acclimatize ourselves with Morocco in the laid-back, ocean-side town of Essaouira. 
 
@@ -45,7 +45,7 @@ Here is an excerpt from Grace's journal on some of her observations from the bus
 
 ![bus ride to Essaouira](/img/blog_morocco_overview-5x7-9693.jpg "bus ride to Essaouira")
 
-**Day 2-4: Take it easy in Essaouira**
+## **Day 2-4: Take it easy in Essaouira**
 
 Essaouira was a great introduction to Morocco. 
 
@@ -57,13 +57,13 @@ We enjoyed wandering and negotiating in the medina, eating our first of many tag
 
 ![essaouira](/img/blog_morocco_overview-5x7-6838.jpg "essaouira")
 
-**Day 5: Travel to Imlil in the Atlas Mountains**
+## **Day 5: Travel to Imlil in the Atlas Mountains**
 
 We took a bus, a petit taxi, and a grand taxi to get to the little town of Imlil, nestled in the Atlas Mountains. In Imlil we finalized our plans the next day's departure to hike Mount Toubkal. A lot of negotiating for one day! 
 
 ![at our riad in imlil](/img/blog_toubkal-5x7-6914.jpg "at our riad in imlil")
 
-**Day 6-7: Hike North Africa’s highest peak, Mount Toubkal**
+## **Day 6-7: Hike North Africa’s highest peak, Mount Toubkal**
 
 From Imlil we hiked 5 hours to the mountain refuge at the base of Mount Toubkal, where we spent the night. The next morning we rose before dawn to summit North Africa’s highest peak (4,167m), before descending the 2,500m to Imlil.
 
@@ -71,7 +71,7 @@ From Imlil we hiked 5 hours to the mountain refuge at the base of Mount Toubkal,
 
 ![summit of toubkal](/img/blog_morocco_overview-5x7-0233.jpg "summit of toubkal")
 
-**Day 8: Recover in Imlil**
+## **Day 8: Recover in Imlil**
 
 After the previous day’s 20 some kilometres we enjoyed a day soaking up the sun from the comfort our Riad’s wood-lined sun room, and exploring the small berber village across the river.  
 
@@ -79,7 +79,7 @@ There are no roads in the Berber village, just small footpaths between (and some
 
 ![view of imlil from small berber village](/img/blog_morocco_overview-5x7-5764.jpg "view of imlil from small berber village")
 
-**Day 9: Travel to Marrakech and experience the craziness of the medina**
+## **Day 9: Travel to Marrakech and experience the craziness of the medina**
 
 I had been reflecting the previous day on how the unfamiliarity of this new-to-me country was starting to feel more familiar...but then we arrived in Marrakech. 
 
@@ -87,23 +87,23 @@ After more than a week of ocean and mountains, this large city had us feeling un
 
 ![marrakech](/img/blog_morocco_overview-16x9-3205-2.jpg "marrakech")
 
-**Day 10: Drive through the mountains to the end of the road and the start of the Sahara desert**
+## **Day 10: Drive through the mountains to the end of the road and the start of the Sahara desert**
 
 M’Hamid is a town on the edge of the Sahara desert where the road ends and the desert starts. The 10-hr bus ride from Marrakech was long, but we had beautiful views as the bus wound its way through the mountains. A large portion of the road was under repair, which made for tricky driving - we were grateful that someone else was at the wheel!
 
 ![road to m'hamid](/img/blog_morocco_overview-16x9-5817.jpg "road to m'hamid")
 
-**Day 11-12: Visit the Erg Chigaga dunes in the Sahara Desert**
+## **Day 11-12: Visit the Erg Chigaga dunes in the Sahara Desert**
 
 We drove a couple hours from our camp outside M’Hamid to the dunes of Erg Chigaga, where we spent the night at a desert camp (which we had to ourselves!). Highlights included a sunset camel ride, a campfire under the full moon, and waking up to see the sunrise.
 
 ![erg chigaga](/img/blog_morocco_overview-5x7-7191.jpg "erg chigaga")
 
-**Day 13: Travel from M’Hamid to Casablanca**
+## **Day 13: Travel from M’Hamid to Casablanca**
 
 Morocco is a large country - travelling from M’Hamid to Casablanca was a fourteen hour endeavour! After a long day we were happy to be picked up at the bus station by our host and enjoy a home cooked meal with the family.
 
-**Day 14: Experience Casablanca with a local family**
+## **Day 14: Experience Casablanca with a local family**
 
 Casablanca is the commercial centre of Morocco, as well as its largest city. We had a great day visiting the Hassan Mosque, and walking through city's two medinas. Our highlight of the day though was eating delicious homemade meals with our hosts - they were by far the best meals we ate in Morocco. 
 
@@ -113,7 +113,7 @@ Our hosts also provided us with a glimpse into Moroccan life that was different 
 
 ![hassan mosque](/img/blog_morocco_overview-5x7-1099.jpg "hassan mosque")
 
-**Day 15: Goodbye North Africa!**
+## **Day 15: Goodbye North Africa!**
 
 We said our goodbyes to Morocco, and to Grace, and hello to our next adventure! 
 
