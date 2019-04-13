@@ -77,8 +77,6 @@ After the previous day’s 20 some kilometres we enjoyed a day soaking up the su
 
 There weren't any roads in the Berber village, just small footpaths between (and sometimes through!) the houses. And we weren't the only ones using the paths - we had to share them with kids (baby goats) and chickens! Grace and I did a reconnaissance in the afternoon and found a restaurant amidst the maze and arranged dinner with Hassan for that evening. The view from his terrace was exceptional, and we watched the sun set over the mountains as we enjoyed our mint tea and tagine dinner. It was a perfect way to enjoy our last evening in the Atlas Mountains. 
 
-
-
 ![view of imlil from small berber village](/img/blog_morocco_overview-5x7-5764.jpg "view of imlil from small berber village")
 
 **Day 9: Travel to Marrakech and experience the craziness of the medina**
@@ -88,8 +86,6 @@ I had been reflecting the previous day on how the unfamiliarity of this new-to-m
 After more than a week of ocean and mountains, this large city had us feeling unbalanced. We had woken up the past few mornings to birds chirping and sheep baaaahing right outside our window, punctuated occasionally by the trotting sounds of a donkey with its cart. In Marrakech, the medina streets were no more than a few feet wide at times, and motorcycles constantly whizzed past us, with what felt like only a centimetre to spare, and spewing out toxic fumes. It was certainly a juxtaposition to the Atlas Mountains. 
 
 ![marrakech](/img/blog_morocco_overview-16x9-3205-2.jpg "marrakech")
-
-![marrakech](/img/blog_morocco_overview-16x9-3205.jpg "marrakech")
 
 **Day 10: Drive through the mountains to the end of the road and the start of the Sahara desert**
 
@@ -129,4 +125,4 @@ Despite my initial uncertainty and apprehension about Morocco I am so happy that
 
 For me, an important part of travelling is experiencing and sharing it with other people, and I couldn't be happier to have gone on this adventure with my sister, Grace. She brought a renewed excitement and spirit of curiosity that helped push us to do and try things that we wouldn't have without her. Thank you Grace!
 
-Although Morocco was a little rough around the edges at times, the people we met continuously exceeded our expectations with their friendliness. I left feeling grateful to have had the opportunity to visit Morocco, and, most importantly, to travel together as a trio!
+Although Morocco was a little rough around the edges at times, the people we met continuously exceeded our expectations with their friendliness. I left feeling grateful to have had the opportunity to visit Morocco, and, most importantly, to travel together!
