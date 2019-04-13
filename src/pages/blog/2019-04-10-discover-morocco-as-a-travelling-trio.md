@@ -111,7 +111,7 @@ Our hosts also provided us with a glimpse into Moroccan life that was different 
 
 ![hassan mosque](/img/blog_morocco_overview-5x7-6080.jpg "hassan mosque")
 
-![](/img/blog_morocco_overview-4x5-1116.jpg)
+![hassan mosque](/img/blog_morocco_overview-5x7-1099.jpg "hassan mosque")
 
 **Day 15: Goodbye North Africa!**
 
