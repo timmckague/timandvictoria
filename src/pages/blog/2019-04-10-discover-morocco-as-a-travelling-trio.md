@@ -51,17 +51,17 @@ Essaouira was a great introduction to Morocco.
 
 Medinas (the old walled part of town) are known to have narrow and maze like streets that are unsigned, disorientating, and sometimes impossible to navigate through. Essaouira's medina was small compared to other cities, and, although I never quite mastered the layout, Tim was able to navigate us through the maze, always getting us home safely to our riad. At one point, Grace and I were out exploring the port, and when we tried to return to our home in the medina it took us a few attempts, but Grace got us there by recognizing a chicken foot on the ground!
 
-We enjoyed wandering and negotiating in the medina, eating our first of many tagines, peaceful afternoons in our riad, making new friends, watching the fisherman in the port, walking the beach, and exploring old ruins.
-
-![essaouira](/img/blog_morocco_overview-5x7-6838.jpg "essaouira")
+We enjoyed wandering and negotiating in the medina, eating our first of many tagines, peaceful afternoons in our riad, making new friends, watching the fishermen in the port, walking the beach, and exploring old ruins.
 
 ![essaouira](/img/blog_morocco_overview-5x7-6842.jpg "essaouira")
+
+![essaouira](/img/blog_morocco_overview-5x7-6838.jpg "essaouira")
 
 **Day 5: Travel to Imlil in the Atlas Mountains**
 
 We took a bus, a petit taxi, and a grand taxi to get to the little town of Imlil, nestled in the Atlas Mountains. In Imlil we finalized our plans the next day's departure to hike Mount Toubkal. A lot of negotiating for one day! 
 
-![the trio on the marrakech express](/img/blog_morocco_overview-16x9-5494.jpg "the trio on the marrakech express")
+![at our riad in imlil](/img/blog_toubkal-5x7-6914.jpg "at our riad in imlil")
 
 **Day 6-7: Hike North Africa’s highest peak, Mount Toubkal**
 
@@ -75,7 +75,7 @@ From Imlil we hiked 5 hours to the mountain refuge at the base of Mount Toubkal,
 
 After the previous day’s 20 some kilometres we enjoyed a day soaking up the sun from the comfort our Riad’s wood-lined sun room, and exploring the small berber village across the river.  
 
-There weren't any roads in the Berber village, just small footpaths between (and sometimes through!) the houses. And we weren't the only ones using the paths - we had to share them with kids (baby goats) and chickens! Grace and I did a reconnaissance in the afternoon and found a restaurant amidst the maze and arranged dinner with Hassan for that evening. The view from his terrace was exceptional, and we watched the sun set over the mountains as we enjoyed our mint tea and tagine dinner. It was a perfect way to enjoy our last evening in the Atlas Mountains. 
+There are no roads in the Berber village, just small footpaths between (and sometimes through!) the houses. And we weren't the only ones using the paths - we had to share them with kids (baby goats) and chickens! Grace and I did a reconnaissance in the afternoon and found a restaurant amidst the maze and arranged dinner with Hassan for that evening. The view from his terrace was exceptional, and we watched the sun set over the mountains as we enjoyed our mint tea and tagine dinner. It was a perfect way to enjoy our last evening in the Atlas Mountains. 
 
 ![view of imlil from small berber village](/img/blog_morocco_overview-5x7-5764.jpg "view of imlil from small berber village")
 
