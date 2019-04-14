@@ -2,11 +2,11 @@
 templateKey: blog-post
 title: Hike Morocco's Mount Toubkal
 date: 2019-03-22T11:52:42.983Z
-description: Taking on the Atlas Mountain's highest peak
+description: Taking on the Atlas Mountains' highest peak
 heroImage: /img/blog_toubkal-16x9-4950.jpg
 tags:
-  - Morocco
-  - Africa
+  - morocco
+  - africa
   - hike
 ---
 “Yallah! Yallah!” Sabir calls out.
