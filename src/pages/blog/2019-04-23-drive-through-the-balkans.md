@@ -33,3 +33,31 @@ Tim doesn’t have much confidence in his memory of the specifics...“_Other th
 What he thinks will stick with him though is how we both felt on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
 
 What he said reminded me of a quote I had read:
+
+## The Plan
+
+We’ll fill you in on some of the details in future posts, but for now, hopefully this overview gives you a flavour of the trip.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1wrbDQd3fuWRsEXLTHKSiK0dEUU6UBNwN" width="640" height="480"></iframe>
+
+1. **Days 1-7: Montenegro**
+   * Kotor Bay
+   * Lovcen National Park
+   * Petrovac
+   * Zabljak and Durmitor National Park
+2. **Days 7-13: Bosnia and Herzegovina**
+   * Sarajevo
+   * Travnik
+   * Jajce
+   * Banja Luka
+3. **Days 13-16: Croatia**
+   * Zagreb
+4. **Days 16-23, Slovenia**
+   * Ljubljana
+   * Triglav National Park
+   * Predjama Castle
+   * Sabonje
+5. **Days 23-28:Croatia**
+   * Krk
+   * Plitvice National Park
+   * Zadar
