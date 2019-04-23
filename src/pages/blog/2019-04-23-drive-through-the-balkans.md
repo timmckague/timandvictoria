@@ -6,6 +6,10 @@ description: Embarking on a month-long road trip
 heroImage: /img/blog_roadtrip-16x9-7347.jpg
 tags:
   - balkans
+  - montenegro
+  - bosnia and herzegovina
+  - croatia
+  - slovenia
   - roadtrip
   - travel
 ---
@@ -33,6 +37,16 @@ Tim doesn’t have much confidence in his memory of the specifics...“_Other th
 What he thinks will stick with him though is how we both felt on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
 
 What he said reminded me of a quote I had read:
+
+> “I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.” - Maya Angelou 
+
+Tim’s probably right that, except for where pictures, journals and blog posts exist, many specifics may fade (or becomes embellished!) over time But, in the vein of Maya Angelou’s quote, we may never forget the feelings.
+
+## Strong opinions, loosely held
+
+We love how this trip has evolved as we experience new things, moving with the ebbs and flows of how we are feeling in the here and now, and keeping our mind open to changing plans and new experiences. This brings me to the here and now...and how we ended up embarking on a month-long road trip. 
+
+At the start of our trip we felt like travelling slowly and “living” in new cities instead of visiting them briefly. We enjoyed Porto so much that we extended our stay by another week. As  February came around, we craved a little more adventure, so organized a four-day hiking trip. In March it felt like it was time to leave Europe and the comforts of the western world, so embarked on a two week trip through Morocco with Grace. We loved Spain and could have spent longer there, but we were running short on days with our visa, so we flew to Croatia. We landed in Dubrovnik, and, while we enjoyed a peaceful few days as we recovered from the flu, we eventually felt restless in the small, over-touristy town. We had also become accustomed to a faster pace travelling Morocco, and with the end of our trip in sight, wanted to see a little more. So, we thought, "W_hat if we rent a car and head a little more off the beaten path?"_ Two days later, we were speeding off in our little white Citroen, on a one-month road trip through the Balkans!
 
 ## The Plan
 
