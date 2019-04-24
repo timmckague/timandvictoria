@@ -28,7 +28,7 @@ Many great moments came to mind…
 
 Tim doesn’t have much confidence in his memory of the specifics...“_Other than what you remind me about, I don’t think I’ll remember many specific events 20 years from now._”
 
-What he thinks will stick with him though is how we both **_felt_** on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
+What he thinks will stick with him though is how we both _**felt**_ on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
 
 What he said reminded me of a quote I had read:
 
@@ -52,24 +52,35 @@ We’ll fill you in on some of the details in future posts, but for now, hopeful
 
 </div>
 
-1. **Days 1-7: Montenegro**
-   * Kotor Bay
-   * Lovcen National Park
-   * Petrovac
-   * Zabljak and Durmitor National Park
-2. **Days 7-13: Bosnia and Herzegovina**
-   * Sarajevo
-   * Travnik
-   * Jajce
-   * Banja Luka
-3. **Days 13-16: Croatia**
-   * Zagreb
-4. **Days 16-23, Slovenia**
-   * Ljubljana
-   * Triglav National Park
-   * Predjama Castle
-   * Sabonje
-5. **Days 23-28:Croatia**
-   * Krk
-   * Plitvice National Park
-   * Zadar
+****
+
+**Days 1-7: Montenegro**
+
+* Kotor Bay
+* Lovcen National Park
+* Petrovac
+* Zabljak and Durmitor National Park
+
+**Days 7-13: Bosnia and Herzegovina**
+
+* Sarajevo
+* Travnik
+* Jajce
+* Banja Luka
+
+**Days 13-16: Croatia**
+
+* Zagreb
+
+**Days 16-23, Slovenia**
+
+* Ljubljana
+* Triglav National Park
+* Predjama Castle
+* Sabonje
+
+**Days 23-28:Croatia**
+
+* Krk
+* Plitvice National Park
+* Zadar
