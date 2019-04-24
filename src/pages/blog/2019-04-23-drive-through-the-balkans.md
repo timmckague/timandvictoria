@@ -25,7 +25,8 @@ Many great moments came to mind…
 * Running and walking new routes...there is something exhilarating about exploring new territory on your own two feet
 * Experiencing unexpected kindness from strangers...especially from Francesco who rescued us from being locked outside our apartment, and Clementina who treated us to gelato and a tour of Ljubljana
 * Sharing all these day-to-day moments with Tim (and with Grace in Morocco!)...sharing them with someone close makes them all the more special
-* Tim doesn’t have much confidence in his memory of the specifics...“_Other than what you remind me about, I don’t think I’ll remember many specific events 20 years from now._”
+
+Tim doesn’t have much confidence in his memory of the specifics...“_Other than what you remind me about, I don’t think I’ll remember many specific events 20 years from now._”
 
 What he thinks will stick with him though is how we both _**felt**_ on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
 
