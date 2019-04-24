@@ -28,7 +28,7 @@ Many great moments came to mind…
 
 Tim doesn’t have much confidence in his memory of the specifics...“_Other than what you remind me about, I don’t think I’ll remember many specific events 20 years from now._”
 
-What he thinks will stick with him though is how we both _**felt**_ on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
+What he thinks will stick with him though is how we both **_felt_** on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
 
 What he said reminded me of a quote I had read:
 
@@ -46,7 +46,11 @@ At the start of our trip we felt like travelling slowly and “living” in new 
 
 We’ll fill you in on some of the details in future posts, but for now, hopefully this overview gives you a flavour of the trip.
 
+<div style="display:flex;justify-content:center;width:100%;">
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1wrbDQd3fuWRsEXLTHKSiK0dEUU6UBNwN" width="640" height="480"></iframe>
+
+</div>
 
 1. **Days 1-7: Montenegro**
    * Kotor Bay
