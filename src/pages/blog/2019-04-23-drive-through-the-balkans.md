@@ -63,6 +63,8 @@ We’ll fill you in on some of the details in future posts, but for now, hopeful
 * Petrovac
 * Zabljak and Durmitor National Park
 
+![kotor bay](/img/blog_balkan_montenegro-5x7-6430.jpg "kotor bay")
+
 **Days 7-13: Bosnia and Herzegovina**
 
 * Sarajevo
@@ -70,9 +72,13 @@ We’ll fill you in on some of the details in future posts, but for now, hopeful
 * Jajce
 * Banja Luka
 
+![sarajevo](/img/blog_balkan_bosnia-16x9-6858.jpg "sarajevo")
+
 **Days 13-16: Croatia**
 
 * Zagreb
+
+![zagreb](/img/blog_balkan_zagreb-5x7-7502.jpg "zagreb")
 
 **Days 16-23, Slovenia**
 
@@ -80,6 +86,8 @@ We’ll fill you in on some of the details in future posts, but for now, hopeful
 * Triglav National Park
 * Predjama Castle
 * Sabonje
+
+![triglav national park](/img/blog_balkan_slovenia-16x9-7583.jpg "triglav national park")
 
 **Days 23-28:Croatia**
 
