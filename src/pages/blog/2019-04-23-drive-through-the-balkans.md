@@ -74,6 +74,8 @@ We’ll fill you in on some of the details in future posts, but for now, hopeful
 
 ![sarajevo](/img/blog_balkan_bosnia-16x9-6858.jpg "sarajevo")
 
+![sarajevo 1984 olympic bobsled track](/img/blog_balkan_bosnia-16x9-6935.jpg "sarajevo 1984 olympic bobsled track")
+
 **Days 13-16: Croatia**
 
 * Zagreb
@@ -87,10 +89,12 @@ We’ll fill you in on some of the details in future posts, but for now, hopeful
 * Predjama Castle
 * Sabonje
 
-![triglav national park](/img/blog_balkan_slovenia-16x9-7583.jpg "triglav national park")
+![triglav national park](/img/blog_balkan_slovenia-5x7-7584.jpg "triglav national park")
 
 **Days 23-28:Croatia**
 
 * Krk
 * Plitvice National Park
 * Zadar
+
+![plitvice national park](/img/blog_balkan_croatia-5x7-7728.jpg "plitvice national park")
