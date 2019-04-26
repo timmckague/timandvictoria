@@ -20,7 +20,7 @@ Over dinner last night, Tim asked “_Ten or twenty years from now, what do you 
 Many great moments came to mind…
 
 * Hunting down the best coffee shop in new cities...Barcelona, Porto, and Ljubljana had shops that made it into the top three
-* Watching awe inspiring sunsets with a picnic...one in Porto and Dubrovnik were particularly memorable
+* Watching awe inspiring sunsets with a picnic...ones in Porto and Dubrovnik were particularly memorable
 * Eating the local food...favourites included pasteis de nata and bifana in Portugal, clementines and tagine in Morocco, and burek and cevapi in Bosnia
 * Running and walking new routes...there is something exhilarating about exploring new territory on your own two feet
 * Experiencing unexpected kindness from strangers...especially from Francesco who rescued us from being locked outside our apartment, and Clementina who treated us to gelato and a tour of Ljubljana
@@ -28,7 +28,7 @@ Many great moments came to mind…
 
 Tim doesn’t have much confidence in his memory of the specifics...“_Other than what you remind me about, I don’t think I’ll remember many specific events 20 years from now._”
 
-What he thinks will stick with him though is how we both **_felt_** on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
+What he thinks will stick with him though is how we both _**felt**_ on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
 
 What he said reminded me of a quote I had read:
 
@@ -38,7 +38,7 @@ Tim’s probably right that, except for where pictures, journals and blog posts 
 
 ## Strong opinions, loosely held
 
-We love how this trip has evolved as we experience new things, moving with the ebbs and flows of how we are feeling in the here and now, and keeping our mind open to changing plans and new experiences. 
+We love how this trip evolves as we experience new things, moving with the ebbs and flows of how we are feeling in the here and now, and keeping our mind open to changing plans and new experiences. 
 
 At the start of our trip we felt like travelling slowly and “living” in new cities instead of visiting them briefly. We enjoyed Porto so much that we extended our stay by another week. As  February came around, we craved a little more adventure, so organized a four-day hiking trip. In March it felt like it was time to leave Europe and the comforts of the western world, so embarked on a two week trip through Morocco with Grace. We loved Spain and could have spent longer there, but we were running short on days with our visa, so we flew to Croatia. We landed in Dubrovnik, and, while we enjoyed a peaceful few days as we recovered from the flu, we eventually felt restless in the small, over-touristy town. We had also become accustomed to a faster pace travelling Morocco, and with the end of our trip in sight, wanted to see a little more. So, we thought, "_What if we rent a car and head a little more off the beaten path?"_ Two days later, we were speeding off in our little white Citroen, on a one-month road trip through the Balkans!
 
