@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Drive through the Balkans
 date: 2019-04-23T21:01:26.871Z
-description: Embarking on a month-long road trip
+description: 'Our month-long road trip through Montenegro, Bosnia, Slovenia, and Croatia'
 heroImage: /img/blog_balkan_roadtrip-16x9-7347.jpg
 tags:
   - balkans
