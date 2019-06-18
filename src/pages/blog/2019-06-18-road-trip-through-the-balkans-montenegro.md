@@ -16,22 +16,14 @@ You can drive across the entirety of Montenegro in less time than it takes to dr
 
 Here’s a snapshot of our week in Montenegro.
 
+* Day 1: Drive from Dubrovnik to Kotor, and explore old town
+* Day 2: Kotor hike and Lovcen sunset picnic
+* Day 3: Beach day at Petrovac, and sunset dinner in Tivat
+* Day 4: Work day in Kotor
+* Day 5: Drive from Kotor to Durmitor National Park and check out Tara Canyon
+* Day 6: Watch the rain and sleet from our window :(
+* Day 7: Drive through a harrowing canyon on our way to Bosnia
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1H6YFZ9szU6xVzWgb1AXmy6pQK9yKOysJ" width="640" height="480"></iframe>
-
-Day 1: Drive from Dubrovnik to Kotor, and explore old town
-
-Day 2: Kotor hike and Lovcen sunset picnic
-
-Day 3: Beach day at Petrovac, and sunset dinner in Tivat
-
-Day 4: Work day in Kotor
-
-Day 5: Drive from Kotor to Durmitor National Park and check out Tara Canyon
-
-Day 6: Watch the rain and sleet from our window :(
-
-Day 7: Drive through a harrowing canyon on our way to Bosnia
-
-
 
 In Montenegro we experienced beaches, mountains, crazy small roads, and beautiful sunsets. These are our five highlights from our time in Montenegro.
