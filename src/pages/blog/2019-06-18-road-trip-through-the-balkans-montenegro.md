@@ -38,6 +38,8 @@ In Montenegro we experienced crazy small roads, mountains, beaches, and beautifu
 
 Driving from Dubrovnik to Kotor it felt like we were sixteen again - we felt so independent and free! All of a sudden, transit days became (an enjoyable) part of the adventure - we could take detours, stop at beautiful viewpoints, and sing our hearts out with the windows down (thanks Tim for putting up with my singing!). 
 
+![road tripping in Montenegro](/img/blog_balkan_montenegro-5x7-6569.jpg "road tripping in Montenegro")
+
 ## \#2 Hiking the ladder of Kotor
 
 What I think makes Kotor so beautiful is the combination of the old town, the water, and the mountains surrounding the bay. 
