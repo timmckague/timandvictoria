@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Drive through the Balkans: Montenegro'
 date: 2019-06-18T21:03:56.827Z
-description: 'Hiking, swimming, and sunset watching in Montenegro'
+description: 'Switchbacking, hiking, swimming, and sunset watching in Montenegro'
 heroImage: /img/blog_balkan_kotor-16x9-7275.jpg
 tags:
   - travel
