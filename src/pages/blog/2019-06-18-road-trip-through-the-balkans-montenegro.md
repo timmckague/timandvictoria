@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Road trip through the Balkans: Montenegro'
 date: 2019-06-18T21:03:56.827Z
-description: 'Beaches, mountains, and crazy roads'
+description: 'Experiencing beaches, mountains, and crazy roads'
 heroImage: /img/blog_balkan_kotor-16x9-7275.jpg
 tags:
   - travel
@@ -20,8 +20,8 @@ Here’s a snapshot of our week in Montenegro.
 * Day 2: Kotor hike and Lovcen sunset picnic
 * Day 3: Beach day at Petrovac, and sunset dinner in Tivat
 * Day 4: Work day in Kotor
-* Day 5: Drive from Kotor to Durmitor National Park and check out Tara Canyon
-* Day 6: Watch the rain and sleet from our window :(
+* Day 5: Drive from Kotor to Durmitor National Park and visit Tara Canyon
+* Day 6: Watch the rain and sleet from our window in Zabljak :(
 * Day 7: Drive through a harrowing canyon on our way to Bosnia
 
 <div style="display:flex;justify-content:center;width:100%;">
