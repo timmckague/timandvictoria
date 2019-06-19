@@ -42,17 +42,29 @@ Driving from Dubrovnik to Kotor it felt like we were sixteen again - we felt so 
 
 What I think makes Kotor so beautiful is the combination of the old town, the water, and the mountains surrounding the bay. 
 
+![bay of kotor](/img/blog_balkan_kotor-5x7-6420.jpg "bay of kotor")
+
 The ladder of Kotor is a trail of 60+ switchbacks that ascend above Kotor. The reward was a bird’s eye view of the old town below, the Bay of Kotor, and out and over the town’s mountain ridges. 
 
 We started our hike by walking up the Kotor wall, which climbs 200 metres up steps to the San Giovanni castle. 
+
+![kotor wall](/img/blog_balkan_kotor-5x7-7259.jpg "kotor wall")
 
 From the San Giovanni castle, we looked East and could see the switchbacks of the ladder of Kotor climbing up the mountain. Helpful to see the trail, but now we needed to figure how to get to it, as there was a valley in between us and the trail! A song started looping on repeat that my parents would sing to me when I was a kid...“We can't go over it. We can't go under it. Oh no! We've got to go through it!” Back down the path we went. 
 
 We descended back down a little way, and saw an opening in the wall. We poked a heads through to see if we could get any hints at where the trail might be behind the wall, and, low and behold, it turned out that the trail went through the hole in the wall!
 
-It felt like a whole different world past the wall. It was so peaceful. All the noises of the town disappeared and the only sounds we heard were the birds and our own footsteps. It felt as if we were Lucy stepping through the wardrobe into Narnia. 
+![hole in wall](/img/blog_balkan_kotor-5x7-6435.jpg "hole in wall")
+
+![hole in wall](/img/blog_balkan_kotor-5x7-6440.jpg "hole in wall")
+
+It felt like a different world past the wall. It was so peaceful. All the noises of the town disappeared and the only sounds we heard were the birds and our own footsteps. It felt as if we were Lucy stepping through the wardrobe into Narnia. 
 
 We walked back and forth, back and forth, back and forth, until we’d done about 60ish switchback and reached 570 metres above Kotor. Our water had long since run out and the sun continued beating down at full strength, so we happily called it a day and zigzagged our way back down.
+
+![no more water!](/img/blog_balkan_kotor-5x7-7245.jpg "no more water!")
+
+![descending ladder of kotor](/img/blog_balkan_kotor-5x7-2-2.jpg "descending ladder of kotor")
 
 ## \#3 Driving crazy switchbacks to catch the sunset
 
@@ -62,9 +74,21 @@ To layer on this, the road was the only road connecting many of the nearby towns
 
 We were grateful for our small car and glad that someone was ahead of us at this particular pass!
 
+![narrow road](/img/blog_balkan_lovecen-16x9-5469.jpg "narrow road")
+
 The views along the road were stunning.
 
+![tim driving](/img/blog_balkan_lovecen-16x9-5461.jpg "tim driving")
+
+![views driving to Lovcen National Park](/img/blog_balkan_lovecen-16x9-5475.jpg "views driving to Lovcen National Park")
+
 As we drove further and further up the mountain we started seeing snow build up around us. We had spent the last three months avoiding our Canadian winter, and now we were driving right into it! Despite the cold temperature, we enjoyed a picnic dinner just before the sun dropped behind the mountains.
+
+![sunset picnic](/img/blog_balkan_lovecen-5x7-7333.jpg "sunset picnic")
+
+![sunset picnic](/img/blog_balkan_lovecen-5x7-5490.jpg "sunset picnic")
+
+![sunset picnic](/img/blog_balkan_lovecen-5x7-7315.jpg "sunset picnic")
 
 ## \#4 Spending the day by the water
 
@@ -72,12 +96,38 @@ Our third day in Montenegro we put our swimsuits to use and took a day trip to t
 
 We drove an hour South from Kotor to the small town of Petrovac. We picked Petrovac as our destination because I had read about a nature trail along the coast as well as a smaller more isolated beach just south of the town that I thought would make for a nice swimming spot. Neither disappointed.
 
-The nature trail started at the north end of Petrovac’s beach, the entrance tucked away behind one of the restaurants. The path was easy walking and meandered along the coast for a little over a kilometre, and then continued right into the cliff! I am terrified of tunnels - especially ones that are so long that you can’t see the end (the longest tunnel was 500m!) and ones that are in remote places, but, our desire to make it to the end outweighed my fear, and on we marched.
+The nature trail started at the north end of Petrovac’s beach, the entrance tucked away behind one of the restaurants. The path was easy walking and meandered along the coast for a little over a kilometre. 
+
+![oceanside trail](/img/blog_balkan_petrovac-5x7-6485.jpg "oceanside trail")
+
+The path then continued right into the cliff! I am terrified of tunnels - especially ones that are so long that you can’t see the end (the longest tunnel was 500m!) and ones that are in remote places, but, our desire to make it to the end outweighed my fear, and on we marched.
+
+![pedestrian tunnel](/img/blog_balkan_petrovac-5x7-6481.jpg "pedestrian tunnel")
 
 After surviving our tunnel walk, we walked south of Petrovac to Lucice, a small quiet beach. There were three others on the beach, and we enjoyed the peacefulness of the Adriatic Sea. 
 
+![swimming at Lucice beach](/img/blog_balkan_petrovac-5x7-6491.jpg "swimming at Lucice beach")
+
 ## \#5 A harrowing canyon drive
 
-The drive from Durmitor National Park in Montenegro to Sarajevo, Bosnia requires driving a 17km section through the Tara Canyon. The road is carved on the steep banks of the canyon, with many tunnels and occasional views of the river far below. It was an amazing road to drive, but also a little nerveracking - none of the tunnels were lit, rocks were falling from the cliffs and the tunnel ceiling onto the road, and fellow drivers treated the pass as a one-way road!
+The drive from Durmitor National Park in Montenegro to Sarajevo, Bosnia requires driving a 17km section through the Tara Canyon. 
+
+![tara canyon](/img/blog_balkan_canyon-5x7-6650.jpg "tara canyon")
+
+The road is carved on the steep banks of the canyon, with many tunnels and occasional views of the river far below. It was an amazing road to drive, but also a little nerveracking - none of the tunnels were lit, rocks were falling from the cliffs and the tunnel ceiling onto the road, and fellow drivers treated the pass as a one-way road!
+
+![narrow tunnel entrance](/img/blog_balkan_canyon-16x9-3.jpg "narrow tunnel entrance")
+
+![rocks on road](/img/blog_balkan_canyon-16x9-.jpg "rocks on road")
+
+![short and sweet tunnel](/img/blog_balkan_canyon-16x9-2.jpg "short and sweet tunnel")
+
+![unlit tunnel](/img/blog_balkan_canyon-16x9-4.jpg "unlit tunnel")
 
 As much as we enjoyed the drive, we enjoyed even more the feeling of making it through alive and with no noticeable damage to our rental car.
+
+## The highlight we missed
+
+We had planned to hike ...
+
+## What's next?
