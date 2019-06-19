@@ -18,9 +18,9 @@ Here is a snapshot of our week in Montenegro.
 
 * Day 1: Drove from Dubrovnik to Kotor, and explored Kotor's old town
 * Day 2: Hiked the Ladder of Kotor and caught the sunset from Lovcen Park
-* Day 3: Enjoyed the coast and beach day in Petrovac, and a sunset dinner in Tivat
+* Day 3: Enjoyed a beach day in Petrovac, and a sunset dinner in Tivat
 * Day 4: Working day in Kotor
-* Day 5: Drove from Kotor to Durmitor National Park and visit Tara Canyon
+* Day 5: Drove from Kotor to Durmitor National Park
 * Day 6: Planned to hike Bobotov Kuk, but instead watched the rain and sleet from our window in Zabljak
 * Day 7: Drove through a harrowing canyon on our way to Bosnia
 
@@ -122,7 +122,7 @@ As much as we enjoyed the drive, we were even happier when we made it through al
 
 ## The highlight we missed
 
-While based in Zabljak we had planned to hike Bobotov Kuk mountain, the highest peak in Durmitor National Park. Unfortunately, we were too early in the season (beginning of April) as the mountain range was still completely snowed in. While we are usually all for winter hiking, we weren't prepared with the right gear or with sufficient knowledge to make the attempt. If you ever make your way to Montenegro and are up for a hike, try Bobotov Kuk and let us know how it is!
+While based in Zabljak we had planned to hike Bobotov Kuk mountain, the highest peak in Durmitor National Park. Unfortunately, we were too early in the season (beginning of April) as the mountain range was still completely snowed in. Although we are usually all for winter hiking, we weren't prepared with the right gear or with sufficient knowledge to make the attempt. If you ever make your way to Montenegro and are up for a hike, try Bobotov Kuk and let us know how it is!
 
 ## What's next?
 
