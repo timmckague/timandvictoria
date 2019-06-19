@@ -62,8 +62,6 @@ It felt like a different world past the wall. It was so peaceful. All the noises
 
 We walked back and forth, back and forth, back and forth, until we’d done about 60ish switchback and reached 570 metres above Kotor. Our water had long since run out and the sun continued beating down at full strength, so we happily called it a day and zigzagged our way back down.
 
-![no more water!](/img/blog_balkan_kotor-5x7-7245.jpg "no more water!")
-
 ![descending ladder of kotor](/img/blog_balkan_kotor-5x7-2-2.jpg "descending ladder of kotor")
 
 ## \#3 Driving crazy switchbacks to catch the sunset
@@ -86,15 +84,9 @@ As we drove further and further up the mountain we started seeing snow build up 
 
 ![sunset picnic](/img/blog_balkan_lovecen-5x7-7333.jpg "sunset picnic")
 
-![sunset picnic](/img/blog_balkan_lovecen-5x7-5490.jpg "sunset picnic")
-
-![sunset picnic](/img/blog_balkan_lovecen-5x7-7315.jpg "sunset picnic")
-
 ## \#4 Spending the day by the water
 
-Our third day in Montenegro we put our swimsuits to use and took a day trip to the beach. In reality, the water was pretty chilly, so we spent the majority of our afternoon walking the coastline, and reading on the beach. 
-
-We drove an hour South from Kotor to the small town of Petrovac. We picked Petrovac as our destination because I had read about a nature trail along the coast as well as a smaller more isolated beach just south of the town that I thought would make for a nice swimming spot. Neither disappointed.
+Our third day in Montenegro we put our swimsuits to use and took a day trip to the beach. We drove an hour South from Kotor to the small town of Petrovac. We picked Petrovac as our destination because I had read about a nature trail along the coast as well as a smaller more isolated beach just south of the town that I thought would make for a nice swimming spot. Neither disappointed.
 
 The nature trail started at the north end of Petrovac’s beach, the entrance tucked away behind one of the restaurants. The path was easy walking and meandered along the coast for a little over a kilometre. 
 
@@ -120,11 +112,7 @@ The road is carved on the steep banks of the canyon, with many tunnels and occas
 
 ![rocks on road](/img/blog_balkan_canyon-16x9-.jpg "rocks on road")
 
-![short and sweet tunnel](/img/blog_balkan_canyon-16x9-2.jpg "short and sweet tunnel")
-
-![unlit tunnel](/img/blog_balkan_canyon-16x9-4.jpg "unlit tunnel")
-
-As much as we enjoyed the drive, we enjoyed even more the feeling of making it through alive and with no noticeable damage to our rental car.
+As much as we enjoyed the drive, we were even happier when we made it through alive and with no noticeable damage to White Lightning (our little Citroen).
 
 ## The highlight we missed
 
