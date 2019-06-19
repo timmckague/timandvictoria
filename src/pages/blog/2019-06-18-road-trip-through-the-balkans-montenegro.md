@@ -14,15 +14,15 @@ tags:
 
 You can drive across the entirety of Montenegro in less time than it takes to drive from Toronto to Ottawa, but it still packs in a lot to see and experience. 
 
-Here’s a snapshot of our week in Montenegro.
+Here is a snapshot of our week in Montenegro.
 
-* Day 1: Drive from Dubrovnik to Kotor, and explore old town
-* Day 2: Kotor hike and Lovcen sunset picnic
-* Day 3: Beach day at Petrovac, and sunset dinner in Tivat
-* Day 4: Work day in Kotor
-* Day 5: Drive from Kotor to Durmitor National Park and visit Tara Canyon
-* Day 6: Watch the rain and sleet from our window in Zabljak :(
-* Day 7: Drive through a harrowing canyon on our way to Bosnia
+* Day 1: Drove from Dubrovnik to Kotor, and explored Kotor's old town
+* Day 2: Hiked the Ladder of Kotor and caught the sunset from Lovcen Park
+* Day 3: Enjoyed the coast and beach day in Petrovac, and a sunset dinner in Tivat
+* Day 4: Working day in Kotor
+* Day 5: Drove from Kotor to Durmitor National Park and visit Tara Canyon
+* Day 6: Planned to hike Bobotov Kuk, but instead watched the rain and sleet from our window in Zabljak
+* Day 7: Drove through a harrowing canyon on our way to Bosnia
 
 <div style="display:flex;justify-content:center;width:100%;">
 
@@ -32,11 +32,11 @@ Here’s a snapshot of our week in Montenegro.
 
 <br>
 
-In Montenegro we experienced beaches, mountains, crazy small roads, and beautiful sunsets. These are our five highlights from our time in Montenegro.
+In Montenegro we experienced crazy small roads, mountains, beaches, and beautiful sunsets. These are our top five highlights from our time in Montenegro.
 
 ## \#1 Having our own set of wheels
 
-Driving from Dubrovnik to Kotor it felt like we were sixteen again - we felt so independent and free! All of a sudden, transit days are (an enjoyable) part of the adventure - we can take detours, stop at beautiful viewpoints, and sing our hearts out with the windows down (thanks Tim for putting up with my singing!). 
+Driving from Dubrovnik to Kotor it felt like we were sixteen again - we felt so independent and free! All of a sudden, transit days became (an enjoyable) part of the adventure - we could take detours, stop at beautiful viewpoints, and sing our hearts out with the windows down (thanks Tim for putting up with my singing!). 
 
 ## \#2 Hiking the ladder of Kotor
 
@@ -44,23 +44,23 @@ What I think makes Kotor so beautiful is the combination of the old town, the wa
 
 ![bay of kotor](/img/blog_balkan_kotor-5x7-6420.jpg "bay of kotor")
 
-The ladder of Kotor is a trail of 60+ switchbacks that ascend above Kotor. The reward was a bird’s eye view of the old town below, the Bay of Kotor, and out and over the town’s mountain ridges. 
+The ladder of Kotor is a trail of 60+ switchbacks that ascend above Kotor. The reward is a bird’s eye view of the old town below, the Bay of Kotor, and out and over the town’s mountain ridges. 
 
 We started our hike by walking up the Kotor wall, which climbs 200 metres up steps to the San Giovanni castle. 
 
 ![kotor wall](/img/blog_balkan_kotor-5x7-7259.jpg "kotor wall")
 
-From the San Giovanni castle, we looked East and could see the switchbacks of the ladder of Kotor climbing up the mountain. Helpful to see the trail, but now we needed to figure how to get to it, as there was a valley in between us and the trail! A song started looping on repeat that my parents would sing to me when I was a kid...“We can't go over it. We can't go under it. Oh no! We've got to go through it!” Back down the path we went. 
+From the San Giovanni castle, we looked East away from the bay and could see the switchbacks of the ladder of Kotor climbing up the mountain. It was helpful to see the trail, but unfortunately there was a valley in between us and the trail! A song started looping on repeat from when I was a kid...“We can't go over it. We can't go under it. Oh no! We've got to go through it!” Back down the path we went. 
 
-We descended back down a little way, and saw an opening in the wall. We poked a heads through to see if we could get any hints at where the trail might be behind the wall, and, low and behold, it turned out that the trail went through the hole in the wall!
+We descended back down the Kotor Wall a few hundred metres and saw an opening in the wall. We poked a heads through to see if we could get any hints at where the trail might be, and, low and behold, it turned out that the trail went through the hole in the wall!
 
 ![hole in wall](/img/blog_balkan_kotor-5x7-6435.jpg "hole in wall")
 
 ![hole in wall](/img/blog_balkan_kotor-5x7-6440.jpg "hole in wall")
 
-It felt like a different world past the wall. It was so peaceful. All the noises of the town disappeared and the only sounds we heard were the birds and our own footsteps. It felt as if we were Lucy stepping through the wardrobe into Narnia. 
+It felt like a different world past the wall. It was so peaceful. All the noises of the town disappeared and the only sounds we heard were the birds and our own footsteps. I imagined we were Lucy stepping through the wardrobe into Narnia. 
 
-We walked back and forth, back and forth, back and forth, until we’d done about 60ish switchback and reached 570 metres above Kotor. Our water had long since run out and the sun continued beating down at full strength, so we happily called it a day and zigzagged our way back down.
+We walked back and forth, back and forth, back and forth, until we’d done about 60ish switchback and reached 570 metres. Our water had long since run out and the sun continued beating down at full strength, so we happily called it a day and zigzagged our way back down, clocking in at 14km. 
 
 ![descending ladder of kotor](/img/blog_balkan_kotor-5x7-2-2.jpg "descending ladder of kotor")
 
@@ -84,19 +84,23 @@ As we drove further and further up the mountain we started seeing snow build up 
 
 ![sunset picnic](/img/blog_balkan_lovecen-5x7-7333.jpg "sunset picnic")
 
+Nature continued to give us a show as we made our way back home.
+
+![montenegro sunset](/img/blog_balkan_roadtrip-16x9-7347.jpg "montenegro sunset")
+
 ## \#4 Spending the day by the water
 
-Our third day in Montenegro we put our swimsuits to use and took a day trip to the beach. We drove an hour South from Kotor to the small town of Petrovac. We picked Petrovac as our destination because I had read about a nature trail along the coast as well as a smaller more isolated beach just south of the town that I thought would make for a nice swimming spot. Neither disappointed.
+Our third day in Montenegro we put our swimsuits to use and made a day trip to the beach. We drove an hour South from Kotor to the small town of Petrovac. We picked Petrovac as our destination because I had read about a nature trail along the coast as well as a smaller more isolated beach just south of the town that I thought would make for a nice swimming spot. Neither disappointed.
 
 The nature trail started at the north end of Petrovac’s beach, the entrance tucked away behind one of the restaurants. The path was easy walking and meandered along the coast for a little over a kilometre. 
 
 ![oceanside trail](/img/blog_balkan_petrovac-5x7-6485.jpg "oceanside trail")
 
-The path then continued right into the cliff! I am terrified of tunnels - especially ones that are so long that you can’t see the end (the longest tunnel was 500m!) and ones that are in remote places, but, our desire to make it to the end outweighed my fear, and on we marched.
+The path then continued right into the cliff! I am not a fan of tunnels - especially ones that are so long you can’t see the end (the longest tunnel was 500m!) and ones that are in remote places, but, our desire to make it to the end outweighed my fear, and on we marched.
 
 ![pedestrian tunnel](/img/blog_balkan_petrovac-5x7-6481.jpg "pedestrian tunnel")
 
-After surviving our tunnel walk, we walked south of Petrovac to Lucice, a small quiet beach. There were three others on the beach, and we enjoyed the peacefulness of the Adriatic Sea. 
+After surviving our tunnel walk, we walked south of Petrovac to Lucice, a small quiet beach where we enjoyed a quick dip and the peacefulness of the Adriatic Sea. 
 
 ![swimming at Lucice beach](/img/blog_balkan_petrovac-5x7-6491.jpg "swimming at Lucice beach")
 
@@ -116,6 +120,8 @@ As much as we enjoyed the drive, we were even happier when we made it through al
 
 ## The highlight we missed
 
-We had planned to hike ...
+While based in Zabljak we had planned to hike Bobotov Kuk mountain, the highest peak in Durmitor National Park. Unfortunately, we were too early in the season (beginning of April) as the mountain range was still completely snowed in. While we are usually all for winter hiking, we weren't prepared with the right gear or with sufficient knowledge to make the attempt. If you ever make your way to Montenegro and are up for a hike, try Bobotov Kuk and let us know how it is!
 
 ## What's next?
+
+Our seven days in Montenegro is part of our larger one-month road trip through the Balkans. You can check out [our 28-day itinerary here](https://www.timandvictoria.com/blog/2019-04-23-drive-through-the-balkans/). Next up is Bosnia and Herzegovina, where we met the friendliest people, gorged on delicious 'fast-food', and witnessed a country making the uphill climb after a recent traumatic past.
