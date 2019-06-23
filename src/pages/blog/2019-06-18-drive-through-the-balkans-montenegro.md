@@ -44,11 +44,11 @@ Driving from Dubrovnik to Kotor, it felt like we were sixteen...again! Nothing l
 
 The ladder of Kotor is a trail of 60+ switchbacks. The reward is a bird’s eye view of the old town below, the Bay of Kotor, and the surrounding mountain ridges. 
 
-![bay of kotor](/img/blog_balkan_kotor-5x7-6420.jpg "bay of kotor")
-
 We started our hike by walking up the steps of the Kotor wall, which climb 200 metres above sea level to the San Giovanni castle.
 
 ![kotor wall](/img/blog_balkan_kotor-5x7-7259.jpg "kotor wall")
+
+![view from san giovanni castle](/img/blog_balkan_kotor-5x7-6420.jpg "view from san giovanni castle")
 
 From the San Giovanni castle, we looked East away from the bay, and could see the switchbacks of the ladder of Kotor climbing up the mountain. But, ALAS! There was a valley in between us and the trail! A favourite childhood song started looping on repeat in my head: “_We can't go over it. We can't go under it. Oh no! We've got to go through it!_” SO, back down the path we went. 
 
