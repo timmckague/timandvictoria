@@ -58,7 +58,7 @@ A few hundred metres later, we spotted an opening in the wall. We poked a heads 
 
 ![hole in wall](/img/blog_balkan_kotor-5x7-6440.jpg "hole in wall")
 
-It was _a whole new world _through the wall (cue the music again!). SUDDENly, the noises from the town below disappeared and the only sounds we heard were the birds and our own footsteps. I again had a childhood flashback imagining we were Lucy stepping through the wardrobe into Narnia. 
+It was _a whole new world_ through the wall (cue the music again!). SUDDENly, the noises from the town below disappeared and the only sounds we heard were the birds and our own footsteps. I again had a childhood flashback imagining we were Lucy stepping through the wardrobe into Narnia. 
 
 We walked...<p style="margin-left: 0px; line-height: 0.2">back</p><p style="margin-left: 30px; line-height: 0.2">and</p><p style="margin-left: 60px; line-height: 0.2">forth</p><p style="margin-left: 30px; line-height: 0.2">back</p><p style="margin-left: 0px; line-height: 0.2">and</p><p style="margin-left: 30px; line-height: 0.2">forth</p><p style="margin-left: 0px; line-height: 0.2">back</p><p style="margin-left: 30px; line-height: 0.2">and</p><p style="margin-left: 60px; line-height: 0.2">forth.</p>\
 Sixty some switchbacks and 570 metres above sea level later, with the sun still beating down at full strength and our water long gone, we happily called it a day and zigzagged our way back down, clocking in at 14km. 
@@ -69,7 +69,7 @@ Sixty some switchbacks and 570 metres above sea level later, with the sun still 
 
 We had driven some switchbacks on a small detour from Dubrovnik to Kotor, but they didn’t do much to prepare us for the switchbacks leading to Lovcen National Park. The route up the mountain was a two-way, one-lane road, with a cliff dropping down one side. When two cars encountered each other, one would often pull off the road to let the other pass. 
 
-As if this wasn't enough of an adrenaline rush, the road was the only road connecting many of the nearby towns, and so local traffic drove the roads with utmost confidence and speed, including trucks. 
+As if this wasn't enough of an adrenaline rush, the road was the only road connecting many of the nearby towns, and so local traffic drove with utmost confidence and speed, including trucks. 
 
 We were grateful for our small car and exhaled a sigh of relief that someone was in front of us at this particular pass!
 
@@ -102,7 +102,7 @@ Full disclosure, I am not a fan of tunnels, especially ones that...
 1. are so long you can’t see the end (the longest tunnel was 500m!)
 2. are in remote places
 
-But, the words played again in my head..."_We can't go over it. We can't go under it. Oh no! We've got to go through it!" _SO, through it we went.
+But, the words played again in my head..."_We can't go over it. We can't go under it. Oh no! We've got to go through it!_" SO, through it we went.
 
 ![pedestrian tunnel](/img/blog_balkan_petrovac-5x7-6481.jpg "pedestrian tunnel")
 
