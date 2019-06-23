@@ -12,7 +12,7 @@ tags:
 ---
 ## Our itinerary
 
-You can drive across the ENTIREty of Montenegro in less time than it takes to drive Toronto --> Ottawa, but man, there's a lot to experience. 
+You can drive across the ENTIREty of Montenegro in less time than it takes to drive Toronto -> Ottawa, but man, there's a lot to experience. 
 
 Here is a snapshot of our week in Montenegro.
 
@@ -36,7 +36,7 @@ In Montenegro we loved the contrast of mountains and beaches, in addition to the
 
 ## \#1 Having our own set of wheels
 
-Driving from Dubrovnik to Kotor, it felt like we were sixteen...again! Nothing a set of wheels to feel young and free! All of a sudden, transit days became (an enjoyable) part of the adventure - we could take detours, stop at beautiful viewpoints, and sing our hearts out with the windows down. (_Psssst...thanks Tim for making me feel like a pop star despite all my off-key moments!_) 
+Driving from Dubrovnik to Kotor, it felt like we were sixteen...again! Nothing like a set of wheels to feel young and free! All of a sudden, transit days became (an enjoyable) part of the adventure - we could take detours, stop at beautiful viewpoints, and sing our hearts out with the windows down. (_Psssst...thanks Tim for making me feel like a pop star despite my off-key moments!_) 
 
 ![road tripping in Montenegro](/img/blog_balkan_montenegro-5x7-6569.jpg "road tripping in Montenegro")
 
@@ -50,9 +50,9 @@ We started our hike by walking up the steps of the Kotor wall, which climb 200 m
 
 ![kotor wall](/img/blog_balkan_kotor-5x7-7259.jpg "kotor wall")
 
-From the San Giovanni castle, we looked East away from the bay, and could see the switchbacks of the ladder of Kotor climbing up the mountain. But, ALAS! ...there was a valley in between us and the trail! A favourite childhood song started looping on repeat in my head: “_We can't go over it. We can't go under it. Oh no! We've got to go through it!_” SO, back down the path we went. 
+From the San Giovanni castle, we looked East away from the bay, and could see the switchbacks of the ladder of Kotor climbing up the mountain. But, ALAS! There was a valley in between us and the trail! A favourite childhood song started looping on repeat in my head: “_We can't go over it. We can't go under it. Oh no! We've got to go through it!_” SO, back down the path we went. 
 
-A few hundred metres later, we spotted an opening in the wall. We poked a heads through to see if we could get any hints at where the trail might be. Low and behold, it turned out that the trail went through the hole in the wall!
+A few hundred metres later, we spotted an opening in the wall. We poked our heads through to see if we could get any hints at where the trail might be. Low and behold, it turned out it went through the hole in the wall!
 
 ![hole in wall](/img/blog_balkan_kotor-5x7-6435.jpg "hole in wall")
 
