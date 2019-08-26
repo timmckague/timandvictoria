@@ -36,7 +36,7 @@ To mark the anniversary of this trip of a lifetime, here are our **TOP TEN photo
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-2193.jpg "Akshayuk Pass, Nunavut, Canada")
 
-## \#3: More wildflowers along the Owl River
+## \#3: More wildflowers 
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1871.jpg "Akshayuk Pass, Nunavut, Canada")
 
@@ -44,7 +44,7 @@ To mark the anniversary of this trip of a lifetime, here are our **TOP TEN photo
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1857.jpg "Akshayuk Pass, Nunavut, Canada")
 
-## \#5: Smiling faces
+## \#5: Family shot
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1893.jpg "Akshayuk Pass, Nunavut, Canada")
 
