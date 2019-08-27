@@ -15,16 +15,17 @@ Today marks 1 year from when we completed our 100km traverse through Akshayuk Pa
 
 Eleven days after leaving the northern community of Qikiqtarjuaq, we reached the Nunavut flag marking the southern point of the 100km traverse. I recall feeling elated from the sense of accomplishment, relieved that we completed the trek with no medical emergencies, and excited at the prospect of a hot shower. 
 
-However, I also felt sadness from having to say goodbye to the place we had called home for the past 11 days. 
+However, I mostly felt a sense of sadness from having to say goodbye to the place we called home for the past 11 days.
 
 Goodbye to the majestic mountains.\
 Goodbye to the Penny Ice Cap and it numerous glaciers.\
 Goodbye to the rumbling moraines.\
 Goodbye to the gigantic mosquitoes.\
+Goodbye to the arctic hare and fox.\
 Goodbye to the punishing glacial river crossings. \
 Goodbye to the never sleeping sun.
 
-Although it was goodbye to the place, it wasn’t goodbye to the people that we had become in that place. We carried out with us our new sense of wonder, new challenges overcome, new memories made together, and a new appreciation for the small things (like a hot cup of tea!). 
+Although it was goodbye to the place, it wasn’t goodbye to the people we had become. We carried out with us our new sense of wonder, new challenges overcome, new memories made together, and a new appreciation for the small things (like a hot cup of tea!). 
 
 To mark the anniversary of this trip of a lifetime, here are our **TOP TEN photos from the trek** that show a glimpse of the beauty of the north. 
 
@@ -36,7 +37,7 @@ To mark the anniversary of this trip of a lifetime, here are our **TOP TEN photo
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-2193.jpg "Akshayuk Pass, Nunavut, Canada")
 
-## \#3: More wildflowers 
+## \#3: More wildflowers
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1871.jpg "Akshayuk Pass, Nunavut, Canada")
 
