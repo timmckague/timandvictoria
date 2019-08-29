@@ -29,6 +29,8 @@ Although it was goodbye to the place, it wasn’t goodbye to the people we had b
 
 To mark the anniversary of this trip of a lifetime, here are our **TOP TEN photos from the trek** that show a glimpse of the beauty of the north. 
 
+****
+
 **1. Setting out**
 
 We started our trek at the north end of the Pass, 2.5 hours by boat from the remote village of Qik. Over the next 11 days we would be traversing the entirety of the Akshayuk Pass, starting from the North Pangnirtung Ford. Few hikers attempt the full traverse, and so the northern section of the hike is less traveled, and as a result, has no worn path. 
@@ -37,7 +39,7 @@ The lack of path added to the uniqueness of the northern section of the hike - t
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-4137.jpg "Akshayuk Pass, Nunavut, Canada")
 
-****
+- - -
 
 **2. Wildflowers along the Owl River**
 
@@ -47,13 +49,13 @@ These wildflowers were a welcome sight! Not only were they beautiful and unexpec
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-2193.jpg "Akshayuk Pass, Nunavut, Canada")
 
-****
+- - -
 
 **3. More wildflowers**
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1871.jpg "Akshayuk Pass, Nunavut, Canada")
 
-****
+- - -
 
 **4. Vastness**
 
@@ -63,7 +65,7 @@ Despite the lack of path, navigation was easy through this Northern section of t
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1857.jpg "Akshayuk Pass, Nunavut, Canada")
 
-****
+- - -
 
 **5. Family shot**
 
@@ -71,7 +73,7 @@ From the smiles in this pic you wouldn’t guess how heavy our packs were! This 
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1893.jpg "Akshayuk Pass, Nunavut, Canada")
 
-****
+- - -
 
 **6. A windy day**
 
@@ -79,7 +81,7 @@ On our second day the wind came in and howled at us all day. It was so strong th
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1951.jpg "Akshayuk Pass, Nunavut, Canada")
 
-****
+- - -
 
 **7. Camp at the end of the Owl River**
 
@@ -91,19 +93,19 @@ We trudged back the 390m and set up camp in the sun amidst the mountains and arc
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-4238.jpg "Akshayuk Pass, Nunavut, Canada")
 
-****
+- - -
 
 **8. Leaving Summit Lake** 
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-4275.jpg "Akshayuk Pass, Nunavut, Canada")
 
-****
+- - -
 
 **9. Camping under the shadow of Thor**
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-4344.jpg "Akshayuk Pass, Nunavut, Canada")
 
-****
+- - -
 
 **10. Taking in the view**
 
