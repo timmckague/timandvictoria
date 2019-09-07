@@ -19,23 +19,22 @@ However, I mostly felt a sense of sadness from having to say goodbye to the plac
 
 Goodbye to the majestic mountains.\
 Goodbye to the Penny Ice Cap and it numerous glaciers.\
-Goodbye to the rumbling moraines.\
+Goodbye to the ice-cored moraines.\
 Goodbye to the gigantic mosquitoes.\
 Goodbye to the arctic hare and fox.\
 Goodbye to the punishing glacial river crossings. \
-Goodbye to the never sleeping sun.
+Goodbye to the never sleeping sun.\
+Goodbye Akshayuk Pass.
 
-Although it was goodbye to the place, it wasn’t goodbye to the people we had become. We carried out with us our new sense of wonder, new challenges overcome, new memories made together, and a new appreciation for the small things (like a hot cup of tea!). 
+Although it was goodbye to the place, it wasn’t goodbye to the people we had become. We carried out with us our garbage, but also our new sense of wonder, new challenges overcome, new memories made together, and a new appreciation for the small things (like a hot cup of tea!). 
 
 To mark the anniversary of this trip of a lifetime, here are our **TOP TEN photos from the trek** that show a glimpse of the beauty of the north. 
 
-****
+- - -
 
 **1. Setting out**
 
-We started our trek at the north end of the Pass, 2.5 hours by boat from the remote village of Qik. Over the next 11 days we would be traversing the entirety of the Akshayuk Pass, starting from the North Pangnirtung Ford. Few hikers attempt the full traverse, and so the northern section of the hike is less traveled, and as a result, has no worn path. 
-
-The lack of path added to the uniqueness of the northern section of the hike - there was an immense sense of remoteness and an untouched pristine beauty to the landscape. 
+We started our trek at the north end of the Pass, 2.5 hours and 85km by boat from the remote village of Qikiqtarjuaq. Few hikers attempt the full traverse, and so the northern section of the hike is less traveled, and as a result, has no worn path. The lack of path added to the uniqueness of the northern section of the hike - there was an immense sense of remoteness and an untouched pristine beauty to the landscape. 
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-4137.jpg "Akshayuk Pass, Nunavut, Canada")
 
@@ -59,9 +58,7 @@ These wildflowers were a welcome sight! Not only were they beautiful and unexpec
 
 **4. Vastness**
 
-The broad valley and lack of path are unique features to the Northern section of the pass. 
-
-Despite the lack of path, navigation was easy through this Northern section of the valley, sticking to the East bank of the Owl River. Four days later we would be crossing the Owl River and then following the Weasel River for the remainder of the trek. 
+One truly feels isolated in this Northern section of the pass with its broad valley and lack of path. Most of the peaks and glaciers are also unnamed over this 50km stretch, a contrast to the more travelled Southern section of the pass.
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1857.jpg "Akshayuk Pass, Nunavut, Canada")
 
@@ -69,7 +66,7 @@ Despite the lack of path, navigation was easy through this Northern section of t
 
 **5. Family shot**
 
-From the smiles in this pic you wouldn’t guess how heavy our packs were! This was from Day 1, meaning we had 13 days of food on our backs (this includes extra meals in case we were stuck longer than expected at river crossings waiting for water flow to slow). Our packs were so heavy these first few days that Campbell or Tim had to hoist our packs up for us and we would slip into them like stepping into a coat.
+From the smiles in this pic you wouldn’t guess how heavy our packs were! This was taken on Day 1, meaning we had 13 days of food on our backs (includes extra meals in case we were stuck longer than expected at river crossings waiting for water flow to slow). Our packs were so heavy these first few days that Campbell and Tim had to hoist our packs up for us and we would slip into them like stepping into a coat.
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1893.jpg "Akshayuk Pass, Nunavut, Canada")
 
@@ -77,7 +74,7 @@ From the smiles in this pic you wouldn’t guess how heavy our packs were! This 
 
 **6. A windy day**
 
-On our second day the wind came in and howled at us all day. It was so strong that we walked duck style to cut the wind, taking turns being lead bird. Silver lining of the strong winds? The mosquitoes took respite and we enjoyed some buzz free moments.
+On our second day the wind blew in and howled at us all day. It was so strong that we walked duck style to cut the wind, taking turns being lead bird. Silver lining of the strong winds? The mosquitoes took respite and we enjoyed some buzz free moments.
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-1951.jpg "Akshayuk Pass, Nunavut, Canada")
 
@@ -97,11 +94,19 @@ We trudged back the 390m and set up camp in the sun amidst the mountains and arc
 
 **8. Leaving Summit Lake** 
 
+Leaving Summit Lake, the pass becomes narrower and we found a small path that would guide us all the way to the Pangnirtung Ford. The mountains and glaciers in this section are dramatic, and named. 
+
+Breidablik Peak and the Weeping Glacier on the East bank (far left) was Campbell's favourite. Further ahead, behind the Weeping Glacier, you can see Thor and its sheer face.
+
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-4275.jpg "Akshayuk Pass, Nunavut, Canada")
 
 - - -
 
 **9. Camping under the shadow of Thor**
+
+Our seventh night in Akshayuk Pass we set up camp across the river from Mount Thor, which lays claim to the worlds greatest vertical drop of 1,250 meters. 
+
+It had been several days since we had felt sun, so we all enjoyed a sunny afternoon at camp with this stunning mountain backdrop. 
 
 ![Akshayuk Pass, Nunavut, Canada](/img/akshayuk-top10-4344.jpg "Akshayuk Pass, Nunavut, Canada")
 
