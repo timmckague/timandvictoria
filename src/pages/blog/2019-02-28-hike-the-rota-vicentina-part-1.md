@@ -97,8 +97,6 @@ The last 30 minutes before sunset was my favourite part of the day. We were stil
 
 ![Succulents at sunset](/img/blog_rotavicentina_day1-16x9-4496.jpg "Succulents at sunset")
 
-![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-5x7-6318.jpg "Sunset on the Fisherman's Trail")
-
 ![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-5x7-6355.jpg "Sunset on the Fisherman's Trail")
 
 ![Sunset on the Fisherman's Trail](/img/blog_rotavicentina_day1-16x9-6382.jpg "Sunset on the Fisherman's Trail")
