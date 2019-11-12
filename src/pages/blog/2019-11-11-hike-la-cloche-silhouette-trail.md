@@ -22,41 +22,69 @@ Route planning was tricky, as none of Killarney’s backcountry sites are availa
 
 We landed on the following route:
 
-Day
+<table style="width:100%">
 
-Campsite
+  <tr>
 
-Distance
+\    <th>Day</th>
 
-1 - oct 15 
+\    <th>Campsite</th> 
 
-H5
+\    <th>Distance</th>
 
-7km
+  </tr>
 
-2 - oct 16
+  <tr>
 
-H20
+\    <td>Day 1, October 15th</td>
 
-19km
+\    <td>H5</td>
 
-3 - oct 17
+\    <td>7 km</td>
 
-H33
+  </tr>
 
-14km
+  <tr>
 
-4 - oct 18
+\    <td>Day 2, October 16th</td>
 
-H38
+\    <td>H20</td>
 
-15km
+\    <td>19 km</td>
 
-5 - oct 19
+  </tr>
 
-Home
+  <tr>
 
-23km
+\    <td>Day 3, October 17th</td>
+
+\    <td>H33</td>
+
+\    <td>14 km</td>
+
+  </tr>
+
+  <tr>
+
+\    <td>Day 4, October 18th</td>
+
+\    <td>H38</td>
+
+\    <td>15 km</td>
+
+  </tr>
+
+  <tr>
+
+\    <td>Day 5, October 19th</td>
+
+\    <td>Home</td>
+
+\    <td>23 km</td>
+
+  </tr>
+
+</table>
 
 A note on the campsites we stayed at:
 
@@ -121,31 +149,25 @@ For us, the fewer the dishes the better, so we always use our pot just for boili
 
 Can’t forget about dessert! We packed two Lidnt chocolate bars to share between the two of us over the four nights.
 
-The Hike
+# The Hike
 
-Day 1 
+## Day 1 
 
-Start: 3:00pm from George Lake Campground
+**Start**: 3:00pm from George Lake Campground\
+**Finish**: 5:30pm at H5 campsite\
+**Distance**: 7km\
+**Weather**: Rained in the afternoon and evening
 
-Finish: 5:30pm at H5 campsite
-
-Distance: 7km
-
-Weather: Rained in the afternoon and evening
-
-We arrived at the park office shortly after 2pm to pay our final bill and buy ourselves the Killarney Backcountry Hiking and Canoe Map (https://www.friendsofkillarneypark.com/store/p63/Official_Killarney_Provincial_Park_Map.html#/). The trail starts and finishes at opposite ends of the campground. Given we had planned for a long last day, we parked the car at the Eastern end of the campground so that we wouldn’t have to walk the extra 20min through the campground on our final day. 
+We arrived at the park office shortly after 2pm to pay our final bill and buy ourselves the Killarney [Backcountry Hiking and Canoe Map](https://www.friendsofkillarneypark.com/store/p63/Official_Killarney_Provincial_Park_Map.html#/). The trail starts and finishes at opposite ends of the campground. Given we had planned for a long last day, we parked the car at the Eastern end of the campground so that we wouldn’t have to walk the extra 20min through the campground on our final day. 
 
 The 7km hike into camp was uneventful and relatively easy. The rain started an hour into our hike, but kindly let up while we ate our dinner. The rain picked up as we finished dinner and so we were quick to get into our dry tent and warm sleeping bags.
 
-Day 2
+## Day 2
 
-Start: 9:30am from H5 campsite
-
-Finish: 6:10pm at H20 campsite
-
-Distance: 19km 
-
-Weather: Rained steadily from 10:45am onwards, with a short 2hr reprise from 4 to 6
+**Start**: 9:30am from H5 campsite\
+**Finish**: 6:10pm at H20 campsite\
+**Distance**: 19km \
+**Weather**: Rained steadily from 10:45am onwards, with a short 2hr reprise from 4 to 6
 
 It was a grueling day. As we lay in bed at night listening to more rain, we asked ourselves “Why did we think this would be fun?” I pulled out my phone and put on “Take Me Home, Country Road”. There’s no sugar coating the day - it was really tough. We hiked for 8 hours and 40 minutes, most of it in the rain, without more than a few 5 minute stops in the cover of a tree to refuel with some food. The trail was a lot more challenging than expected because of the heavy rainfall the night before, and all day we were racing against the clock to get in before the sun set at 6:45.
 
@@ -169,15 +191,12 @@ The highlight of the day was hiking the section of the trail from H17 to H19. Th
 
 Fifteen minutes before arriving to camp the rain started up again. We were so close! The rain was steadily picking up so we quickly set up our tent and hopped in to get out of the rain and to warm up. We decided to skip dinner in favour of staying in our dry tent. Heavy rains and strong winds continued overnight.
 
-Day 3
+## Day 3
 
-Start: 10:00am from H20 campsite
-
-Finish: 6:20pm at H33 campsite
-
-Distance: 14km 
-
-Weather: Blue skies and sun!
+**Start**: 10:00am from H20 campsite\
+**Finish**: 6:20pm at H33 campsite\
+**Distance**: 14km \
+**Weather**: Blue skies and sun!
 
 Woke up at 7am thankful not to be hearing any pitter-patter overhead. It was rough putting on wet socks and soaking boots, but once we were on the trail and moving hedonic adaptation kicked in and we soon forgot about the wet feet.
 
@@ -185,7 +204,7 @@ That is until 15min later…
 
 ...When we come across a river that had no way to get across except wading through it. The cold water crossing itself wasn’t so bad, but having to put our wet socks and boots back on was the worst part.
 
-“That was not so bad, that was not so bad, was it?”
+_“That was not so bad, that was not so bad, was it?”_
 
 At this point in the trip we have this verse stuck on repeat in our heads from Blanco Brown’s song ‘Git Up’. Thankfully, we needed the song less and less as the day went on. The sun came out, and was so beautiful dappled through the orange and yellow leaves.
 
@@ -201,15 +220,12 @@ And then back up again we ascended for our final peak of the day. It felt magica
 
 Made it into camp with a few minutes to spare, and set up our tent in a grove of trees right by the water. As well fell asleep at night we could hear the waves gently lapping on the shore.
 
-Day 4
+## Day 4
 
-Start: 9:00am from H33 campsite
-
-Finish: 4:35pm at H38 campsite
-
-Distance: 15km 
-
-Weather: Another sunny day
+**Start**: 9:00am from H33 campsite\
+**Finish:** 4:35pm at H38 campsite\
+**Distance:** 15km \
+**Weather**: Another sunny day
 
 Today we were very intent on getting into camp earlier and having a roaring fire to dry out our boots (yes, they were still wet from day 2). With this in mind, we also thought it would be the perfect day to enjoy breakfast with the sunrise. We knew the sun rose just after 8am, and so we had our water boiled for quarter after eight. Despite the best intentions, we miscalculated how long it would take for the sun to get over surrounding hills to reach us.
 
@@ -223,15 +239,12 @@ After Silver Peak the trail was wide and easy for 1.5km, with enough room for us
 
 We made it to camp early as planned and had a perfect night by the fire. Brian and Chris, who started on the trail at the same time as us, and we had crossed paths with most days, were at the site across the lake, and it was magical and comforting to see the glow of their fire in the distance. The rock was smooth and flat enough by the fire that we saw shooting starts as we lay on our backs, stretching out our legs.
 
-Day 5
+## Day 5
 
-Start: 7:45am from H38 campsite
-
-Finish: 6:00pm at George Lake Campground
-
-Distance: 23km 
-
-Weather: More great hiking weather - blue skies and reached xx degrees
+**Start**: 7:45am from H38 campsite\
+**Finish**: 6:00pm at George Lake Campground\
+**Distance**: 23km \
+**Weather**: More great hiking weather - blue skies and reached xx degrees
 
 The previous night was the coldest of the trip, and it made for a cold morning packup. When I retrieved the Bear Vault, I discovered it covered in frost.
 
