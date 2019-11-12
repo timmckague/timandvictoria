@@ -262,4 +262,4 @@ A note for future trips: if you can stay at site 48 or 49, before reaching ‘Th
 
 We really picked up our pace the last 6km, which were flat and easy, and made it to the car 40min before sunset. The road leaving the park was riddled with car-wrecking potholes, and so were happy to drive most of it in the light.
 
-We enjoyed a celebratory McDonalds dinner in Parry Sound, and after a few more hours of driving home to Toronto, we thoroughly enjoyed a great night’s sleep in the warmth of our home and on our mattress.
+We enjoyed a celebratory McDonalds dinner in Parry Sound, and after a few more hours of driving home to Toronto, we thoroughly enjoyed a night’s sleep in the warmth of our home and on our mattress.
