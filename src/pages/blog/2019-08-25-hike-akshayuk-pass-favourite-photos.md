@@ -13,20 +13,7 @@ tags:
 ---
 Today marks 1 year from when we completed our 100km traverse through Akshayuk Pass in Auyuittuq National Park, Nunavut, Canada. 
 
-Eleven days after leaving the northern community of Qikiqtarjuaq, we reached the Nunavut flag marking the southern point of the 100km traverse. I recall feeling elated from the sense of accomplishment, relieved that we completed the trek with no medical emergencies, and excited at the prospect of a hot shower. 
-
-However, I mostly felt a sense of sadness from having to say goodbye to the place we called home for the past 11 days.
-
-Goodbye to the majestic mountains.\
-Goodbye to the Penny Ice Cap and it numerous glaciers.\
-Goodbye to the ice-cored moraines.\
-Goodbye to the gigantic mosquitoes.\
-Goodbye to the arctic hare and fox.\
-Goodbye to the punishing glacial river crossings. \
-Goodbye to the never sleeping sun.\
-Goodbye Akshayuk Pass.
-
-Although it was goodbye to the place, it wasn’t goodbye to the people we had become. We carried out with us our garbage, but also our new sense of wonder, new challenges overcome, new memories made together, and a new appreciation for the small things (like a hot cup of tea!). 
+Eleven days after leaving the northern community of Qikiqtarjuaq, we reached the Nunavut flag marking the southern point of the 100km traverse. 
 
 To mark the anniversary of this trip of a lifetime, here are our **TOP TEN photos from the trek** that show a glimpse of the beauty of the north. 
 
