@@ -279,4 +279,4 @@ We really picked up our pace the last 6km, which were flat and easy, and made it
 
 ![la cloche silhouette trail](/img/blog_killarney_day5-0424.jpg "la cloche silhouette trail")
 
-We enjoyed a celebratory McDonalds dinner in Parry Sound, and after a few more hours of driving home to Toronto, we thoroughly enjoyed a night’s sleep in the warmth of our home and on our mattress.
+We had a celebratory McDonalds dinner in Parry Sound, and after a few more hours of driving home to Toronto, had a restful night’s sleep in the warmth and comfort of home.
