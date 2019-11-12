@@ -162,9 +162,7 @@ Challenge #4: Half way between H8 and H16 we encountered a beaver dam and lost t
 
 _“That was not so bad, that was not so bad, was it?”_
 
-At this point in the trip we have this verse stuck on repeat in our heads from Blanco Brown’s song ‘Git Up’. 
-
-<iframe width="100%" height="315" align="centre" src="https://www.youtube.com/embed/DT4kQlM5xuE?start=155" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+At this point in the trip we have this verse stuck on repeat in our heads from [Blanco Brown’s song ‘Git Up’](https://youtu.be/DT4kQlM5xuE). This mantra kept us going through every bog, hill, and river.
 
 The highlight of the day was hiking the section of the trail from H17 to H19. The trail ascended to a ridge and we hiked along the steep bank of Three Narrows Lake, giving us our first real views of the hike. The rain let up for most of this section, and with only 5km remaining, we started to feel that we might actually make it to camp before nightfall. No pictures to show for it though - we were really boogieing!
 
