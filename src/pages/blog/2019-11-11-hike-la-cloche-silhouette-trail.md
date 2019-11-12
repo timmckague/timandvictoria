@@ -16,7 +16,7 @@ To celebrate our one year anniversary Tim and I headed into the backcountry in K
 
 The park suggests planning for 7-10 days to complete the 80km loop, and online reading had informed me that while possible in less, more days was highly recommended for an enjoyable time. Despite knowing this, we booked ourselves in for 4 nights on the trail, figuring that with the cold weather we would prefer to boogie.
 
-<insert map> 
+![killarney map](/img/blog_killarney_map.jpg "killarney map")
 
 Route planning was tricky, as none of Killarney’s backcountry sites are available for booking online. I found the most effective way was to call and ask for every available site on the loop in my date range, and then off the phone figure out the optimal permutation of sites given the availability. To help with this process, I created this [spreadsheet](https://docs.google.com/spreadsheets/d/1sT876Z3gmJCQzdunJOvdLAf1E91MmGOP7nb3IMI4iYM/edit?usp=sharing) to more easily calculate the distances between sites.
 
