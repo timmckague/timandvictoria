@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Hike La Cloche Silhouette Trail
 date: 2019-10-29T00:37:25.877Z
-description: 80km of fall beauty in Ontario’s Killarney Provincial Park
+description: 80km and 5 days of Fall beauty in Ontario’s Killarney Provincial Park
 heroImage: /img/blog_killarney_day3-0113.jpg
 tags:
   - hike
@@ -160,6 +160,12 @@ By the time we reached campsite H8 (7km of 19km done), I was exhausted. The rain
 
 Challenge #4: Half way between H8 and H16 we encountered a beaver dam and lost the trail. We ended up crossing a little south of the trail along the lower ridge of the dam. It’s likely that this would have been an easier crossing at other times, but the rain meant I had a close call as a leapt with my pack across the mid-section of the dam.
 
+_“That was not so bad, that was not so bad, was it?”_
+
+At this point in the trip we have this verse stuck on repeat in our heads from Blanco Brown’s song ‘Git Up’. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DT4kQlM5xuE?start=155" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The highlight of the day was hiking the section of the trail from H17 to H19. The trail ascended to a ridge and we hiked along the steep bank of Three Narrows Lake, giving us our first real views of the hike. The rain let up for most of this section, and with only 5km remaining, we started to feel that we might actually make it to camp before nightfall. No pictures to show for it though - we were really boogieing!
 
 Fifteen minutes before arriving to camp the rain started up again. We were so close! The rain was steadily picking up so we quickly set up our tent and hopped in to get out of the rain and to warm up. We decided to skip dinner in favour of staying in our dry tent. Heavy rains and strong winds continued overnight.
@@ -181,7 +187,7 @@ That is until 15min later…
 
 _“That was not so bad, that was not so bad, was it?”_
 
-At this point in the trip we have this verse stuck on repeat in our heads from Blanco Brown’s song ‘Git Up’. Thankfully, we needed the song less and less as the day went on. The sun came out, and was so beautiful dappled through the orange and yellow leaves.
+Thankfully, we needed the song less and less as the day went on. The sun came out, and was so beautiful dappled through the orange and yellow leaves.
 
 ![la cloche silhouette trail](/img/blog_killarney_day3-9039.jpg "la cloche silhouette trail")
 
@@ -191,7 +197,7 @@ The map warned us having to ascend a waterfall 5km into our day, but for once, t
 
 ![la cloche silhouette trail](/img/blog_killarney_day3-6516.jpg "la cloche silhouette trail")
 
-Eight kilometres into the day we ascended another peak and were rewarded with a vista overlooking Three Narrows Lake. The sun felt so good that we took off our boots and enjoyed the view for the better part of an hour. By the time we laced our boots back up, we were racing against the clock again to make it in before light. 
+Eight kilometres into the day we ascended another peak and were rewarded with a vista overlooking Three Narrows Lake. The sun felt so good that we took off our boots and enjoyed the view for the better part of an hour. By the time we laced our boots back up, we were racing against the clock again to make it in before light!
 
 ![la cloche silhouette trail](/img/blog_killarney_day3-9070.jpg "la cloche silhouette trail")
 
