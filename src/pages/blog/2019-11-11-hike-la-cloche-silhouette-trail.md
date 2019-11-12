@@ -26,7 +26,7 @@ We landed on the following route:
 
   <tr>
 
-\    <th>Day</th>
+   <th>Day</th>
 
 \    <th>Campsite</th> 
 
@@ -151,7 +151,7 @@ Can’t forget about dessert! We packed two Lidnt chocolate bars to share betwee
 
 # The Hike
 
-## Day 1 
+## Day 1
 
 **Start**: 3:00pm from George Lake Campground\
 **Finish**: 5:30pm at H5 campsite\
