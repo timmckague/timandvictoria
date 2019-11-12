@@ -199,11 +199,11 @@ We remained at a higher elevation for another couple kilometres, enjoying a few 
 
 ![la cloche silhouette trail](/img/blog_killarney_day3-0058.jpg "la cloche silhouette trail")
 
+![la cloche silhouette trail](/img/blog_killarney_day3-0091.jpg "la cloche silhouette trail")
+
 ![la cloche silhouette trail](/img/blog_killarney_day3-0074.jpg "la cloche silhouette trail")
 
 ![la cloche silhouette trail](/img/blog_killarney_day3-0648.jpg "la cloche silhouette trail")
-
-![la cloche silhouette trail](/img/blog_killarney_day3-0091.jpg "la cloche silhouette trail")
 
 And then back up again we ascended for our final peak of the day. It felt magical being on the peak with the sun low on the horizon.
 
@@ -271,6 +271,12 @@ Although it was a grueling day distance-wise, I was glad we were hiking all the 
 
 A note for future trips: if you can stay at site 48 or 49, before reaching ‘The Crack’, it would have nicely broken up the 23km day.
 
+![la cloche silhouette trail](/img/blog_killarney_day5-6569.jpg "la cloche silhouette trail")
+
+![la cloche silhouette trail](/img/blog_killarney_day5-6571.jpg "la cloche silhouette trail")
+
 We really picked up our pace the last 6km, which were flat and easy, and made it to the car 40min before sunset. The road leaving the park was riddled with car-wrecking potholes, and so were happy to drive most of it in the light.
+
+![la cloche silhouette trail](/img/blog_killarney_day5-0424.jpg "la cloche silhouette trail")
 
 We enjoyed a celebratory McDonalds dinner in Parry Sound, and after a few more hours of driving home to Toronto, we thoroughly enjoyed a night’s sleep in the warmth of our home and on our mattress.
