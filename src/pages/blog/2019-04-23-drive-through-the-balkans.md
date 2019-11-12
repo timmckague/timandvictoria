@@ -52,7 +52,7 @@ So, we thought, "_What if we rent a car and head a little more off the beaten pa
 
 We’ll fill you in on some of the details in future posts, but for now, hopefully this overview gives you a flavour of the trip.
 
-<div style="display:flex;justify-content:center;width:100%;">
+<div style="display:flex;justify-content:center;width:100%;height:480px;">
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1wrbDQd3fuWRsEXLTHKSiK0dEUU6UBNwN" width="640" height="480"></iframe>
 

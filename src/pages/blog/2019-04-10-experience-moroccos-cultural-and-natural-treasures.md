@@ -29,7 +29,7 @@ Over the following two weeks, Tim, Grace and I experienced Morocco - it’s peop
 4. Days 10-13: M'Hamid and Erg Chigaga (3 nights)
 5. Days 13-15: Casablanca (2 nights)
 
-<div style="display:flex;justify-content:center;width:100%;">
+<div style="display:flex;justify-content:center;width:100%;height:480px;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1495.8855501348721!2d-7.911492462743314!3d31.140116156047753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C+Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C+Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C+Morocco!3m2!1d31.6294723!2d-7.9810845!4m5!1s0xdb00e5efec05a9d%3A0x965e72a7f152f377!2sImlil%2C+Morocco!3m2!1d31.137744899999998!2d-7.9197941!4m5!1s0xdb00cfde4f96ed1%3A0x7934f4c42445d7f9!2sToubkal%2C+Morocco!3m2!1d31.060071899999997!2d-7.9147482!4m5!1s0xdb00e5efec05a9d%3A0x965e72a7f152f377!2sImlil%2C+Morocco!3m2!1d31.137744899999998!2d-7.9197941!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C+Morocco!3m2!1d31.6294723!2d-7.9810845!4m5!1s0xdbe62978e766f85%3A0xf9f632f826725240!2sMhamid%2C+Morocco!3m2!1d29.8257743!2d-5.7234007!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C+Morocco!3m2!1d31.6294723!2d-7.9810845!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C+Morocco!3m2!1d33.5731104!2d-7.5898433999999995!5e0!3m2!1sen!2sba!4v1554812168073!5m2!1sen!2sba" width="100%" height="450" frameborder="0" style="border:0;display:block;max-width:600px;" align="middle" allowfullscreen></iframe>
 </div>
 

@@ -24,7 +24,7 @@ Here is a snapshot of our week in Montenegro.
 * Day 6: Planned to hike Bobotov Kuk, but instead watched the rain and sleet from our window in Zabljak
 * Day 7: Drove through a harrowing canyon on our way to Bosnia
 
-<div style="display:flex;justify-content:center;width:100%;">
+<div style="display:flex;justify-content:center;width:100%;height:480px;">
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1H6YFZ9szU6xVzWgb1AXmy6pQK9yKOysJ" width="640" height="480"></iframe>
 
