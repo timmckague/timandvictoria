@@ -146,11 +146,15 @@ The morning started out fine enough. Despite having poured rained all night, we 
 
 Challenge #1: Within 10min of hiking we encountered our first boggy mess of the day, and it turned out it wasn’t the last. The forest floor had completely flooded with the previous night’s rain. I veered deep into the woods trying to get around it, but to no avail. As we made our way through the day we discovered the trail was more bog or river than trail, but we were none the wiser at this point in the day and so went to great lengths to try and keep our boots dry.
 
+![la cloche silhouette trail](/img/blog_killarney_day2-0255.jpg "la cloche silhouette trail")
+
 Mid morning we met two girls who had started out the same time as us the day before. They were calling it quits and going home. I remember saying to Tim, “after all the planning and preparation this hike required, I can’t imagine calling it quits after one night!”. By the afternoon I was thinking those girls were really smart.  
 
 Challenge #2: At 10:30 we arrived at a river that had no way over by rock or log skipping, and at its shallowest it appeared to be knee deep. So, off our boots came (and pants for me), and across the river we waded. It wasn’t challenging to cross, just unexpected and time-consuming changing in and out of our boots.
 
 Challenge #3: Between The Pool and The Three Narrows there is a 1.3km portage called “The Pig Portage”. Despite its incline, I think I would have enjoyed this section of the trail the day prior as it is a wide path and has relatively even footing. However, with the heavy rainfall the trail had become a gushing river, in both directions. We spent most of the portage bushwhacking through the woods or carefully balancing on the edge of the trail.
+
+![la cloche silhouette trail](/img/blog_killarney_day2-9888.jpg "la cloche silhouette trail")
 
 By the time we reached campsite H8 (7km of 19km done), I was exhausted. The rain had made the trail a lot more challenging than expected, and was also getting my spirits down. We were both seriously doubting whether we could make it to our campsite by nightfall.
 
@@ -173,19 +177,37 @@ That is until 15min later…
 
 ...When we come across a river that had no way to get across except wading through it. The cold water crossing itself wasn’t so bad, but having to put our wet socks and boots back on was the worst part.
 
+![la cloche silhouette trail](/img/blog_killarney_day3-9965.jpg "la cloche silhouette trail")
+
 _“That was not so bad, that was not so bad, was it?”_
 
 At this point in the trip we have this verse stuck on repeat in our heads from Blanco Brown’s song ‘Git Up’. Thankfully, we needed the song less and less as the day went on. The sun came out, and was so beautiful dappled through the orange and yellow leaves.
 
+![la cloche silhouette trail](/img/blog_killarney_day3-9039.jpg "la cloche silhouette trail")
+
 The map warned us having to ascend a waterfall 5km into our day, but for once, the task was easier than expected. It helped that Tim hoisted my pack up for me, allowing me to take a route that kept me dry.
 
-Eight kilometres into the day we ascended another peak and were rewarded with a vista overlooking Three Narrows Lake. The sun felt so good that we took off our boots and enjoyed the view for the better part of an hour. 
+![la cloche silhouette trail](/img/blog_killarney_day3-0017.jpg "la cloche silhouette trail")
 
-By the time we laced our boots back up, we were racing against the clock again to make it in before light. 
+![la cloche silhouette trail](/img/blog_killarney_day3-6516.jpg "la cloche silhouette trail")
+
+Eight kilometres into the day we ascended another peak and were rewarded with a vista overlooking Three Narrows Lake. The sun felt so good that we took off our boots and enjoyed the view for the better part of an hour. By the time we laced our boots back up, we were racing against the clock again to make it in before light. 
+
+![la cloche silhouette trail](/img/blog_killarney_day3-9070.jpg "la cloche silhouette trail")
 
 We remained at a higher elevation for another couple kilometres, enjoying a few more vistas, before descending into the forest for a brief moment. The wooded forest brought its own unique beauty and contrast to the vastness from the peaks.
 
+![la cloche silhouette trail](/img/blog_killarney_day3-0058.jpg "la cloche silhouette trail")
+
+![la cloche silhouette trail](/img/blog_killarney_day3-0074.jpg "la cloche silhouette trail")
+
+![la cloche silhouette trail](/img/blog_killarney_day3-0648.jpg "la cloche silhouette trail")
+
+![la cloche silhouette trail](/img/blog_killarney_day3-0091.jpg "la cloche silhouette trail")
+
 And then back up again we ascended for our final peak of the day. It felt magical being on the peak with the sun low on the horizon.
+
+![la cloche silhouette trail](/img/blog_killarney_day3-6535.jpg "la cloche silhouette trail")
 
 Made it into camp with a few minutes to spare, and set up our tent in a grove of trees right by the water. As well fell asleep at night we could hear the waves gently lapping on the shore.
 
@@ -198,15 +220,27 @@ Made it into camp with a few minutes to spare, and set up our tent in a grove of
 
 Today we were very intent on getting into camp earlier and having a roaring fire to dry out our boots (yes, they were still wet from day 2). With this in mind, we also thought it would be the perfect day to enjoy breakfast with the sunrise. We knew the sun rose just after 8am, and so we had our water boiled for quarter after eight. Despite the best intentions, we miscalculated how long it would take for the sun to get over surrounding hills to reach us.
 
+![la cloche silhouette trail](/img/blog_killarney_day4-0145.jpg "la cloche silhouette trail")
+
 The sun finally poured through as we were strapping on our packs at 9:00am. We had a small summit to tackle first thing in the morning, which gave us a view back to our breakfast rock. I loved how the sun lit up the hills across from us.
+
+![la cloche silhouette trail](/img/blog_killarney_day4-9113.jpg "la cloche silhouette trail")
 
 Early afternoon we reached the split off for Silver Peak, a 4km round trip to the highest peak in the area. The path goes up and back the same way, so we left our packs at the base of the trail and summitted light and free as a bird. 
 
 Despite the incline, we flew up the mountain without our packs weighing us down. How wonderful it felt!
 
+![la cloche silhouette trail](/img/blog_killarney_day4-9167.jpg "la cloche silhouette trail")
+
+![la cloche silhouette trail](/img/blog_killarney_day4-6554.jpg "la cloche silhouette trail")
+
 After Silver Peak the trail was wide and easy for 1.5km, with enough room for us to walk side by side. It was a welcome change from scrambling the peaks, or root skipping through the boggy forest!
 
+![la cloche silhouette trail](/img/blog_killarney_day4-0185.jpg "la cloche silhouette trail")
+
 We made it to camp early as planned and had a perfect night by the fire. Brian and Chris, who started on the trail at the same time as us, and we had crossed paths with most days, were at the site across the lake, and it was magical and comforting to see the glow of their fire in the distance. The rock was smooth and flat enough by the fire that we saw shooting starts as we lay on our backs, stretching out our legs.
+
+![la cloche silhouette trail](/img/blog_killarney_day4-9187.jpg "la cloche silhouette trail")
 
 ## Day 5
 
@@ -219,11 +253,19 @@ The previous night was the coldest of the trip, and it made for a cold morning p
 
 With 23km to cover, and only 10.5 hours of daylight, we knew we had to get on the trail ASAP, so we packed up in the dark and hit the trail at 7:45, as soon as there was enough pre-sunrise light to see the way. 
 
+![la cloche silhouette trail](/img/blog_killarney_day5-9201.jpg "la cloche silhouette trail")
+
 The day proved to be mentally challenging. The weather was perfect, and our boots had mostly dried by the fire, but the knowledge of the distance we had to cover is what made the day so hard. I’m not sure if it was just my mental state, but it also felt like a challenging day due to the number of small summits we had to ascend and descend.
 
 My favourite part of the day was the first 14km from Silver Lake to the Crack. The viewpoints felt endless, and we remained in quiet peacefulness, only seeing 3 other hikers. 
 
+![la cloche silhouette trail](/img/blog_killarney_day5-0362.jpg "la cloche silhouette trail")
+
+![la cloche silhouette trail](/img/blog_killarney_day5-0405.jpg "la cloche silhouette trail")
+
 We could hear the ‘The Crack’ before we could see it - there must have been 40 people at the lookout, enjoying the beautiful Fall Saturday. After 3 full days of solitude it was a contrast seeing so many people.
+
+![la cloche silhouette trail](/img/blog_killarney_day5-0413.jpg "la cloche silhouette trail")
 
 Although it was a grueling day distance-wise, I was glad we were hiking all the way out after reaching ‘The Crack’. Once we’d been re-acclimatized to people, a little of the backcountry magic disappeared, and it felt like a natural end to the trip.
 
