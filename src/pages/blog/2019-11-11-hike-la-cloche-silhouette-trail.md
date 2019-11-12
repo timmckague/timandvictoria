@@ -23,67 +23,36 @@ Route planning was tricky, as none of Killarney’s backcountry sites are availa
 We landed on the following route:
 
 <table style="width:100%">
-
-  <tr>
-
-   <th>Day</th>
-
-\    <th>Campsite</th> 
-
-\    <th>Distance</th>
-
-  </tr>
-
-  <tr>
-
-\    <td>Day 1, October 15th</td>
-
-\    <td>H5</td>
-
-\    <td>7 km</td>
-
-  </tr>
-
-  <tr>
-
-\    <td>Day 2, October 16th</td>
-
-\    <td>H20</td>
-
-\    <td>19 km</td>
-
-  </tr>
-
-  <tr>
-
-\    <td>Day 3, October 17th</td>
-
-\    <td>H33</td>
-
-\    <td>14 km</td>
-
-  </tr>
-
-  <tr>
-
-\    <td>Day 4, October 18th</td>
-
-\    <td>H38</td>
-
-\    <td>15 km</td>
-
-  </tr>
-
-  <tr>
-
-\    <td>Day 5, October 19th</td>
-
-\    <td>Home</td>
-
-\    <td>23 km</td>
-
-  </tr>
-
+<tr>
+<th>Day</th>
+<th>Campsite</th> 
+<th>Distance</th>
+</tr>
+<tr>
+<td>Day 1, October 15th</td>
+<td>H5</td>
+<td>7 km</td>
+</tr>
+<tr>
+<td>Day 2, October 16th</td>
+<td>H20</td>
+<td>19 km</td>
+</tr>
+<tr>
+<td>Day 3, October 17th</td>
+<td>H33</td>
+<td>14 km</td>
+</tr>
+<tr>
+<td>Day 4, October 18th</td>
+<td>H38</td>
+<td>15 km</td>
+</tr>
+<tr>
+<td>Day 5, October 19th</td>
+<td>Home</td>
+<td>23 km</td>
+</tr>
 </table>
 
 A note on the campsites we stayed at:
