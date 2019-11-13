@@ -251,7 +251,7 @@ We made it to camp early as planned and had a perfect night by the fire. Brian a
 **Start**: 7:45am from H38 campsite\
 **Finish**: 6:00pm at George Lake Campground\
 **Distance**: 23km \
-**Weather**: More great hiking weather - blue skies and reached xx degrees
+**Weather**: More great hiking weather - blue skies and reached 10 degrees by the afternoon
 
 The previous night was the coldest of the trip, and it made for a cold morning packup. When I retrieved the Bear Vault, I discovered it covered in frost.
 
