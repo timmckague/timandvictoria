@@ -84,7 +84,7 @@ For breakfast on our last morning we packed a granola bar and 2 aussie bites to 
 
 We are big fans of simplicity, so packed the same thing for lunch each day. We also like having a more snacky lunch so that we don’t have to have a big stop if we don’t feel like it. The following is what we each rationed per day:
 
-* 2 Aussie Bites (from Costco)
+* 2 Aussie Bites
 * 1 large pepperette
 * ¼ cup trail mix
 * 1 babybel cheese
