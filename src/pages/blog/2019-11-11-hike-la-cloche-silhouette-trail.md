@@ -9,6 +9,7 @@ tags:
   - canada
   - ontario
   - killarney provincial park
+  - la cloche silhouette trail
 ---
 To celebrate our one year anniversary Tim and I headed into the backcountry in Killarney Provincial Park, Ontario. Over five days in the middle of October we covered 80km on the La Cloche Silhouette Trail, a loop trail that goes up and over Killarney’s many peaks and around its numerous pristine lakes. Heavy rainfall early in the hike made for a couple challenging days and moments of questioning why we thought this was a good way to celebrate our anniversary. However, the sun eventually came out, and with it our spirits lifted and we remembered why we enjoy backcountry hiking.
 
@@ -222,7 +223,7 @@ Made it into camp with a few minutes to spare, and set up our tent in a grove of
 **Distance:** 15km \
 **Weather**: Another sunny day
 
-Today we were very intent on getting into camp earlier and having a roaring fire to dry out our boots (yes, they were still wet from day 2). With this in mind, we also thought it would be the perfect day to enjoy breakfast with the sunrise. We knew the sun rose just after 8am, and so we had our water boiled for quarter after eight. Despite the best intentions, we miscalculated how long it would take for the sun to get over surrounding hills to reach us.
+Today we were very intent on getting into camp earlier and having a roaring fire to dry out our boots (yes, they were still wet from day 2). With this in mind, we also thought it would be the perfect day to enjoy breakfast with the sunrise. We knew the sun rose just after 8am, and so we had our water boiled for quarter after eight. Despite the best intentions, we miscalculated how long it would take for the sun to get over the surrounding hills to reach us.
 
 ![la cloche silhouette trail](/img/blog_killarney_day4-0145.jpg "la cloche silhouette trail")
 
