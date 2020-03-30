@@ -67,6 +67,8 @@ We’ll fill you in on some of the details in future posts, but for now, hopeful
 * Petrovac
 * Zabljak and Durmitor National Park
 
+Read more about our highlights from Montenegro in our post [here](https://www.timandvictoria.com/blog/2019-06-18-drive-through-the-balkans-montenegro/).
+
 ![kotor bay](/img/blog_balkan_montenegro-5x7-6430.jpg "kotor bay")
 
 **Days 7-13: Bosnia and Herzegovina**
