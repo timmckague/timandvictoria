@@ -28,7 +28,7 @@ Many great moments came to mind…
 
 Tim doesn’t have much confidence in his memory of the specifics...“_Other than what you remind me about, I don’t think I’ll remember many specific events 20 years from now._”
 
-What he thinks will stick with him though is how we both **_felt_** on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
+What he thinks will stick with him though is how we both _**felt**_ on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
 
 What he said reminded me of a quote I had read:
 
@@ -66,6 +66,8 @@ We’ll fill you in on some of the details in future posts, but for now, hopeful
 * Lovcen National Park
 * Petrovac
 * Zabljak and Durmitor National Park
+
+Read more about our highlights from Montenegro in our post [here](https://www.timandvictoria.com/blog/2019-06-18-drive-through-the-balkans-montenegro/).
 
 ![kotor bay](/img/blog_balkan_montenegro-5x7-6430.jpg "kotor bay")
 
