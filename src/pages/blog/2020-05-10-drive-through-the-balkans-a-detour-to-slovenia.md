@@ -27,7 +27,7 @@ We L-O-V-E-D Slovenia. It’s capital city was charming, it’s mountains stunni
 
 <div style="display:flex;justify-content:center;width:100%;height:480px;">
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1E_j5GC8w2NjpOM2m_xRmBMBvWxnLqoah&amp;z=15" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1E_j5GC8w2NjpOM2m_xRmBMBvWxnLqoah" width="640" height="480"></iframe>
 
 </div>
 
