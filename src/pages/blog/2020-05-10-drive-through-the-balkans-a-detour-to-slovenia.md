@@ -121,9 +121,9 @@ We parked at the highest point on pass, at 1,600 metres, in a lot near the Tiča
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-12-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
-Given we didn’t have much in terms of winter hiking equipment (no crampons or poles), and we were in an unknown area, we didn’t have much appetite to continue trying to go further into the mountains with the snow. Satisfied that at least we had given it a half-hearted attempt and made it to a summit (albeit mostly by car), we made the short hike back down the trail and hopped back in our car and descended down the other side of the pass to the village of Trenta in search of the park office for some information on a good afternoon hike. More on our afternoon hike below.
+Given we didn’t have any winter hiking equipment and we were in an unknown area, we didn’t have much appetite to continue trying to go further into the mountains with the snow. Satisfied that at least we had given it a half-hearted attempt and made it to a summit (albeit mostly by car), we made the short hike back down the trail and hopped back in our car and descended down the other side of the pass to the village of Trenta in search of the park office for some information on a good afternoon hike. More on our afternoon hike below.
 
-Following our afternoon hike we picked up some cold Radlers at the convenience store in Trenta. Radlers seemed to be a thing in Slovenia, and we were embracing them fully. We drove a few kilometres West along the Soca river where we had spotted a pull over and some picnic tables by the river. Another tasty picnic with the sounds of the Socca river in the background.
+Following our afternoon hike we picked up some cold radlers at the convenience store in Trenta. Radlers seemed to be a thing in Slovenia, and we were embracing them fully. We drove a few kilometres West along the Soca river where we had spotted a pull over and some picnic tables by the river. Another tasty picnic with the sounds of the Socca river in the background.
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-27-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
