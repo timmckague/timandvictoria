@@ -15,6 +15,8 @@ tags:
 ---
 ## Our Itinerary
 
+We L-O-V-E-D Slovenia. It’s capital city was charming, it’s mountains stunning, and it’s people welcoming. This is a snapshot of our week in Slovenia:
+
 * Day 1: Drive from Zagreb to Ljubljana
 * Day 2: Explore Ljubljana
 * Day 3: More exploring Ljubljana
@@ -31,9 +33,7 @@ tags:
 
 <br>
 
-We L-O-V-E-D Slovenia. It’s capital city was charming, it’s mountains stunning, and it’s people welcoming. 
-
-Here are our favourite memories from Slovenia.
+Without further ado, here are our favourite memories from Slovenia.
 
 ## City livin’ in Ljubljana
 
@@ -49,11 +49,13 @@ Both mornings in Ljubljana started with a run in the city’s North end, around 
 
 We also took advantage of the outdoor workout park outside our building. If truth be told I didn’t get much of a workout in as there was a dog at the park with a ball that insisted I play with it, which was pretty awesome.
 
+![Drive through the Balkans: a Detour to Slovenia](/img/blog_slovenia-2-of-29.jpeg "Drive through the Balkans: a Detour to Slovenia")
+
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-3-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
 After our usual muesli breakfast/brunch, we saddled into our host’s spare bikes and made the short 15min ride into the city centre. The rest of the day was spent walking through the car-free streets, and taking lengthy breaks for coffee, beer, dinner, dessert and post-dinner wine. 
 
-We started our time in the city the same way we usually do in a new city, which was searching for a good local cup of coffee. Tim had done his homework and so we navigated our way to Črno Zrno. The coffee was A-M-A-Z-I-N-G, and the vibe was pretty great too. We enjoyed talking with Alexander, owner and barista, about his passion for coffee and interestingly an architect by trade. His love of coffee and architecture came together beautifully in his shop. We made sure to return to his shop the next day.
+We started our time in the city the same way we usually do in a new city, which was searching for a good local cup of coffee. Tim had done his homework and so we navigated our way to Črno Zrno. The coffee was A-M-A-Z-I-N-G, and the vibe was pretty great too. We enjoyed talking with Alexander, owner and barista, about his passion for coffee and interestingly an architect by trade. His love of coffee and architecture came together beautifully in his shop. We made sure to return the next day.
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-9-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
@@ -61,7 +63,7 @@ Freshly fueled with caffeine we walked along the peaceful Ljubljanica river.
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-4-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
-We checked our clocks, and it’s now just past 2pm, so time to try a pint of craft beer, and some time out of the sun. Lajbah, a joint serving craft beers, turned into our haunt for the rest of the afternoon. We spent a couple hours working and another hour or soaking up the sun over another tasty brew and enjoying the river view and a board game.
+We checked our clocks, and it’s now just past 2pm..time to try a pint of craft beer! Lajbah, a joint serving craft beers, turned into our haunt for the rest of the afternoon. We spent a couple hours working and another hour or so soaking up the sun over another tasty brew and enjoying the river view and a board game.
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-6-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
