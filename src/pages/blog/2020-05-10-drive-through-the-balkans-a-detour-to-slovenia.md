@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Drive through the Balkans: a Detour to Slovenia'
 date: 2019-06-28T13:15:00.000Z
-description: A walking-friendly capital and an impressive mountain range
+description: A walking-friendly capital and impressive mountain range
 heroImage: /img/blog_balkan_slovenia-5x7-7584.jpg
 tags:
   - balkans
