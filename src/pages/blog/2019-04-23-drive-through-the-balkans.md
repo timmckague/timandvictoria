@@ -60,7 +60,7 @@ Below is the itinerary for our month long road trip through Montenegro, Bosnia, 
 
 - - -
 
-**Days 1-7: Montenegro**
+## **Days 1-7: Montenegro**
 
 * Kotor Bay
 * Lovcen National Park
@@ -71,7 +71,7 @@ Read more about our highlights from Montenegro in our post [here](https://www.ti
 
 ![kotor bay](/img/blog_balkan_montenegro-5x7-6430.jpg "kotor bay")
 
-**Days 7-13: Bosnia and Herzegovina**
+## **Days 7-13: Bosnia and Herzegovina**
 
 * Sarajevo
 * Travnik
@@ -82,13 +82,13 @@ Read more about our highlights from Montenegro in our post [here](https://www.ti
 
 ![sarajevo 1984 olympic bobsled track](/img/blog_balkan_bosnia-16x9-6935.jpg "sarajevo 1984 olympic bobsled track")
 
-**Days 13-16: Croatia**
+## **Days 13-16: Croatia**
 
 * Zagreb
 
 ![zagreb](/img/blog_balkan_zagreb-5x7-7502.jpg "zagreb")
 
-**Days 16-23, Slovenia**
+## **Days 16-23, Slovenia**
 
 * Ljubljana
 * Triglav National Park
@@ -99,7 +99,7 @@ You can read more about our adventures in Slovenia [here](https://www.timandvict
 
 ![triglav national park](/img/blog_balkan_slovenia-5x7-7584.jpg "triglav national park")
 
-**Days 23-28:Croatia**
+## **Days 23-28:Croatia**
 
 * Krk
 * Plitvice National Park
