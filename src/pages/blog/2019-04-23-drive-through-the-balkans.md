@@ -28,7 +28,7 @@ Many great moments came to mind…
 
 Tim doesn’t have much confidence in his memory of the specifics...“_Other than what you remind me about, I don’t think I’ll remember many specific events 20 years from now._”
 
-What he thinks will stick with him though is how we both **_felt_** on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
+What he thinks will stick with him though is how we both _**felt**_ on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
 
 What he said reminded me of a quote I had read:
 
@@ -60,7 +60,7 @@ Below is the itinerary for our month long road trip through Montenegro, Bosnia, 
 
 - - -
 
-**Days 1-7: Montenegro**
+## **Days 1-7: Montenegro**
 
 * Kotor Bay
 * Lovcen National Park
@@ -71,7 +71,7 @@ Read more about our highlights from Montenegro in our post [here](https://www.ti
 
 ![kotor bay](/img/blog_balkan_montenegro-5x7-6430.jpg "kotor bay")
 
-**Days 7-13: Bosnia and Herzegovina**
+## **Days 7-13: Bosnia and Herzegovina**
 
 * Sarajevo
 * Travnik
@@ -82,13 +82,13 @@ Read more about our highlights from Montenegro in our post [here](https://www.ti
 
 ![sarajevo 1984 olympic bobsled track](/img/blog_balkan_bosnia-16x9-6935.jpg "sarajevo 1984 olympic bobsled track")
 
-**Days 13-16: Croatia**
+## **Days 13-16: Croatia**
 
 * Zagreb
 
 ![zagreb](/img/blog_balkan_zagreb-5x7-7502.jpg "zagreb")
 
-**Days 16-23, Slovenia**
+## **Days 16-23, Slovenia**
 
 * Ljubljana
 * Triglav National Park
@@ -99,7 +99,7 @@ You can read more about our adventures in Slovenia [here](https://www.timandvict
 
 ![triglav national park](/img/blog_balkan_slovenia-5x7-7584.jpg "triglav national park")
 
-**Days 23-28:Croatia**
+## **Days 23-28:Croatia**
 
 * Krk
 * Plitvice National Park
