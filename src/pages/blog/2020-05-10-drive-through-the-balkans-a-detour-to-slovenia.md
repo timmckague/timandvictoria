@@ -173,4 +173,6 @@ As we made our way south, the road progressively got smaller and smaller until w
 
 ![Drive through the Balkans: Detour to Slovenia](/img/calendar-6039.jpg "Drive through the Balkans: Detour to Slovenia")
 
-Stores and restaurants were all closed because it was Easter Sunday, so we were very grateful our host offered to make us dinner. Over dinner and homemade vodka we talked and talked into the night, soaking up the moment, the kindness of strangers, and savouring these last magical moments of the trip.
+Stores and restaurants were all closed because it was Easter Sunday, so we were very grateful our host offered to make us dinner. Over dinner and wine we talked and talked into the night, soaking up the moment, the kindness of strangers, and savouring these last magical moments of the trip. 
+
+It was over this dinner that Tim asked "Ten or twenty years from now, what do you think you will remember about this trip?" You can read about that, and an overview of our month long roadtrip through the Balkans [here](https://www.timandvictoria.com/blog/2019-04-23-drive-through-the-balkans/).
