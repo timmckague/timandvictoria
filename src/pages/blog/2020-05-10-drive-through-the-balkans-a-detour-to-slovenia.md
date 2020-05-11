@@ -73,7 +73,7 @@ I had been taking Laurie Santos’ [The Science of Well Being](https://www.cours
 
 > “Even these random \[social connections] are going to help us out more than we think. And so, as you leave here, talk to the people on the street, talk to the people that are around you. It will make you and them happier than you expect.”  - Laurie Santos, Science of Well Being course
 
-I highly recommend Santos’ podcast, The Happiness Lab. In [Season 1 Episode 4 Mistakenly Seeking Solitude](https://www.happinesslab.fm/season-1-episodes/mistakenly-seeking-solitude), Santos shares the science of how talking to strangers makes us happy. Even if you are reluctant to talk to a stranger, you and the stranger get a happiness boost after talking to each other. This certainly rang true with our interactions with Alexander and Klemintina.
+I highly recommend Santos’ podcast, The Happiness Lab. In [Season 1 Episode 4 Mistakenly Seeking Solitude](https://www.happinesslab.fm/season-1-episodes/mistakenly-seeking-solitude), Santos talks about how even if you are reluctant to talk to a stranger, you and the stranger get a happiness boost after talking to each other. This certainly rang true with our interactions with Alexander and Klemintina.
 
 **Day 2 in Ljublana**
 
@@ -91,9 +91,7 @@ I always enjoy views out over cities, and after having spent the previous day ex
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-8-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
-For our second coffee of the day we went to Stow. The coffee at Črno Zrno was better, but we really enjoyed the bright and tranquil working space at Stow. The coffee shop is inside a museum, and the seating area is in a glassed area of what used to be an inner courtyard. 
-
-As much as we love the traditional balkan cevapi, at this point in our Balkan road trip we have eaten A LOT of it, and are therefore taking advantage of the non-cevapi options available in the city’s capital. For lunch we gorged on a burger and Fanny and Mary on the cobblestone street by the river, and for dinner we enjoyed take-out pad thai in Congress Square park.
+As much as we love the traditional balkan cevapi, at this point in our Balkan road trip we have eaten A LOT of it, and are therefore taking advantage of the non-cevapi options available in the city’s capital. For lunch we gorged on a burger at Fanny and Mary by the river, and for dinner we enjoyed take-out pad thai in Congress Square park.
 
 After two laid-back days hanging out in the city’s beautiful car-free centre, we were craving more time! But, the mountains were calling, so we continued on our journey, despite the fun time we were having in Ljubljana. They say that’s the best time to leave the party, right?
 
@@ -117,7 +115,7 @@ I later looked up the specs on the car, and to put it in comparison, my sister�
 
 It was Good Friday, and had we been back home, we would have continued a tradition we started many years back of hiking with friends, usually followed by a beer stop on the return journey (and if we were really lucky we would get a pre-hike breakfast with Tim’s sister’s family). We couldn’t have breakfast with the Bennett’s, but we figured we could still continue with the hiking part of the tradition!
 
-We parked at the highest point on pass, at 1,600 metres, in a lot near the Tičar Lodge on the Vršič Pass. We were again foiled by the amount of snow still in the peaks (this had caught us off guard in Montenegro). Nonetheless, we set out for a very short 3km hike to Vršič peak and enjoyed our picnic lunch on the trail with mountain views in every direction. 
+We parked at the highest point of the pass, at 1,600 metres, in a lot near the Tičar Lodge on the Vršič Pass. We were again foiled by the amount of snow still in the peaks (this had caught us off guard in Montenegro). Nonetheless, we set out for a very short 3km hike to Vršič peak and enjoyed our picnic lunch on the trail with mountain views in every direction. 
 
 ![](/img/blog_slovenia-10-of-29.jpeg)
 
@@ -147,7 +145,7 @@ Our dinner picnic we enjoyed at Lake Jasna, a man-made lake complete with a dock
 
 ## Hiking the Soca Trail
 
-After rather unsuccessfully attempting to hike in the peaks of Triglav National Park, we descended through the pass to the small town of Trenta, in hunt of a suitable Good Friday hike. The woman in the park office recommended the Soca trail, which end-to-end is a 25km trail that follows the Soca trail from the start of the river towards the town of Bovec. 
+After rather unsuccessfully attempting to hike in the peaks of Triglav National Park, we descended through the pass to the small town of Trenta, in hunt of a suitable Good Friday hike. The woman in the park office recommended the Soca trail, which end-to-end is a 25km trail that follows the Soca river from its start towards the town of Bovec. 
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-28-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
@@ -161,15 +159,17 @@ We hiked a small section from Trenta towards Bovec, covering 4km of the trail, 8
 
 ## Easter hospitality
 
-We spent the majority of Easter weekend in Darijo’s converted family home in the small village of Doslovče. The place was set up with half the house converted into a guest house, and the rest remaining as the family’s home. We had initially only booked two nights at Dario’s home, but extended to a third, and boy are we glad we did! 
+We spent the majority of Easter weekend in Darijo’s converted family home in the small village of Doslovče. We had initially only booked two nights at Dario’s home, but extended to a third, and boy are we glad we did! 
 
 Our hosts had texted us Saturday night (our final night at their home) to come to the kitchen at 9am the next morning for a surprise. All night we were curious to find out what the surprise would be! And what a lovely surprise it was - they had prepared a traditional Slovenian Easter breakfast for us! Decorated eggs, ham, horseradish and homemade potica (traditional Slovenian festive sweet bread with a nut filling). Dario’s daughter taught us an Easter game that she and her family have played since she was young, and we enjoyed conversation with the two other couples spending Easter at Dario’s home. We felt grateful to be a part of a family’s Easter celebration and traditions.
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-23-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
-After a filling breakfast, we packed up and hit the road for the small town of Sabjone, our final night in Slovenia. On route we visited Predjama castle, a medieval castle built into a rock cliff. Despite usually skipping the museum-like stops, we were pleasantly surprised by how much we enjoyed the visit. 
+After a filling breakfast, we packed up and hit the road for the small town of Sabjone, our final destination in Slovenia. On route we visited Predjama castle, a medieval castle built into a rock cliff. Despite usually skipping the museum-like stops, we were pleasantly surprised by how much we enjoyed the visit. 
 
-As we made our way south, the road progressively got smaller and smaller until we arrived at our lodgings, the last building in town. We were greeted with warmth from our hosts, as well as afternoon refreshments served on the terrace in the sun. The view from our terrace was stunning, with rolling hills, some lakes below, and towns dotted throughout. We played rummy over our welcome drinks and snacks, and then went for a walk down the farm road. Enjoyed the sun, the company, and the tranquility.
+As we made our way south, the road progressively got smaller and smaller until we arrived at our lodgings, the last building in town. We thought Doslovče was small, but Sabjone was even smaller - wikipedia says it has a population of 80 people. We were greeted with warmth from our hosts, as well as afternoon refreshments served on the terrace in the sun. The view from our terrace was stunning, with rolling hills, some lakes below, and towns dotted throughout. We played rummy over our welcome drinks and snacks, and then went for a walk down the single track farm road. Enjoyed the sun, the company, and the tranquility.
+
+![](/img/blog_slovenia-24-of-29.jpeg)
 
 ![Drive through the Balkans: Detour to Slovenia](/img/calendar-6039.jpg "Drive through the Balkans: Detour to Slovenia")
 
