@@ -28,7 +28,7 @@ Many great moments came to mind…
 
 Tim doesn’t have much confidence in his memory of the specifics...“_Other than what you remind me about, I don’t think I’ll remember many specific events 20 years from now._”
 
-What he thinks will stick with him though is how we both **_felt_** on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
+What he thinks will stick with him though is how we both _**felt**_ on the trip - totally care-free, open-minded, present in the here and now, and sharing and enjoying the experience together.
 
 What he said reminded me of a quote I had read:
 
@@ -50,7 +50,7 @@ So, we thought, "_What if we rent a car and head a little more off the beaten pa
 
 ## The Plan
 
-We’ll fill you in on some of the details in future posts, but for now, hopefully this overview gives you a flavour of the trip.
+Below is the itinerary for our month long road trip through Montenegro, Bosnia, Slovenia and Croatia.
 
 <div style="display:flex;justify-content:center;width:100%;height:480px;">
 
@@ -94,6 +94,8 @@ Read more about our highlights from Montenegro in our post [here](https://www.ti
 * Triglav National Park
 * Predjama Castle
 * Sabonje
+
+You can read more about our adventures in Slovenia [here](https://www.timandvictoria.com/blog/2020-05-10-drive-through-the-balkans-a-detour-to-slovenia/).
 
 ![triglav national park](/img/blog_balkan_slovenia-5x7-7584.jpg "triglav national park")
 
