@@ -33,11 +33,11 @@ We L-O-V-E-D Slovenia. Its capital city was charming, its mountains stunning, an
 
 <br>
 
-Without further ado, here is a retelling of our time in Slovenia.
+Without further ado, here are our highlights from our time in Slovenia.
 
 ## City livin’ in Ljubljana
 
-Have you ever been in a city that is full of cars, and traffic? If you love cities like that, avoid Ljubljana. In 2007 the city made it’s historic centre car-free. Strolling through the cobblestone streets along the Ljubljanica river we couldn’t help but indulge in the simultaneously laid back vibe that was mixed with a twist of city buzz. Picture the scene: cafes line the pedestrian street with tables set up with views of the river, trees are starting to come into bloom, and you hear a happy thrum of chitter chatter as you walk on by taking it all in. As visitors, Ljubljana’s city centre struck that balance between being beautiful and welcoming to visitors, but still a place that local residents liked to head to for a night out. 
+Have you ever been in a city that is full of cars and traffic? If you love cities like that, avoid Ljubljana. In 2007, the city made it’s historic centre car-free. Strolling through the cobblestone streets along the Ljubljanica river we couldn’t help but indulge in the simultaneously laid back vibe that was mixed with a twist of city buzz. Picture the scene: cafes line the pedestrian street with tables set up with views of the river, trees are starting to come into bloom, and you hear a happy thrum of chitter chatter as you walk on by taking it all in. As visitors, Ljubljana’s city centre struck that balance between being beautiful and welcoming to visitors, but still a place that local residents liked to head to for a night out. 
 
 We’d been to a car-free city centre earlier in our Balkans trip (ahem Dubrovnick), and did not enjoy the experience. Dubrovnick’s old town felt contrived and Disney-land like. When there were no cruise ships docked its old town was deserted and a ghost town, but then was rammed when the ships were in. Other than both having car-free centres, we were delighted that Ljubljana couldn’t have been more different.  
 
