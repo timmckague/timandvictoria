@@ -33,7 +33,7 @@ We L-O-V-E-D Slovenia. Its capital city was charming, its mountains stunning, an
 
 <br>
 
-Without further ado, here is a retelling of our time in Slovenia.
+Without further ado, here are our highlights from our time in Slovenia.
 
 ## City livin’ in Ljubljana
 
