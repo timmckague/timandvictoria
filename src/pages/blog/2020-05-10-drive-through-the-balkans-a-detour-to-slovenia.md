@@ -159,9 +159,9 @@ We hiked a small section from Trenta towards Bovec, covering 4km of the trail, 8
 
 ## Easter hospitality
 
-We spent the majority of Easter weekend in Darijo’s converted family home in the small village of Doslovče. We had initially only booked two nights at Dario’s home, but extended to a third, and boy are we glad we did! 
+We spent the majority of Easter weekend in Darijo’s converted family home in the small village of Doslovče. We had initially only booked two nights at Darijo’s home, but extended to a third, and boy are we glad we did! 
 
-Our hosts had texted us Saturday night (our final night at their home) to come to the kitchen at 9am the next morning for a surprise. All night we were curious to find out what the surprise would be! And what a lovely surprise it was - they had prepared a traditional Slovenian Easter breakfast for us! A traditional Easter breakfast in Slovenia includes decorated eggs, ham, horseradish and homemade potica (traditional Slovenian festive sweet bread with a nut filling). Dario’s daughter taught us an Easter game that she and her family have played since she was young, and we enjoyed conversation with the two other couples spending Easter at Dario’s home. We felt grateful to be a part of a family’s Easter celebration and traditions.
+Our hosts had texted us Saturday night (our final night at their home) to come to the kitchen at 9am the next morning for a surprise. All night we were curious to find out what the surprise would be! And what a lovely surprise it was - they had prepared a traditional Slovenian Easter breakfast for us! A traditional Easter breakfast in Slovenia includes decorated eggs, ham, horseradish and homemade potica (traditional Slovenian festive sweet bread with a nut filling). Darijo’s daughter taught us an Easter game that she and her family have played since she was young, and we enjoyed conversation with the two other couples spending Easter at Darijo’s home. We felt grateful to be a part of a family’s Easter celebration and traditions.
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-23-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
