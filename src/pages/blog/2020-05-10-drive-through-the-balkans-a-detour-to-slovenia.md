@@ -18,8 +18,8 @@ tags:
 We L-O-V-E-D Slovenia. It’s capital city was charming, it’s mountains stunning, and it’s people welcoming. This is a snapshot of our week in Slovenia:
 
 * Day 1: Drive from Zagreb to Ljubljana
-* Day 2: Explore Ljubljana
-* Day 3: More exploring Ljubljana
+* Day 2: Explore Ljubljana, Slovenia's captial city
+* Day 3: More exploring in Ljubljana
 * Day 4: Picnic at Bled Lake and walk around Lake Bohinj in Triglav National Park
 * Day 5: Hike in Triglav National Park
 * Day 6: More hiking in Triglav National Park
@@ -173,4 +173,4 @@ As we made our way south, the road progressively got smaller and smaller until w
 
 ![Drive through the Balkans: Detour to Slovenia](/img/calendar-6039.jpg "Drive through the Balkans: Detour to Slovenia")
 
-Stores were all closed because it was Easter, and so our host very kindly offered to make us dinner. We talked and talked into the night, soaking up the moment, the kindness of strangers, and savouring these last magical moments of the trip.
+Stores and restaurants were all closed because it was Easter Sunday, so we were very grateful our host offered to make us dinner. Over dinner and homemade vodka we talked and talked into the night, soaking up the moment, the kindness of strangers, and savouring these last magical moments of the trip.
