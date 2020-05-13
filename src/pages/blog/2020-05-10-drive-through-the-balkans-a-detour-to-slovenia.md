@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Drive through the Balkans: a Detour to Slovenia'
+title: 'Drive through the Balkans: a detour to Slovenia'
 date: 2019-06-28T13:15:00.000Z
 description: Experience a walking-friendly capital and impressive mountain range
 heroImage: /img/blog_balkan_slovenia-5x7-7584.jpg
