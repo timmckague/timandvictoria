@@ -37,25 +37,25 @@ Without further ado, here are our highlights from our time in Slovenia.
 
 ## City livin’ in Ljubljana
 
-Have you ever been in a city that is full of cars and traffic? If you love cities like that, avoid Ljubljana. In 2007, the city made it’s historic centre car-free. Strolling through the cobblestone streets along the Ljubljanica river we couldn’t help but indulge in the simultaneously laid back vibe that was mixed with a twist of city buzz. Picture the scene: cafes line the pedestrian street with tables set up with views of the river, trees are starting to come into bloom, and you hear a happy thrum of chitter chatter as you walk on by taking it all in. As visitors, Ljubljana’s city centre struck that balance between being beautiful and welcoming to visitors, but still a place that local residents liked to head to for a night out. 
+Have you ever been in a city that is full of cars and traffic? If you love cities like that, avoid Ljubljana. In 2007, the city made its historic centre car-free. Strolling through the cobblestone streets along the Ljubljanica river we couldn’t help but indulge in the simultaneously laid back vibe that was mixed with a twist of city buzz. Picture the scene: cafes line the pedestrian street with tables set up with views of the river, trees are starting to come into bloom, and you hear a happy thrum of chitter chatter as you walk on by taking it all in. Ljubljana’s city centre struck that balance between being beautiful and welcoming to visitors, but still a place that locals frequented for a night out. 
 
-We’d been to a car-free city centre earlier in our Balkans trip (ahem Dubrovnick), and did not enjoy the experience. Dubrovnick’s old town felt contrived and Disney-land like. When there were no cruise ships docked its old town was deserted and a ghost town, but then was rammed when the ships were in. Other than both having car-free centres, we were delighted that Ljubljana couldn’t have been more different.  
+We’d been to a car-free city centre earlier in our Balkans trip (ahem Dubrovnick), and did not enjoy the experience. Dubrovnick’s old town felt contrived and Disney-land like. When there were no cruise ships docked, its old town was a ghost town, but then was jammed when the ships were in. We were delighted that Ljubljana couldn’t have been more different.  
 
 **Day 1 in Ljubljana**
 
-Both mornings in Ljubljana we started with a run in the city’s North end, around the Zale cemetery and through its surrounding open fields. 
+Both mornings in Ljubljana started with a run in the city’s North end, around the Zale cemetery and through its surrounding open fields. 
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-1-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
-We also took advantage of the outdoor workout park outside our building. If truth be told, I didn’t get much of a workout in as there was a dog at the park with a ball that insisted I play with it, which was pretty awesome.
+We also took advantage of the outdoor workout park outside our building. If truth be told, I didn’t get much of a workout, as I was a sucker for this little guy wanting a friend to play ball with him. Pretty paw-some :)
 
 ![Drive through the Balkans: a Detour to Slovenia](/img/blog_slovenia-2-of-29.jpeg "Drive through the Balkans: a Detour to Slovenia")
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-3-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
-After our usual muesli breakfast/brunch, we saddled into our host’s spare bikes and made the short 15min ride into the city centre. The rest of the day we spent walking through the car-free streets, and taking lengthy breaks for food and drinks. 
+After our usual muesli brunch, we saddled into our host’s spare bikes and made the short 15min ride into the city centre. The rest of the day was spent walking through the car-free streets, and taking lengthy breaks for food and drinks. 
 
-We started our time in the city the same way we usually do in a new city, which was searching for a good local cup of coffee. Tim had done his homework and so we navigated our way to Črno Zrno. The coffee was deeeeelicious. We enjoyed talking with Alexander, owner and barista, about his passion for coffee and interestingly an architect by trade. His love of coffee and architecture came together beautifully in his shop. We made sure to return the next day.
+We started our time in the city the same way we usually do in a new city, which was searching for a good local cup of coffee. Tim had done his homework and so we navigated our way to [Črno Zrno](https://www.crnozrno.com/). The coffee was deeeeelicious. We enjoyed talking with Alexander, owner and barista, about his passion for coffee and hist original trade, architecture. His love of coffee and architecture came together beautifully in his shop. We made sure to return the next day.
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-9-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
@@ -67,9 +67,9 @@ We checked our clocks, and it was now just past 2pm...beer o'clock! Lajbah, a cr
 
 ![Drive through the Balkans: Detour to Slovenia](/img/blog_slovenia-6-of-29.jpeg "Drive through the Balkans: Detour to Slovenia")
 
-For dinner we followed Alexander’s (owner of this morning’s coffee shop) recommendation, and went to El Patron, a small 6-seater restaurant serving tacos. With cozy seating, we struck up a conversation with our seat-mate Klementina. The conversation continued as we finished our tacos, and we ended up grabbing gelato together. 
+For dinner we followed Alexander’s (owner of this morning’s coffee shop) recommendation, and went to El Patron, a small 6-seater restaurant serving tacos. With cozy seating, we struck up a conversation with our seat-mate, Klementina. The conversation continued as we finished our tacos, and we ended up grabbing gelato together. 
 
-I had been taking Laurie Santos’ [The Science of Well Being](https://www.coursera.org/learn/the-science-of-well-being) course (offered free through Coursera), and in the course she talks about how social connections increase happiness, and maybe somewhat surprisingly, even connections with strangers. 
+I had been taking Laurie Santos’ [The Science of Well Being](https://www.coursera.org/learn/the-science-of-well-being) course (offered free through Coursera), and in the course she talks about how social connections increase happiness; surprisingly, this includes connections with strangers!
 
 > “Even these random \[social connections] are going to help us out more than we think. And so, as you leave here, talk to the people on the street, talk to the people that are around you. It will make you and them happier than you expect.”  - Laurie Santos, Science of Well Being course
 
@@ -159,7 +159,7 @@ We hiked a small section from Trenta towards Bovec, covering 4km of the trail, 8
 
 ## Easter hospitality
 
-We spent the majority of Easter weekend in Darijo’s converted family home in the small village of Doslovče. We had initially only booked two nights at Darijo’s home, but extended to a third, and boy are we glad we did! 
+We spent the majority of Easter weekend in Darijo’s converted family home in the small village of Doslovče. We had initially only booked two nights, but extended to a third, and boy are we glad we did! 
 
 Our hosts had texted us Saturday night (our final night at their home) to come to the kitchen at 9am the next morning for a surprise. All night we were curious to find out what the surprise would be! And what a lovely surprise it was - they had prepared a traditional Slovenian Easter breakfast for us! A traditional Easter breakfast in Slovenia includes decorated eggs, ham, horseradish and homemade potica (traditional Slovenian festive sweet bread with a nut filling). Darijo’s daughter taught us an Easter game that she and her family have played since she was young, and we enjoyed conversation with the two other couples spending Easter at Darijo’s home. We felt grateful to be a part of a family’s Easter celebration and traditions.
 
