@@ -76,7 +76,7 @@ Ending town: Odeceixe\
 Distance hiked: 19km\
 Trail time: 10:30 to 16:00
 
-We woke up before 8am to the sun pouring into our hostel room. Tim was quick to pack up and head to the kitchen…by the time I got downstairs, there was cup of freshly brewed coffee and an orange peeled for me (feeling fuzzy here reminiscing about these favourite smells and how lucky I am).
+We woke up before 8am to the sun pouring into our hostel room. Tim was quick to pack up and head to the kitchen…by the time I got downstairs, there was cup of freshly brewed coffee and an orange peeled for me (feeling warm and fuzzy here reminiscing about these favourite smells and how lucky I am).
 
 There were two other guests at the hostel that night, and we enjoyed chatting with them over our morning coffee. We said our goodbyes, made a quick stop into a shop for a morning croissant, and then were on our way. 
 
