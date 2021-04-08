@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Hike Akshayuk Pass: Favourite Pics'
 date: 2019-08-09T02:05:11.477Z
-description: 10 photos to inspire a visit to Auyuittuq National Park
+description: 10 photos to inspire a visit to Auyuittuq National Park on Baffin Island
 heroImage: /img/akshayuk-top10-4275.jpg
 tags:
   - hike
