@@ -19,7 +19,9 @@ The park suggests planning for 7-10 days to complete the 80km loop, and online r
 
 ![killarney map](/img/blog_killarney_map.jpg "killarney map")
 
-Route planning was tricky, as none of Killarney’s backcountry sites are available for booking online. I found the most effective way was to call and ask for every available site on the loop in my date range, and then off the phone figure out the optimal permutation of sites given the availability. To help with this process, I created this [spreadsheet](https://docs.google.com/spreadsheets/d/1sT876Z3gmJCQzdunJOvdLAf1E91MmGOP7nb3IMI4iYM/edit?usp=sharing) to more easily calculate the distances between sites.
+Route planning was tricky, particularly because Killarney’s backcountry sites are not available for online bookings. This meant that I had to call and ask for every available site on the loop in my date range (and my date range was large because of limited site availability!), and then off the phone figure out the optimal permutation of sites given the availability. To help with this process, I created this [spreadsheet](https://docs.google.com/spreadsheets/d/1sT876Z3gmJCQzdunJOvdLAf1E91MmGOP7nb3IMI4iYM/edit?usp=sharing) to more easily calculate the distances between sites.
+
+\*\*Update: as of 2020 Killarney backcountry sites are now available for booking through the Ontario Parks online reservation system\*\* 
 
 We landed on the following route:
 
